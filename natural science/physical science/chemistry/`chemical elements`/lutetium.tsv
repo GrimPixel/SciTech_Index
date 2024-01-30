@@ -1,4 +1,4 @@
-locale	concept	prerequisite
+	locale	concept	prerequisite
 arb-Arab-ZZ		
 cmn-Hans-CN		
 cmn-Latn-CN		
@@ -22,4 +22,4 @@ rus-Cyrl-RU
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		
-zxx-Zsym-ZZ	Lu
+zxx-Zsym-ZZ	"Lu"	
