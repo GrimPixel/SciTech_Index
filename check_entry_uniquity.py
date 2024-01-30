@@ -15,7 +15,7 @@ for s_file_path in glob(f'{top_path}/**/*.tsv', recursive=True):
 		else:
 			if s_line.endswith('\t'*3):
 				continue
-		if s_line.startswith('zxx-Zsym-ZZ'):
+		if s_line.startswith('zxx-Zmth-ZZ'):
 			continue
 		lls_all_nonempty_line.append([s_line, s_file_path])
 

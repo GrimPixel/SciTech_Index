@@ -26,6 +26,7 @@ for s_file_name in glob(f'{top_path}/**/*.tsv', recursive=True):
 		s_locale_code, s_locale_concept, s_locale_prerequisite = s_line.split('\t')
 		d_locale_entry[s_locale_code] = [s_locale_concept, s_locale_prerequisite]
 	dd_all_locale_entry_by_file_path[s_file_name] = d_locale_entry
+print(dd_all_locale_entry_by_file_path)
 
 '''
 d_all_entry_line_by_subject = {}

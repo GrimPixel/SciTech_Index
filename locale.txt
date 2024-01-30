@@ -21,4 +21,4 @@ rus-Cyrl-RU
 swe-Latn-SE
 spa-Latn-ES
 tur-Latn-TR
-zxx-Zsym-ZZ
+zxx-Zmth-ZZ
