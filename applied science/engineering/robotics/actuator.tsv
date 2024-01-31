@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	操动件、促动器、驱动器、驱动件、执行机构、执行器、致动器	
-cmn-Latn-CN	cāodòng jiàn, cùdòng qì, qūdòng qì, qūdòng jiàn, zhíxíng jīgòu, zhíxíng qì, zhìdòng qì	
+cmn-Hans-CN	促动器、操动件、驱动件、驱动器、致动器、执行机构、执行器	
+cmn-Latn-CN	cùdòng qì, cāodòng jiàn, qūdòng jiàn, qūdòng qì, zhìdòng qì, zhíxíng jīgòu, zhíxíng qì	
 dan-Latn-DK		
 deu-Latn-DE	Aktor, Aktuator	
 eng-Latn-US	actuator	

@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	实质条件	
-cmn-Latn-CN	shízhì tiáojiàn	
+cmn-Hans-CN	实质条件	逻辑联结词、逻辑运算符
+cmn-Latn-CN	shízhì tiáojiàn	luóji liánjié cí, luóji yùnsuàn fú
 dan-Latn-DK		
-deu-Latn-DE	Konditional [m], Subjunktion, materiale Implikation	
+deu-Latn-DE	Konditional [m], Subjunktion, materiale Implikation	Logische Verknüpfung
 eng-Latn-US	material conditional, material implication	logical connective, logical operator, sentential connective, sentential operator
 fin-Latn-FI		
-fra-Latn-FR	conditionnel, implication matérielle	
+fra-Latn-FR	conditionnel, implication matérielle	connecteur [m] logique
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	ろんりほうがん	
-jpn-Jpan-JP	論理包含	
+jpn-Hrkt-JP	ろんりほうがん	ろんりえんざんし、ろんりけつごうし
+jpn-Jpan-JP	論理包含	論理演算子、論理結合子
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	имплика́ция	
+rus-Cyrl-RU	имплика́ция	логи́ческая свя́зка, логи́ческий опера́тор, пропозициона́льная свя́зка
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

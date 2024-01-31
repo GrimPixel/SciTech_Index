@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	最小公倍数	
-cmn-Latn-CN	zuìxiǎo gōngbèishù	
-dan-Latn-DK		
-deu-Latn-DE	kleinste gemeinsame Vielfache	
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	最小公倍数	除法；整数
+cmn-Latn-CN	zuìxiǎo gōngbèishù	chú fǎ; zhěng shù
+dan-Latn-DK		; 
+deu-Latn-DE	kleinste gemeinsame Vielfache	Division; Ganzzahl [f], ganze Zahl
 eng-Latn-US	least common multiple, lowest common multiple	division; integer
-fin-Latn-FI		
-fra-Latn-FR	plus petit commun multiple, plus petit multiple commun	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	さいしょうこうばいすう	
-jpn-Jpan-JP	最小公倍数	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU	наиме́ньшее о́бщее кра́тное	
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; 
+fra-Latn-FR	plus petit commun multiple, plus petit multiple commun	division; enti
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	さいしょうこうばいすう	じょざん、じょほう、わりざん; せいすう
+jpn-Jpan-JP	最小公倍数	除算、除法、割り算；整数
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU	наиме́ньшее о́бщее кра́тное	деле́ние; це́лое число́
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
 zxx-Zmth-ZZ		

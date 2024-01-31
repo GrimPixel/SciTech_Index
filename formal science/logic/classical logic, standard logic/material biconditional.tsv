@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	双条件	
-cmn-Latn-CN	shuāng tiáojiàn	
+cmn-Hans-CN	双条件	逻辑联结词、逻辑运算符
+cmn-Latn-CN	shuāng tiáojiàn	luóji liánjié cí, luóji yùnsuàn fú
 dan-Latn-DK		
-deu-Latn-DE	Bikonditional [n]	
+deu-Latn-DE	Bikonditional [n]	Logische Verknüpfung
 eng-Latn-US	material biconditional	logical connective, logical operator, sentential connective, sentential operator
 fin-Latn-FI		
-fra-Latn-FR	biconditionnel, biconditionnel matériel	
+fra-Latn-FR	biconditionnel, biconditionnel matériel	connecteur [m] logique
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP		
-jpn-Jpan-JP		
+jpn-Hrkt-JP		ろんりえんざんし、ろんりけつごうし
+jpn-Jpan-JP		論理演算子、論理結合子
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU		
+rus-Cyrl-RU		логи́ческая свя́зка, логи́ческий опера́тор, пропозициона́льная свя́зка
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

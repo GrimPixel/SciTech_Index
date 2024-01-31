@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	冲量	
-cmn-Latn-CN	chōngliàng	
-dan-Latn-DK		
-deu-Latn-DE	Kraftstoß [m]	
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	冲量	力；积分
+cmn-Latn-CN	chōngliàng	lì; jī fēn
+dan-Latn-DK		; 
+deu-Latn-DE	Kraftstoß [m]	Kraft [f]; Integral
 eng-Latn-US	impulse	force; integral
-fin-Latn-FI		
-fra-Latn-FR	impulsion, percussion	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	りきせき	
-jpn-Jpan-JP	力積	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU	и́мпульс си́лы	
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; 
+fra-Latn-FR	impulsion, percussion	force; intégrale [f]
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	りきせき	ちから; せきぶん
+jpn-Jpan-JP	力積	力；積分
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU	и́мпульс си́лы	си́ла; интегра́л
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
 zxx-Zmth-ZZ		

@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	负荷、荷载、结构荷重、载荷、载重	
-cmn-Latn-CN	fù hè, hè zài, jiégòu hèzhòng, zài hè, zài zhòng	
-dan-Latn-DK		
-deu-Latn-DE	Lastannahme	
+arb-Arab-ZZ		؛ ؛ ؛ 
+cmn-Hans-CN	负荷、荷载、结构荷重、载荷、载重	开普勒第一定律、轨道定律、椭圆定律；形变；力；结构构件
+cmn-Latn-CN	fù hè, hè zài, jiégòu hèzhòng, zài hè, zài zhòng	Kāipǔlè dìyī dìnglǜ, guǐdào dìnglǜ, tuǒyuán dìnglǜ; xíng biàn; lì; jiégòu gòujiàn
+dan-Latn-DK		; ; ; 
+deu-Latn-DE	Lastannahme	erstes keplersches Gesetz; Deformation, Verformung, Verzerrung; Kraft [f]; Tragelement
 eng-Latn-US	structural action, structural load	Kepler’s first law; deformation; force; structural element
-fin-Latn-FI		
-fra-Latn-FR		
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	かじゅう	
-jpn-Jpan-JP	荷重	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU		
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; ; ; 
+fra-Latn-FR		loi des orbites, première loi de Kepler; déformation des matériaux [m-pl]; force; ossature
+heb-Hebr-IL		; ; ; 
+hin-Deva-IN		; ; ; 
+ita-Latn-IT		; ; ; 
+jpn-Hrkt-JP	かじゅう	だえんきどうのほうそく、ケプラーのだいいちほうそく; へんけい; ちから; 
+jpn-Jpan-JP	荷重	楕円軌道の法則、ケプラーの第一法則；変形；力；
+kor-Hang-KR		; ; ; 
+kor-Kore-KR		; ; ; 
+nld-Latn-NL		; ; ; 
+nob-Latn-NO		; ; ; 
+pes-Aran-IR		؛ ؛ ؛ 
+por-Latn-PT		; ; ; 
+rus-Cyrl-RU		зако́н э́ллипсов, пе́рвый зако́н Ке́плера; деформа́ция; си́ла; 
+spa-Latn-ES		; ; ; 
+swe-Latn-SE		; ; ; 
+tur-Latn-TR		; ; ; 
 zxx-Zmth-ZZ		

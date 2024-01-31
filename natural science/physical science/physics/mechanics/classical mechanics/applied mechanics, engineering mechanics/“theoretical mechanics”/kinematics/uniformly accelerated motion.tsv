@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	匀加速度运动	
-cmn-Latn-CN	yún jiāsùdù yùndòng	
-dan-Latn-DK		
-deu-Latn-DE	gleichmäßig beschleunigte Bewegung	
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	匀加速度运动	开普勒第一定律、轨道定律、椭圆定律；运动
+cmn-Latn-CN	yún jiāsùdù yùndòng	Kāipǔlè dìyī dìnglǜ, guǐdào dìnglǜ, tuǒyuán dìnglǜ; yùn dòng
+dan-Latn-DK		; 
+deu-Latn-DE	gleichmäßig beschleunigte Bewegung	erstes keplersches Gesetz; Bewegung
 eng-Latn-US	uniformly accelerated motion	Kepler’s first law; motion
-fin-Latn-FI		
-fra-Latn-FR	mouvement d’accélération uniforme	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	とうかそくどうんどう	
-jpn-Jpan-JP	等加速度運動	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU	равноуско́ренное движе́ние	
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; 
+fra-Latn-FR	mouvement d’accélération uniforme	loi des orbites, première loi de Kepler; mouvement
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	とうかそくどうんどう	だえんきどうのほうそく、ケプラーのだいいちほうそく; うんどう
+jpn-Jpan-JP	等加速度運動	楕円軌道の法則、ケプラーの第一法則；運動
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU	равноуско́ренное движе́ние	зако́н э́ллипсов, пе́рвый зако́н Ке́плера; движе́ние
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
 zxx-Zmth-ZZ		

@@ -1,12 +1,12 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	偶函数	
-cmn-Latn-CN	ǒu hánshù	
+cmn-Hans-CN	偶函数	函数
+cmn-Latn-CN	ǒu hánshù	hán shù
 dan-Latn-DK		
-deu-Latn-DE	gerade Funktion	
+deu-Latn-DE	gerade Funktion	Funktion
 eng-Latn-US	even function	function
 fin-Latn-FI		
-fra-Latn-FR	fonction paire	
+fra-Latn-FR	fonction paire	fonction
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		

@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	平方	
-cmn-Latn-CN	píng fāng	
+cmn-Hans-CN	平方	乘法
+cmn-Latn-CN	píng fāng	chéngfǎ
 dan-Latn-DK		
-deu-Latn-DE	Quadrat [n] (Algebra)	
+deu-Latn-DE	Quadrat [n] (Algebra)	Multiplikation
 eng-Latn-US	square (algebra)	multiplication
 fin-Latn-FI		
-fra-Latn-FR	carré (algèbre)	
+fra-Latn-FR	carré (algèbre)	multiplication
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	じじょう、にじょう、へいほう	
-jpn-Jpan-JP	自乗、二乗、平方	
+jpn-Hrkt-JP	じじょう、にじょう、へいほう	じょうほう
+jpn-Jpan-JP	自乗、二乗、平方	乗法
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	квадра́т (а́лгебра)	
+rus-Cyrl-RU	квадра́т (а́лгебра)	умноже́ние
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

@@ -1,9 +1,9 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	偶数	
-cmn-Latn-CN	ǒu shù	
+cmn-Hans-CN	偶数	奇偶性
+cmn-Latn-CN	ǒu shù	jī’ǒu xìng
 dan-Latn-DK		
-deu-Latn-DE	gerade Zahl	
+deu-Latn-DE	gerade Zahl	Parität
 eng-Latn-US	even number	parity
 fin-Latn-FI		
 fra-Latn-FR	nombre pair	

@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	变加速度圆周运动	
-cmn-Latn-CN	biàn jiāsùdù yuánzhōu yùndòng	
+cmn-Hans-CN	变加速度圆周运动	匀速运动
+cmn-Latn-CN	biàn jiāsùdù yuánzhōu yùndòng	yúnsù yùndòng
 dan-Latn-DK		
-deu-Latn-DE	ungleichmäßig beschleunigte Kreisbewegung	
+deu-Latn-DE	ungleichmäßig beschleunigte Kreisbewegung	gleichförmige Bewegung
 eng-Latn-US	non-uniformly accelerated circular motion	uniform motion
 fin-Latn-FI		
-fra-Latn-FR	mouvement circulaire non uniformément accéléré	
+fra-Latn-FR	mouvement circulaire non uniformément accéléré	mouvement uniforme
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	ひとうかそくどえんうんどう、ふとうかそくどえんうんどう	
-jpn-Jpan-JP	非等加速度円運動、不等加速度円運動	
+jpn-Hrkt-JP	ひとうかそくどえんうんどう、ふとうかそくどえんうんどう	とうそくうんどう
+jpn-Jpan-JP	非等加速度円運動、不等加速度円運動	等速運動
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU		
+rus-Cyrl-RU		равноме́рное движе́ние
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

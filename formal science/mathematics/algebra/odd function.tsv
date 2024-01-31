@@ -1,12 +1,12 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	奇函数	
-cmn-Latn-CN	jī hánshù	
+cmn-Hans-CN	奇函数	函数
+cmn-Latn-CN	jī hánshù	hán shù
 dan-Latn-DK		
-deu-Latn-DE	ungerade Funktion	
+deu-Latn-DE	ungerade Funktion	Funktion
 eng-Latn-US	odd function	function
 fin-Latn-FI		
-fra-Latn-FR	fonction impaire	
+fra-Latn-FR	fonction impaire	fonction
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		

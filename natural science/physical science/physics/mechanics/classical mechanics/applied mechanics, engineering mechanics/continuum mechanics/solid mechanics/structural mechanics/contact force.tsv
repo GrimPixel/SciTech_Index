@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	接触力	
-cmn-Latn-CN	jiēchù lì	
+cmn-Hans-CN	接触力	力
+cmn-Latn-CN	jiēchù lì	lì
 dan-Latn-DK		
-deu-Latn-DE	Anpresskraft [f], Auflagekraft [f], Kontaktkraft [f]	
+deu-Latn-DE	Anpresskraft [f], Auflagekraft [f], Kontaktkraft [f]	Kraft [f]
 eng-Latn-US	contact force	force
 fin-Latn-FI		
-fra-Latn-FR		
+fra-Latn-FR		force
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP		
-jpn-Jpan-JP		
+jpn-Hrkt-JP		ちから
+jpn-Jpan-JP		力
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU		
+rus-Cyrl-RU		си́ла
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

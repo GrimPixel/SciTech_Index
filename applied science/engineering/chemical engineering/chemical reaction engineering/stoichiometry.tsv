@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	化学计量	
-cmn-Latn-CN	huàxué jìliàng	
-dan-Latn-DK		
-deu-Latn-DE	Stöchiometrie	
+arb-Arab-ZZ		؛ ؛ 
+cmn-Hans-CN	化学计量	化学元素；金属；混合物
+cmn-Latn-CN	huàxué jìliàng	huàxué yuánsù; jīn shǔ; hùnhé wù
+dan-Latn-DK		; ; 
+deu-Latn-DE	Stöchiometrie	chemisches Element; Metalle; Gemisch [n], Stoffgemisch [n]
 eng-Latn-US	stoichiometry	chemical element; metal; mixture
-fin-Latn-FI		
-fra-Latn-FR	stœchiométrie	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	かがくりょうろん	
-jpn-Jpan-JP	化学量論	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU	стехиоме́трия	
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; ; 
+fra-Latn-FR	stœchiométrie	élément chimique; métal; mélange [m]
+heb-Hebr-IL		; ; 
+hin-Deva-IN		; ; 
+ita-Latn-IT		; ; 
+jpn-Hrkt-JP	かがくりょうろん	げんそ; きんぞく; こんごうぶつ
+jpn-Jpan-JP	化学量論	元素；金属；混合物
+kor-Hang-KR		; ; 
+kor-Kore-KR		; ; 
+nld-Latn-NL		; ; 
+nob-Latn-NO		; ; 
+pes-Aran-IR		؛ ؛ 
+por-Latn-PT		; ; 
+rus-Cyrl-RU	стехиоме́трия	хими́ческий элеме́нт; мета́ллы; смесь
+spa-Latn-ES		; ; 
+swe-Latn-SE		; ; 
+tur-Latn-TR		; ; 
 zxx-Zmth-ZZ		

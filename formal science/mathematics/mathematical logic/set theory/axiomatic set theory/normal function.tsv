@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN		
-cmn-Latn-CN		
-dan-Latn-DK		
-deu-Latn-DE		
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN		单调递增函数；序数
+cmn-Latn-CN		dāndiàodìzēng hánshù; xù shù
+dan-Latn-DK		; 
+deu-Latn-DE		; Ordinalzahl [f]
 eng-Latn-US	normal function	monotonically increasing function; ordinal number
-fin-Latn-FI		
-fra-Latn-FR		
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP		
-jpn-Jpan-JP		
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU		
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; 
+fra-Latn-FR		; nombre ordinal
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP		たんちょうぞうかかんすう; じゅんじょすう
+jpn-Jpan-JP		単調増加関数；順序数
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU		; ордина́лом, поря́дковым число́м
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
 zxx-Zmth-ZZ		

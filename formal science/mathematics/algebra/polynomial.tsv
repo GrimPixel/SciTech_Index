@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	多项式	
-cmn-Latn-CN	duōxiàng shì	
-dan-Latn-DK		
-deu-Latn-DE	Polynom [n]	
+arb-Arab-ZZ		؛ ؛ 
+cmn-Hans-CN	多项式	系数；未定元；
+cmn-Latn-CN	duōxiàng shì	xì shù; wèidìng yuán; 
+dan-Latn-DK		; ; 
+deu-Latn-DE	Polynom [n]	Beizahl [f], Koeffizient [n], Vorzahl [f]; Unbestimmte; 
 eng-Latn-US	polynomial	coefficient; indeterminate; mathematical expression
-fin-Latn-FI		
-fra-Latn-FR	polynôme [m]	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	たこうしき	
-jpn-Jpan-JP	多項式	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU	многочле́н, полино́м	
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; ; 
+fra-Latn-FR	polynôme [m]	coefficient; indéterminée; 
+heb-Hebr-IL		; ; 
+hin-Deva-IN		; ; 
+ita-Latn-IT		; ; 
+jpn-Hrkt-JP	たこうしき	けいすう; ふていげん; 
+jpn-Jpan-JP	多項式	係数；不定元；
+kor-Hang-KR		; ; 
+kor-Kore-KR		; ; 
+nld-Latn-NL		; ; 
+nob-Latn-NO		; ; 
+pes-Aran-IR		؛ ؛ 
+por-Latn-PT		; ; 
+rus-Cyrl-RU	многочле́н, полино́м	коэффицие́нт; неопределённый; 
+spa-Latn-ES		; ; 
+swe-Latn-SE		; ; 
+tur-Latn-TR		; ; 
 zxx-Zmth-ZZ		

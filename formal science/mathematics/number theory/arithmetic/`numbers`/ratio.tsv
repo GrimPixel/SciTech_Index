@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	比率、比值	
-cmn-Latn-CN	bǐ lǜ, bǐ zhí	
+cmn-Hans-CN	比率、比值	数
+cmn-Latn-CN	bǐ lǜ, bǐ zhí	shù
 dan-Latn-DK		
-deu-Latn-DE	Verhältnis	
+deu-Latn-DE	Verhältnis	Zahl [f] (abstrakte Identität)
 eng-Latn-US	ratio	number (abstract identity)
 fin-Latn-FI		
-fra-Latn-FR	rapport	
+fra-Latn-FR	rapport	nombre [m]
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	ひ	
-jpn-Jpan-JP	比	
+jpn-Hrkt-JP	ひ	かず
+jpn-Jpan-JP	比	数
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	соотноше́ние	
+rus-Cyrl-RU	соотноше́ние	число́ (абстра́ктная иденти́чность)
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

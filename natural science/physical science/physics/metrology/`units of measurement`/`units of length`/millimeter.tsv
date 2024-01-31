@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	毫米	
-cmn-Latn-CN	háomǐ	
+cmn-Hans-CN	毫米	米
+cmn-Latn-CN	háomǐ	mǐ
 dan-Latn-DK		
-deu-Latn-DE	Millimeter	
+deu-Latn-DE	Millimeter	Meter
 eng-Latn-US	millimeter	meter
 fin-Latn-FI		
-fra-Latn-FR	milimètre [m]	
+fra-Latn-FR	milimètre [m]	mètre [m]
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	ミリ、ミリメートル	
-jpn-Jpan-JP	ミリ、ミリメートル	
+jpn-Hrkt-JP	ミリ、ミリメートル	メートル
+jpn-Jpan-JP	ミリ、ミリメートル	メートル
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	миллиме́тр	
+rus-Cyrl-RU	миллиме́тр	ме́тр
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

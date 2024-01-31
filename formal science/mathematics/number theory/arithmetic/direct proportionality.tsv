@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	正比例	
-cmn-Latn-CN	zhèng bǐlì	
+cmn-Hans-CN	正比例	比例
+cmn-Latn-CN	zhèng bǐlì	bǐ lì
 dan-Latn-DK		
-deu-Latn-DE	direkte Proprotionalität	
+deu-Latn-DE	direkte Proprotionalität	Proportionalität
 eng-Latn-US	direct proportionality	proportionality
 fin-Latn-FI		
-fra-Latn-FR	proportionnalité directe	
+fra-Latn-FR	proportionnalité directe	proportionnalité
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	せいひれい	
-jpn-Jpan-JP	正比例	
+jpn-Hrkt-JP	せいひれい	ひれい
+jpn-Jpan-JP	正比例	比例
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	пряма́я пропорциона́льность	
+rus-Cyrl-RU	пряма́я пропорциона́льность	пропорциона́льными
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

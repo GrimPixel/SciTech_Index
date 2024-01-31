@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	力矩	
-cmn-Latn-CN	lì jǔ	
-dan-Latn-DK		
-deu-Latn-DE	Drehmoment, Kraftmoment, Moment	
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	力矩	力；旋转
+cmn-Latn-CN	lì jǔ	lì; xuán zhuàn
+dan-Latn-DK		; 
+deu-Latn-DE	Drehmoment, Kraftmoment, Moment	Kraft [f]; Drehung
 eng-Latn-US	moment of force, torque	force; rotation
-fin-Latn-FI		
-fra-Latn-FR	moment d’une force	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	トルク	
-jpn-Jpan-JP	トルク	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU	вертя́щий момент, враща́тельный момент, враща́ющий момент, кру́тящий момент, моме́нт си́лы, моме́нт си́лы относи́тельно то́чки, скру́чивающий момент	
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; 
+fra-Latn-FR	moment d’une force	force; rotation
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	トルク	ちから; かいてん
+jpn-Jpan-JP	トルク	力；回転
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU	вертя́щий момент, враща́тельный момент, враща́ющий момент, кру́тящий момент, моме́нт си́лы, моме́нт си́лы относи́тельно то́чки, скру́чивающий момент	си́ла; враще́ние, поворо́т
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
 zxx-Zmth-ZZ		

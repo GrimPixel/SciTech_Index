@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	和	
-cmn-Latn-CN	hé	
-dan-Latn-DK		
-deu-Latn-DE	Summe	
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	和	加法；运算数、运算元
+cmn-Latn-CN	hé	jiā fǎ; yùnsuàn shù, yùnsuàn yuán
+dan-Latn-DK		; 
+deu-Latn-DE	Summe	Addition; Operand [m]
 eng-Latn-US	sum	addition; operand
-fin-Latn-FI		
-fra-Latn-FR	somme [f]	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	わ	
-jpn-Jpan-JP	和	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU	су́мма	
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; 
+fra-Latn-FR	somme [f]	addition; opérande [m]
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	わ	かさん、かほう、たしざん、よせざん; ひえんざんし
+jpn-Jpan-JP	和	加算、加法、足し算、寄せ算；被演算子
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU	су́мма	прибавле́ние, сложе́ние; опера́нд
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
 zxx-Zmth-ZZ		

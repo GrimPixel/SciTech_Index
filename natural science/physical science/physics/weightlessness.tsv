@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	失重	
-cmn-Latn-CN	shī zhòng	
+cmn-Hans-CN	失重	引力、重力
+cmn-Latn-CN	shī zhòng	yǐn lì, zhòng lì
 dan-Latn-DK		
-deu-Latn-DE	Schwerelosigkeit	
+deu-Latn-DE	Schwerelosigkeit	Gravitation, Gravitationskraft
 eng-Latn-US	weightlessness	gravitation, gravity
 fin-Latn-FI		
-fra-Latn-FR	apesanteur [f], impesanteur [f]	
+fra-Latn-FR	apesanteur [f], impesanteur [f]	gravitation
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	むじゅうりょうじょうたい	
-jpn-Jpan-JP	無重量状態	
+jpn-Hrkt-JP	むじゅうりょうじょうたい	じゅうりょく
+jpn-Jpan-JP	無重量状態	重力
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	невесо́мость	
+rus-Cyrl-RU	невесо́мость	всеми́рное тяготе́ние, гравита́ция, притяже́ние, тяготе́ние
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

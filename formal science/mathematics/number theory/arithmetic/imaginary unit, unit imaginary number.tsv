@@ -1,17 +1,17 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	虚数单位	
-cmn-Latn-CN	xūshù dānwèi	
+cmn-Hans-CN	虚数单位	幂运算、指数运算
+cmn-Latn-CN	xūshù dānwèi	mì yùnsuàn, zhǐshù yùnsuàn
 dan-Latn-DK		
-deu-Latn-DE	imaginäre Einheit	
+deu-Latn-DE	imaginäre Einheit	Potenz
 eng-Latn-US	imaginary unit, unit imaginary number	exponentiation
 fin-Latn-FI		
-fra-Latn-FR	unité imaginaire	
+fra-Latn-FR	unité imaginaire	exponentiation [f]
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	きょすうたんい	
-jpn-Jpan-JP	虚数単位	
+jpn-Hrkt-JP	きょすうたんい	べきえんざん、べきじょう
+jpn-Jpan-JP	虚数単位	冪演算、冪乗
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		

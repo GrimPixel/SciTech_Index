@@ -1,25 +1,25 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	实数	
-cmn-Latn-CN	shí shù	
+cmn-Hans-CN	实数	数线、数轴
+cmn-Latn-CN	shí shù	shù xiàn, shù zhóu
 dan-Latn-DK		
-deu-Latn-DE	reelle Zahl	
+deu-Latn-DE	reelle Zahl	Zahlengerade, Zahlenstrahl [m]
 eng-Latn-US	real number	number line
 fin-Latn-FI		
-fra-Latn-FR	nombre réel	
+fra-Latn-FR	nombre réel	ligne [f] numérique
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	じっすう	
-jpn-Jpan-JP	実数	
+jpn-Hrkt-JP	じっすう	数直線
+jpn-Jpan-JP	実数	すうちょくせん
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	веще́ственное числó	
+rus-Cyrl-RU	веще́ственное числó	числова́я ось, числова́я пряма́я
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		
-zxx-Zmth-ZZ	ح, RR	
+zxx-Zmth-ZZ	RR, ح	

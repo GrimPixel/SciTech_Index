@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	自然对数	
-cmn-Latn-CN	zìrán duìshù	
+cmn-Hans-CN	自然对数	数
+cmn-Latn-CN	zìrán duìshù	shù
 dan-Latn-DK		
-deu-Latn-DE	negative Zahl	
+deu-Latn-DE	negative Zahl	Zahl [f] (abstrakte Identität)
 eng-Latn-US	negative number	number (abstract identity)
 fin-Latn-FI		
-fra-Latn-FR	nombre [m] négatif	
+fra-Latn-FR	nombre [m] négatif	nombre [m]
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	ふのすう	
-jpn-Jpan-JP	負の数	
+jpn-Hrkt-JP	ふのすう	かず
+jpn-Jpan-JP	負の数	数
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	отрица́тельное число́	
+rus-Cyrl-RU	отрица́тельное число́	число́ (абстра́ктная иденти́чность)
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

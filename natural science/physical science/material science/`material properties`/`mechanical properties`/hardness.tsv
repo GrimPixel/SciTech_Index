@@ -1,17 +1,17 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	硬度	
-cmn-Latn-CN	yìng dù	
+cmn-Hans-CN	硬度	塑性变形
+cmn-Latn-CN	yìng dù	sùxìng biànxíng
 dan-Latn-DK		
-deu-Latn-DE	Härte	
+deu-Latn-DE	Härte	plastische Verformbarkeit
 eng-Latn-US	hardness	plastic deformation
 fin-Latn-FI		
-fra-Latn-FR	dureté	
+fra-Latn-FR	dureté	déformation plastique
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	かたさ	
-jpn-Jpan-JP	硬さ	
+jpn-Hrkt-JP	かたさ	そせいへんけい
+jpn-Jpan-JP	硬さ	塑性変形
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		

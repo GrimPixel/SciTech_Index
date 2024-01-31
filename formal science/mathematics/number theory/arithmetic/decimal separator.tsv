@@ -1,9 +1,9 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	十进制小数点	
-cmn-Latn-CN	shíjìnzhì xiǎoshùdiǎn	
+cmn-Hans-CN	十进制小数点	小数部分
+cmn-Latn-CN	shíjìnzhì xiǎoshùdiǎn	xiǎoshù bùfen
 dan-Latn-DK		
-deu-Latn-DE	Dezimaltrennzeichen	
+deu-Latn-DE	Dezimaltrennzeichen	Dezimalen [f-pl], Dezimalstellen [f-pl], Nachkommaanteil [m], Nachkommastellen [f-pl]
 eng-Latn-US	decimal separator	decimal part, fractional part
 fin-Latn-FI		
 fra-Latn-FR	séparateur décimal	
@@ -18,7 +18,7 @@ nld-Latn-NL
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	десяти́чная запята́я, десяти́чная то́чка, десяти́чный раздели́тель	
+rus-Cyrl-RU	десяти́чная запята́я, десяти́чная то́чка, десяти́чный раздели́тель	дро́бная часть
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

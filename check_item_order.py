@@ -15,74 +15,57 @@ def check(s_sort_item, s_item_separator):
 		print(sorted(ls_concept_or_subject))
 		print()
 
-def s_get_item_separator(s_writing_system, s_punctuation_type):
-	if s_punctuation_type == 'comma':
-		if s_writing_system in ['Arab', 'Aran']:
-			return '، '
-		elif s_writing_system == 'Bamu':
-			return '꛵ '
-		elif s_writing_system in ['Bopo', 'Hrkt']:
-			if len(ls_entry) == 2:
-				s_sort_item = s_subject
-			else:
-				s_sort_item = s_concept + s_prerequisite
-			if '，' in s_sort_item:
-				return '，'
-			else:
-				return '、'
-		elif s_writing_system == 'Ethi':
-			return '፣ '
-		elif s_writing_system == 'Hmng':
-			return '𖬹 '
-		elif s_writing_system == 'Lisu':
-			return '꓾ '
-		elif s_writing_system == 'Medf':
-			return '𖺗 '
-		elif s_writing_system == 'Mong':
-			if len(ls_entry) == 2:
-				s_sort_item = s_subject
-			else:
-				s_sort_item = s_concept + s_prerequisite
-			if '᠈' in s_sort_item:
-				return '᠈ '
-			else:
-				return '᠂ '
-		elif s_writing_system == 'Newa':
-			return '𑑍 '
-		elif s_writing_system == 'Nkoo':
-			return '߸ '
-		elif s_writing_system == 'Sgnw':
-			return '𝪇 '
-		elif s_writing_system == 'Tibt':
-			return '༔ '
-		elif s_writing_system == 'Vaii':
-			return '꘍ '
-		else:
-			return ', '
-	elif s_punctuation_type == 'semicolon':
-		if s_writing_system in ['Arab', 'Aran']:
-			if len(ls_entry) == 2:
-				s_sort_item = s_subject
-			else:
-				s_sort_item = s_concept + s_prerequisite
-			if '⁏' in s_sort_item:
-				return '⁏ '
-			else:
-				return '؛ '
-		elif s_writing_system == 'Armn':
-			return '․ '
-		elif s_writing_system == 'Bamu':
-			return '꛶ '
-		elif s_writing_system in ['Bopo', 'Hani', 'Hans', 'Hant', 'Jpan']:
-			return '；'
-		elif s_writing_system == 'Grek':
-			return '· '
-		elif s_writing_system == 'Ethi':
-			return '፤ '
-		elif s_writing_system == 'Sgnw':
-			return '𝪉'
-		else:
-			return '; '
+def s_get_concept_and_subject_separator(s_concept_or_subject):
+	if s_writing_system in ['Arab', 'Aran']:
+		return '، '
+	elif s_writing_system == 'Bamu':
+		return '꛵ '
+	elif s_writing_system in ['Bopo', 'Hrkt']:
+		if '，' in s_concept_or_subject:
+			return '，'
+		return '、'
+	elif s_writing_system == 'Ethi':
+		return '፣ '
+	elif s_writing_system == 'Hmng':
+		return '𖬹 '
+	elif s_writing_system == 'Lisu':
+		return '꓾ '
+	elif s_writing_system == 'Medf':
+		return '𖺗 '
+	elif s_writing_system == 'Mong':
+		if '᠈' in s_concept_or_subject:
+			return '᠈ '
+		return '᠂ '
+	elif s_writing_system == 'Newa':
+		return '𑑍 '
+	elif s_writing_system == 'Nkoo':
+		return '߸ '
+	elif s_writing_system == 'Sgnw':
+		return '𝪇 '
+	elif s_writing_system == 'Tibt':
+		return '༔ '
+	elif s_writing_system == 'Vaii':
+		return '꘍ '
+	return ', '
+
+def s_get_prerequisite_separator(s_prerequisite):
+	if s_writing_system in ['Arab', 'Aran']:
+		if '⁏' in s_prerequisite:
+			return '⁏ '
+		return '؛ '
+	elif s_writing_system == 'Armn':
+		return '․ '
+	elif s_writing_system == 'Bamu':
+		return '꛶ '
+	elif s_writing_system in ['Bopo', 'Hani', 'Hans', 'Hant', 'Jpan']:
+		return '；'
+	elif s_writing_system == 'Grek':
+		return '· '
+	elif s_writing_system == 'Ethi':
+		return '፤ '
+	elif s_writing_system == 'Sgnw':
+		return '𝪉'
+	return '; '
 
 for s_file_path in glob(f'{top_path}/**/*.tsv', recursive=True):
 	s_text = Path(s_file_path).read_text()
@@ -95,7 +78,6 @@ for s_file_path in glob(f'{top_path}/**/*.tsv', recursive=True):
 		if len(ls_entry) == 2:
 			s_locale, s_subject = ls_entry
 		else:
-			print(ls_entry)
 			s_locale, s_concept, s_prerequisite = ls_entry
 
 		s_language, s_writing_system, s_region = s_locale.split('-')
@@ -104,12 +86,9 @@ for s_file_path in glob(f'{top_path}/**/*.tsv', recursive=True):
 
 		if len(ls_entry) == 2:
 			if s_subject != '':
-				s_item_separator = s_get_item_separator(s_writing_system, 'comma')
-				check(s_subject, s_item_separator)
+				check(s_subject, s_get_concept_and_subject_separator(s_subject))
 		else:
 			if s_concept != '':
-				s_item_separator = s_get_item_separator(s_writing_system, 'comma')
-				check(s_concept, s_item_separator)
+				check(s_concept, s_get_concept_and_subject_separator(s_concept))
 			if s_prerequisite != '':
-				s_item_separator = s_get_item_separator(s_writing_system, 'semicolon')
-				check(s_prerequisite, s_item_separator)
+				check(s_prerequisite, s_get_prerequisite_separator(s_prerequisite))

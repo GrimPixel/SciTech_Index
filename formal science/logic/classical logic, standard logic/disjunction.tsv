@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	或、析取	
-cmn-Latn-CN	huò, xīqǔ	
+cmn-Hans-CN	或、析取	逻辑联结词、逻辑运算符
+cmn-Latn-CN	huò, xīqǔ	luóji liánjié cí, luóji yùnsuàn fú
 dan-Latn-DK		
-deu-Latn-DE	Disjunktion	
+deu-Latn-DE	Disjunktion	Logische Verknüpfung
 eng-Latn-US	disjunction	logical connective, logical operator, sentential connective, sentential operator
 fin-Latn-FI		
-fra-Latn-FR	disjonction	
+fra-Latn-FR	disjonction	connecteur [m] logique
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	ろんりわ	
-jpn-Jpan-JP	論理和	
+jpn-Hrkt-JP	ろんりわ	ろんりえんざんし、ろんりけつごうし
+jpn-Jpan-JP	論理和	論理演算子、論理結合子
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	дизъю́нкция	
+rus-Cyrl-RU	дизъю́нкция	логи́ческая свя́зка, логи́ческий опера́тор, пропозициона́льная свя́зка
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	简分数	
-cmn-Latn-CN	jiǎn fēnshù	
-dan-Latn-DK		
-deu-Latn-DE	gemeiner Bruch, gewöhnlicher Bruch	
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	简分数	分数；有理数
+cmn-Latn-CN	jiǎn fēnshù	fēn shù; yǒulǐ shù
+dan-Latn-DK		; 
+deu-Latn-DE	gemeiner Bruch, gewöhnlicher Bruch	Bruch [m]; rationale Zahl
 eng-Latn-US	common fraction, simple fraction, vulgar fraction	fraction; rational number
-fin-Latn-FI		
-fra-Latn-FR		
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	たんぶんすう	
-jpn-Jpan-JP	単分数	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU		
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; 
+fra-Latn-FR		fraction; nombre rationnel
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	たんぶんすう	ぶんすう; ゆうりすう
+jpn-Jpan-JP	単分数	分数；有理数
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU		дробь; рационáльное числó
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
 zxx-Zmth-ZZ		

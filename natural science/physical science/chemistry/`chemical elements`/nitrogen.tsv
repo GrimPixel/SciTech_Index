@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN		
-cmn-Latn-CN		
+cmn-Hans-CN	氮	
+cmn-Latn-CN	dàn	
 dan-Latn-DK		
 deu-Latn-DE		
 eng-Latn-US	nitrogen	
@@ -22,4 +22,4 @@ rus-Cyrl-RU
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		
-zxx-Zmth-ZZ	"N"	
+zxx-Zmth-ZZ	N	

@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	哈密顿算符	
-cmn-Latn-CN	Hāmìdùn suànfú	
-dan-Latn-DK		
-deu-Latn-DE	Hamiltonian [m], Hamiltonoperator	
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	哈密顿算符	；
+cmn-Latn-CN	Hāmìdùn suànfú	; 
+dan-Latn-DK		; 
+deu-Latn-DE	Hamiltonian [m], Hamiltonoperator	; 
 eng-Latn-US	Hamiltonian	energy; operator (physics)
-fin-Latn-FI		
-fra-Latn-FR	opérateur de Hamilton, opérateur hamiltonien	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	とくせいかんすう、ハミルトニアン、ハミルトンかんす	
-jpn-Jpan-JP	特性関数、ハミルトニアン、ハミルトン関数	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU	гамильтониа́н	
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; 
+fra-Latn-FR	opérateur de Hamilton, opérateur hamiltonien	; 
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	とくせいかんすう、ハミルトニアン、ハミルトンかんす	; 
+jpn-Jpan-JP	特性関数、ハミルトニアン、ハミルトン関数	；
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU	гамильтониа́н	; 
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
 zxx-Zmth-ZZ	H, hatH	

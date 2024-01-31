@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	非	
-cmn-Latn-CN	fēi	
+cmn-Hans-CN	非	逻辑联结词、逻辑运算符
+cmn-Latn-CN	fēi	luóji liánjié cí, luóji yùnsuàn fú
 dan-Latn-DK		
-deu-Latn-DE	Negation	
+deu-Latn-DE	Negation	Logische Verknüpfung
 eng-Latn-US	negation	logical connective, logical operator, sentential connective, sentential operator
 fin-Latn-FI		
-fra-Latn-FR	négation	
+fra-Latn-FR	négation	connecteur [m] logique
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	ひてい	
-jpn-Jpan-JP	否定	
+jpn-Hrkt-JP	ひてい	ろんりえんざんし、ろんりけつごうし
+jpn-Jpan-JP	否定	論理演算子、論理結合子
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	инве́рсия, отрица́ние	
+rus-Cyrl-RU	инве́рсия, отрица́ние	логи́ческая свя́зка, логи́ческий опера́тор, пропозициона́льная свя́зка
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

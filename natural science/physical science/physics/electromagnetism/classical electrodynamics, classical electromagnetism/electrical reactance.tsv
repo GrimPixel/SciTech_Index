@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	电抗	
-cmn-Latn-CN	diàn kàng	
-dan-Latn-DK		
-deu-Latn-DE	Blindwiderstand [m], Reaktanz	
+arb-Arab-ZZ		؛ ؛ 
+cmn-Hans-CN	电抗	电容；；超导现象
+cmn-Latn-CN	diàn kàng	diàn róng; ; chāodǎo xiànxiàng
+dan-Latn-DK		; ; 
+deu-Latn-DE	Blindwiderstand [m], Reaktanz	elektrische Kapazität; ; Supraleitung
 eng-Latn-US	electrical reactance	electrical capacitance; inductance; superconductivity
-fin-Latn-FI		
-fra-Latn-FR	réactance	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	リアクタンス	
-jpn-Jpan-JP	リアクタンス	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU	реакта́нс, реакти́вное сопротивле́ние	
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; ; 
+fra-Latn-FR	réactance	capacité électrique; ; supraconduction, supraconductivité
+heb-Hebr-IL		; ; 
+hin-Deva-IN		; ; 
+ita-Latn-IT		; ; 
+jpn-Hrkt-JP	リアクタンス	せいでんようりょう、でんきようりょう、キャパシタンス; ; ちょうでんどう
+jpn-Jpan-JP	リアクタンス	静電容量、電気容量、キャパシタンス；；超伝導
+kor-Hang-KR		; ; 
+kor-Kore-KR		; ; 
+nld-Latn-NL		; ; 
+nob-Latn-NO		; ; 
+pes-Aran-IR		؛ ؛ اَبَررسانایی
+por-Latn-PT		; ; 
+rus-Cyrl-RU	реакта́нс, реакти́вное сопротивле́ние	электри́ческая ёмкость; ; сверхпроводи́мость
+spa-Latn-ES		; ; 
+swe-Latn-SE		; ; 
+tur-Latn-TR		; ; 
 zxx-Zmth-ZZ		

@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	泊松分布	
-cmn-Latn-CN	Bósōng fēnbù	
+cmn-Hans-CN	泊松分布	离散概率分布
+cmn-Latn-CN	Bósōng fēnbù	lísǎn gàilǜ fēnbù
 dan-Latn-DK		
-deu-Latn-DE	Poisson-Verteilung	
+deu-Latn-DE	Poisson-Verteilung	diskrete Verteilung, diskrete Wahrscheinlichkeitsverteilung
 eng-Latn-US	Poisson distribution	discrete probability distribution
 fin-Latn-FI		
 fra-Latn-FR	loi [f] de Poisson	
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	ポアソンぶんぷ	
-jpn-Jpan-JP	ポアソン分布	
+jpn-Hrkt-JP	ポアソンぶんぷ	りさんかくりつぶんぷ、りさんがたかくりつぶんぷ
+jpn-Jpan-JP	ポアソン分布	離散確率分布、離散型確率分布
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	распределе́ние Пуассо́на	
+rus-Cyrl-RU	распределе́ние Пуассо́на	дискре́тное распределе́ние
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

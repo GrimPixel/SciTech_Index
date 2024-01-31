@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	算盘	
-cmn-Latn-CN	suàn pan	
+cmn-Hans-CN	算盘	四则运算
+cmn-Latn-CN	suàn pan	sìzé yùnsuàn
 dan-Latn-DK		
-deu-Latn-DE	Abakus	
+deu-Latn-DE	Abakus	Grundrechenarten [f-pl], Grundrechnungsarten [f-pl]
 eng-Latn-US	abacus	basic operations
 fin-Latn-FI		
-fra-Latn-FR	abaque [m]	
+fra-Latn-FR	abaque [m]	opérations élémentaires
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	アバカス	
-jpn-Jpan-JP	アバカス	
+jpn-Hrkt-JP	アバカス	しそくえんざん
+jpn-Jpan-JP	アバカス	四則演算
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	аба́к	
+rus-Cyrl-RU	аба́к	основны́м де́йствиям
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

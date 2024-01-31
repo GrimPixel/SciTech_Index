@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	布尔域	
-cmn-Latn-CN	Bù’ěr yù	
+cmn-Hans-CN	布尔域	集、集合
+cmn-Latn-CN	Bù’ěr yù	jí, jíhé
 dan-Latn-DK		
-deu-Latn-DE		
+deu-Latn-DE		Menge
 eng-Latn-US	Boolean domain	set
 fin-Latn-FI		
-fra-Latn-FR	domaine booléen	
+fra-Latn-FR	domaine booléen	ensemble [m]
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	ブーリアンりょういき、ブールりょういき	
-jpn-Jpan-JP	ブーリアン領域、ブール領域	
+jpn-Hrkt-JP	ブーリアンりょういき、ブールりょういき	しゅうごう
+jpn-Jpan-JP	ブーリアン領域、ブール領域	集合
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU		
+rus-Cyrl-RU		мно́жество
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

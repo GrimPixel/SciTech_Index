@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	纳皮尔筹	
-cmn-Latn-CN	Nàpí’ěr chóu	
+cmn-Hans-CN	纳皮尔筹	格子乘法、铺地锦算法
+cmn-Latn-CN	Nàpí’ěr chóu	gézi chéngfǎ, pūdìjǐn suànfǎ
 dan-Latn-DK		
-deu-Latn-DE	Napier’sche Rechenstäbchen [n-pl], Neper’sche Rechenstäbchen [n-pl]	
+deu-Latn-DE	Napier’sche Rechenstäbchen [n-pl], Neper’sche Rechenstäbchen [n-pl]	Gittermethode
 eng-Latn-US	Napier’s bones, Napier’s rods	lattice multiplication
 fin-Latn-FI		
-fra-Latn-FR	bâton de Napier, réglette de Neper	
+fra-Latn-FR	bâton de Napier, réglette de Neper	multiplication par jalousies [f-pl]
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	ネイピアのほね	
-jpn-Jpan-JP	ネイピアの骨	
+jpn-Hrkt-JP	ネイピアのほね	こうしかけざん
+jpn-Jpan-JP	ネイピアの骨	格子掛け算
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	не́перовы па́лочки, па́лочки Не́пера	
+rus-Cyrl-RU	не́перовы па́лочки, па́лочки Не́пера	решёточное умноже́ние
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

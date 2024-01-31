@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	润滑	
-cmn-Latn-CN	rùn huá	
+cmn-Hans-CN	润滑	摩擦力
+cmn-Latn-CN	rùn huá	mócā lì
 dan-Latn-DK		
-deu-Latn-DE	Schmierung	
+deu-Latn-DE	Schmierung	Friktion, Reibung, Reibungswiderstand [m]
 eng-Latn-US	lubrication	friction
 fin-Latn-FI		
-fra-Latn-FR	graissage, lubrification	
+fra-Latn-FR	graissage, lubrification	friction, frottement
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	じゅんかつ	
-jpn-Jpan-JP	潤滑	
+jpn-Hrkt-JP	じゅんかつ	まさつ
+jpn-Jpan-JP	潤滑	摩擦
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU		
+rus-Cyrl-RU		тре́ние
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

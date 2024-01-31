@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	数字（整个符号）	
-cmn-Latn-CN	shù zì (zhěnggè fúhào)	
+cmn-Hans-CN	数字（整个符号）	数字（单个符号）
+cmn-Latn-CN	shù zì (zhěnggè fúhào)	shù zì (dāngè fúhào)
 dan-Latn-DK		
-deu-Latn-DE	Zahl [f] (Symbol [n])	
+deu-Latn-DE	Zahl [f] (Symbol [n])	Zahlsymbol [n], Zahlzeichen
 eng-Latn-US	number (symbol), numeral	numerical digit
 fin-Latn-FI		
-fra-Latn-FR	chiffre [m] (symbole entier)	
+fra-Latn-FR	chiffre [m] (symbole entier)	chiffre [m] (symbole individuel)
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	数字	
-jpn-Jpan-JP	すうじ	
+jpn-Hrkt-JP	数字	すうじ（ここのふごう）
+jpn-Jpan-JP	すうじ	数字（個々の符号）
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	число́ (си́мвол)	
+rus-Cyrl-RU	число́ (си́мвол)	ци́фры
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

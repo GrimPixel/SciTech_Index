@@ -1,17 +1,17 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	全集	
-cmn-Latn-CN	quán jí	
+cmn-Hans-CN	全集	数学对象
+cmn-Latn-CN	quán jí	shùxué duìxiàng
 dan-Latn-DK		
-deu-Latn-DE	Allmenge, Grundmenge, Universalmenge	
+deu-Latn-DE	Allmenge, Grundmenge, Universalmenge	mathematisches Objekt
 eng-Latn-US	universal set	mathematical object
 fin-Latn-FI		
-fra-Latn-FR	ensemble référentiel	
+fra-Latn-FR	ensemble référentiel	objet mathématique
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	ぜんたいしゅうごう、ふへんしゅうごう	
-jpn-Jpan-JP	全体集合、普遍集合	
+jpn-Hrkt-JP	ぜんたいしゅうごう、ふへんしゅうごう	すうがくてきたいしょう
+jpn-Jpan-JP	全体集合、普遍集合	数学的対象
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		

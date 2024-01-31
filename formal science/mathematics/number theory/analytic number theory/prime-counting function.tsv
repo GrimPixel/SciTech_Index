@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	素数计数函数	
-cmn-Latn-CN	sùshù jìshù hánshù	
-dan-Latn-DK		
-deu-Latn-DE	Primzahlfunktion	
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	素数计数函数	函数；
+cmn-Latn-CN	sùshù jìshù hánshù	hán shù; 
+dan-Latn-DK		; 
+deu-Latn-DE	Primzahlfunktion	Funktion; 
 eng-Latn-US	prime-counting function	function; prime number
-fin-Latn-FI		
-fra-Latn-FR	fonction de compte [m] des nombres [m] premiers	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	そすうけいすうかんすう	
-jpn-Jpan-JP	素数計数関数	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU	пи-фу́нкция, фу́нкция распределе́ния просты́х чи́сел	
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; 
+fra-Latn-FR	fonction de compte [m] des nombres [m] premiers	fonction; 
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	そすうけいすうかんすう	; 
+jpn-Jpan-JP	素数計数関数	；
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU	пи-фу́нкция, фу́нкция распределе́ния просты́х чи́сел	; 
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
 zxx-Zmth-ZZ		

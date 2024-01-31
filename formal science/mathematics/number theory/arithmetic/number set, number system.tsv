@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN		
-cmn-Latn-CN		
-dan-Latn-DK		
-deu-Latn-DE		
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN		数；集、集合
+cmn-Latn-CN		shù; jí, jíhé
+dan-Latn-DK		; 
+deu-Latn-DE		Zahl [f] (abstrakte Identität); Menge
 eng-Latn-US	number set, number system	number (abstract identity); set
-fin-Latn-FI		
-fra-Latn-FR		
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP		
-jpn-Jpan-JP		
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU		
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; 
+fra-Latn-FR		nombre [m]; ensemble [m]
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP		かず; しゅうごう
+jpn-Jpan-JP		数；集合
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU		число́ (абстра́ктная иденти́чность); мно́жество
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
 zxx-Zmth-ZZ		

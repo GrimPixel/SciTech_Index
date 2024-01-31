@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	向下取整	
-cmn-Latn-CN	xiàngxià qǔ zhěng	
+cmn-Hans-CN	向下取整	无条件简化
+cmn-Latn-CN	xiàngxià qǔ zhěng	wútiáojiàn jiǎnhuà
 dan-Latn-DK		
 deu-Latn-DE	Abrunden	
 eng-Latn-US	rounding down, rounding towards negative infinity	direct rounding

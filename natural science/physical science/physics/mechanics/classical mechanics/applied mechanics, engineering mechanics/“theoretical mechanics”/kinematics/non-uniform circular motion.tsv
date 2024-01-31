@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	变速圆周运动	
-cmn-Latn-CN	biànsù yuánzhōu yùndòng	
-dan-Latn-DK		
-deu-Latn-DE	ungleichförmige Kreisbewegung	
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	变速圆周运动	圆周运动；匀速运动
+cmn-Latn-CN	biànsù yuánzhōu yùndòng	yuánzhōu yùndòng; yúnsù yùndòng
+dan-Latn-DK		; 
+deu-Latn-DE	ungleichförmige Kreisbewegung	Kreisbewegung; gleichförmige Bewegung
 eng-Latn-US	non-uniform circular motion	circular motion; uniform motion
-fin-Latn-FI		
-fra-Latn-FR	mouvement circulaire non uniforme	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	ひとうそくえんうんどう、ふとうそくえんうんどう	
-jpn-Jpan-JP	非等速円運動、不等速円運動	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU	неравноме́рное кругово́е движе́ние	
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; 
+fra-Latn-FR	mouvement circulaire non uniforme	mouvement circulaire; mouvement uniforme
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	ひとうそくえんうんどう、ふとうそくえんうんどう	えんうんどう; とうそくうんどう
+jpn-Jpan-JP	非等速円運動、不等速円運動	円運動；等速運動
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU	неравноме́рное кругово́е движе́ние	кругово́е движе́ние; равноме́рное движе́ние
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
 zxx-Zmth-ZZ		

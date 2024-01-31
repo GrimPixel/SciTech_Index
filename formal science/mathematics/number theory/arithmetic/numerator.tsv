@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	分子（分数）	
-cmn-Latn-CN	fěn zǐ (fēn shù)	
-dan-Latn-DK		
-deu-Latn-DE	Zähler	
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	分子（分数）	分数；运算数、运算元
+cmn-Latn-CN	fěn zǐ (fēn shù)	fēn shù; yùnsuàn shù, yùnsuàn yuán
+dan-Latn-DK		; 
+deu-Latn-DE	Zähler	Bruch [m]; Operand [m]
 eng-Latn-US	numerator	fraction; operand
-fin-Latn-FI		
-fra-Latn-FR	numérateur	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	ぶんし（ぶんすう）	
-jpn-Jpan-JP	分子（分数）	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU	числи́тель	
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; 
+fra-Latn-FR	numérateur	fraction; opérande [m]
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	ぶんし（ぶんすう）	ぶんすう; ひえんざんし
+jpn-Jpan-JP	分子（分数）	分数；被演算子
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU	числи́тель	дробь; опера́нд
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
 zxx-Zmth-ZZ		

@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	洛伦兹力	
-cmn-Latn-CN	Luòlúnzī lì	
-dan-Latn-DK		
-deu-Latn-DE	Lorentzkraft [f]	
+arb-Arab-ZZ		؛ ؛ ؛ 
+cmn-Hans-CN	洛伦兹力	；力；点电荷；速度
+cmn-Latn-CN	Luòlúnzī lì	; lì; diǎn diànhè; sù dù
+dan-Latn-DK		; ; ; 
+deu-Latn-DE	Lorentzkraft [f]	; Kraft [f]; Punktladung; Geschwindigkeit
 eng-Latn-US	Lorentz force, electromagnetic force	electromagnetic field; force; point charge; velocity
-fin-Latn-FI		
-fra-Latn-FR	force [f] de Lorentz, force [f] électromagnétique	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	ローレンツりょく	
-jpn-Jpan-JP	ローレンツ力	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU	си́ла Ло́ренца	
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; ; ; 
+fra-Latn-FR	force [f] de Lorentz, force [f] électromagnétique	; force; ; vecteur vitesse, vélocité
+heb-Hebr-IL		; ; ; 
+hin-Deva-IN		; ; ; 
+ita-Latn-IT		; ; ; 
+jpn-Hrkt-JP	ローレンツりょく	; ちから; てんでんか; そくど
+jpn-Jpan-JP	ローレンツ力	；力；点電荷；速度
+kor-Hang-KR		; ; ; 
+kor-Kore-KR		; ; ; 
+nld-Latn-NL		; ; ; 
+nob-Latn-NO		; ; ; 
+pes-Aran-IR		؛ ؛ ؛ 
+por-Latn-PT		; ; ; 
+rus-Cyrl-RU	си́ла Ло́ренца	; си́ла; ; ско́рость
+spa-Latn-ES		; ; ; 
+swe-Latn-SE		; ; ; 
+tur-Latn-TR		; ; ; 
 zxx-Zmth-ZZ		

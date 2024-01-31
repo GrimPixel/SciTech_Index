@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	弯曲模量	
-cmn-Latn-CN	wānqū móliàng	
-dan-Latn-DK		
-deu-Latn-DE		
+arb-Arab-ZZ		؛ ؛ 
+cmn-Hans-CN	弯曲模量	；应变；应力
+cmn-Latn-CN	wānqū móliàng	; yìng biàn; yìng lì
+dan-Latn-DK		; ; 
+deu-Latn-DE		; Dehnung; Spannung
 eng-Latn-US	bending modulus, flexural modulus	flexural deformation; strain; stress
-fin-Latn-FI		
-fra-Latn-FR		
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP		
-jpn-Jpan-JP		
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU		
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; ; 
+fra-Latn-FR		; ; 
+heb-Hebr-IL		; ; 
+hin-Deva-IN		; ; 
+ita-Latn-IT		; ; 
+jpn-Hrkt-JP		; ひずみ; おうりょく
+jpn-Jpan-JP		；ひずみ；応力
+kor-Hang-KR		; ; 
+kor-Kore-KR		; ; 
+nld-Latn-NL		; ; 
+nob-Latn-NO		; ; 
+pes-Aran-IR		؛ ؛ 
+por-Latn-PT		; ; 
+rus-Cyrl-RU		; ; 
+spa-Latn-ES		; ; 
+swe-Latn-SE		; ; 
+tur-Latn-TR		; ; 
 zxx-Zmth-ZZ		

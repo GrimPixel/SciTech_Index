@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	超导现象	
-cmn-Latn-CN	chāodǎo xiànxiàng	
-dan-Latn-DK		
-deu-Latn-DE	Supraleitung	
+arb-Arab-ZZ		؛ ؛ 
+cmn-Hans-CN	超导现象	电导体；电阻；温度
+cmn-Latn-CN	chāodǎo xiànxiàng	diàn dǎotǐ; diàn zǔ; wēn dù
+dan-Latn-DK		; ; 
+deu-Latn-DE	Supraleitung	elektrischer Leiter; Wirkwiderstand [m]; Temperatur
 eng-Latn-US	superconductivity	electrical conductor; electrical resistance; temperature
-fin-Latn-FI		
-fra-Latn-FR	supraconduction, supraconductivité	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	ちょうでんどう	
-jpn-Jpan-JP	超伝導	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR	اَبَررسانایی	
-por-Latn-PT		
-rus-Cyrl-RU	сверхпроводи́мость	
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; ; 
+fra-Latn-FR	supraconduction, supraconductivité	conducteur d’électricité; ; température
+heb-Hebr-IL		; ; 
+hin-Deva-IN		; ; 
+ita-Latn-IT		; ; 
+jpn-Hrkt-JP	ちょうでんどう	でんきでんどうたい; ていこう; おんど
+jpn-Jpan-JP	超伝導	電気伝導体；抵抗；温度
+kor-Hang-KR		; ; 
+kor-Kore-KR		; ; 
+nld-Latn-NL		; ; 
+nob-Latn-NO		; ; 
+pes-Aran-IR	اَبَررسانایی	؛ ؛ 
+por-Latn-PT		; ; 
+rus-Cyrl-RU	сверхпроводи́мость	проводни́к; сопротивле́ние; температу́ра
+spa-Latn-ES		; ; 
+swe-Latn-SE		; ; 
+tur-Latn-TR		; ; 
 zxx-Zmth-ZZ		

@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN		
-cmn-Latn-CN		
-dan-Latn-DK		
-deu-Latn-DE		
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN		笛卡尔积；二元关系
+cmn-Latn-CN		Díkǎ’ěr jī; èryuán guānxi
+dan-Latn-DK		; 
+deu-Latn-DE		Mengenprodukt [n], kartesisches Produkt; binäre Relation
 eng-Latn-US	finitary relation	Cartesian product; binary relation
-fin-Latn-FI		
-fra-Latn-FR		
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP		
-jpn-Jpan-JP		
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU		
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; 
+fra-Latn-FR		produit cartésien; relation binaire
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP		ちょくせき、デカルト­せき; 
+jpn-Jpan-JP		直積、デカルト積；
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU		дека́ртово произведе́ние, прямо́е произведе́ние; 
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
 zxx-Zmth-ZZ		

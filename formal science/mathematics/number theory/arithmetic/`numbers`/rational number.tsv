@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	有理数	
-cmn-Latn-CN	yǒulǐ shù	
-dan-Latn-DK		
-deu-Latn-DE	rationale Zahl	
+arb-Arab-ZZ		؛ ؛ 
+cmn-Hans-CN	有理数	分母；整数；分子（分数）
+cmn-Latn-CN	yǒulǐ shù	fēn mǔ; zhěng shù; fěn zǐ (fēn shù)
+dan-Latn-DK		; ; 
+deu-Latn-DE	rationale Zahl	Nenner; Ganzzahl [f], ganze Zahl; Zähler
 eng-Latn-US	rational number	denominator; integer; numerator
-fin-Latn-FI		
-fra-Latn-FR	nombre rationnel	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	ゆうりすう	
-jpn-Jpan-JP	有理数	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU	рационáльное числó	
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
-zxx-Zmth-ZZ	ن, QQ	
+fin-Latn-FI		; ; 
+fra-Latn-FR	nombre rationnel	dénominateur; enti; numérateur
+heb-Hebr-IL		; ; 
+hin-Deva-IN		; ; 
+ita-Latn-IT		; ; 
+jpn-Hrkt-JP	ゆうりすう	ぶんぼ; せいすう; ぶんし（ぶんすう）
+jpn-Jpan-JP	有理数	分母；整数；分子（分数）
+kor-Hang-KR		; ; 
+kor-Kore-KR		; ; 
+nld-Latn-NL		; ; 
+nob-Latn-NO		; ; 
+pes-Aran-IR		؛ ؛ 
+por-Latn-PT		; ; 
+rus-Cyrl-RU	рационáльное числó	знамена́тель; це́лое число́; числи́тель
+spa-Latn-ES		; ; 
+swe-Latn-SE		; ; 
+tur-Latn-TR		; ; 
+zxx-Zmth-ZZ	QQ, ن	

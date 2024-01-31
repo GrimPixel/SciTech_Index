@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	势能、位能	
-cmn-Latn-CN	shì néng, wèi néng	
-dan-Latn-DK		
-deu-Latn-DE	Lageenergie, potentielle Energie, potenzielle Energie	
+arb-Arab-ZZ		؛ ؛ 
+cmn-Hans-CN	势能、位能	；物体、物理实体；
+cmn-Latn-CN	shì néng, wèi néng	; wù tǐ, wùlǐ shítǐ; 
+dan-Latn-DK		; ; 
+deu-Latn-DE	Lageenergie, potentielle Energie, potenzielle Energie	; physikalischer Körper; 
 eng-Latn-US	potential energy	energy; physical body, physical object; position
-fin-Latn-FI		
-fra-Latn-FR	énergie potentielle	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	いちエネルギー	
-jpn-Jpan-JP	位置エネルギー	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU	потенциа́льная эне́ргия	
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; ; 
+fra-Latn-FR	énergie potentielle	; corps [m] physique; 
+heb-Hebr-IL		; ; 
+hin-Deva-IN		; ; 
+ita-Latn-IT		; ; 
+jpn-Hrkt-JP	いちエネルギー	; ぶったい; 
+jpn-Jpan-JP	位置エネルギー	；物体；
+kor-Hang-KR		; ; 
+kor-Kore-KR		; ; 
+nld-Latn-NL		; ; 
+nob-Latn-NO		; ; 
+pes-Aran-IR		؛ ؛ 
+por-Latn-PT		; ; 
+rus-Cyrl-RU	потенциа́льная эне́ргия	; те́ло в фи́зике, физи́ческий объе́кт, физи́ческое те́ло; 
+spa-Latn-ES		; ; 
+swe-Latn-SE		; ; 
+tur-Latn-TR		; ; 
 zxx-Zmth-ZZ	E_p, PE, U, V	

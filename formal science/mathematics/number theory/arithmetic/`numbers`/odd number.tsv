@@ -1,9 +1,9 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	奇数	
-cmn-Latn-CN	jī shù	
+cmn-Hans-CN	奇数	奇偶性
+cmn-Latn-CN	jī shù	jī’ǒu xìng
 dan-Latn-DK		
-deu-Latn-DE	ungerade Zahl	
+deu-Latn-DE	ungerade Zahl	Parität
 eng-Latn-US	odd number	parity
 fin-Latn-FI		
 fra-Latn-FR	nombre impair	

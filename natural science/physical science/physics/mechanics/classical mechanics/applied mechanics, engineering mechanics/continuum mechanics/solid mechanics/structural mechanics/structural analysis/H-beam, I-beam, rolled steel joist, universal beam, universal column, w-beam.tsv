@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	工字梁	
-cmn-Latn-CN	gōngzì liáng	
+cmn-Hans-CN	工字梁	梁
+cmn-Latn-CN	gōngzì liáng	liáng
 dan-Latn-DK		
-deu-Latn-DE		
+deu-Latn-DE		Träger
 eng-Latn-US	H-beam, I-beam, rolled steel joist, universal beam, universal column, w-beam	beam
 fin-Latn-FI		
-fra-Latn-FR		
+fra-Latn-FR		poutre [f]
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP		
-jpn-Jpan-JP		
+jpn-Hrkt-JP		はり
+jpn-Jpan-JP		梁
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	двута́вр	
+rus-Cyrl-RU	двута́вр	ба́лка
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

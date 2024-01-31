@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	流体	
-cmn-Latn-CN	liú tǐ	
-dan-Latn-DK		
-deu-Latn-DE	Fluid [n]	
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	流体	形变；
+cmn-Latn-CN	liú tǐ	xíng biàn; 
+dan-Latn-DK		; 
+deu-Latn-DE	Fluid [n]	Deformation, Verformung, Verzerrung; 
 eng-Latn-US	fluid	deformation; shear stress
-fin-Latn-FI		
-fra-Latn-FR	fluide [m]	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	りゅうたい	
-jpn-Jpan-JP	流体	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR	سَیّال	
-por-Latn-PT		
-rus-Cyrl-RU	флюи́д	
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; 
+fra-Latn-FR	fluide [m]	déformation des matériaux [m-pl]; 
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	りゅうたい	へんけい; 
+jpn-Jpan-JP	流体	変形；
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR	سَیّال	؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU	флюи́д	деформа́ция; 
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
 zxx-Zmth-ZZ		

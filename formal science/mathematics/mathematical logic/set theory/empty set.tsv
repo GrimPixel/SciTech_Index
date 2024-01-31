@@ -1,25 +1,25 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	空集	
-cmn-Latn-CN	kōng jí	
+cmn-Hans-CN	空集	集、集合
+cmn-Latn-CN	kōng jí	jí, jíhé
 dan-Latn-DK		
-deu-Latn-DE	leere Menge	
+deu-Latn-DE	leere Menge	Menge
 eng-Latn-US	empty set	set
 fin-Latn-FI		
-fra-Latn-FR	ensemble vide	
+fra-Latn-FR	ensemble vide	ensemble [m]
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	くうしゅうごう	
-jpn-Jpan-JP	空集合	
+jpn-Hrkt-JP	くうしゅうごう	しゅうごう
+jpn-Jpan-JP	空集合	集合
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	пусто́е мно́жество	
+rus-Cyrl-RU	пусто́е мно́жество	мно́жество
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		
-zxx-Zmth-ZZ	{ }, O/	
+zxx-Zmth-ZZ	O/, { }	

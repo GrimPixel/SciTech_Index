@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	等比数列	
-cmn-Latn-CN	děngbǐ shùliè	
-dan-Latn-DK		
-deu-Latn-DE	geometrische Folge	
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	等比数列	序列；零
+cmn-Latn-CN	děngbǐ shùliè	xù liè; líng
+dan-Latn-DK		; 
+deu-Latn-DE	geometrische Folge	Folge, Sequenz; Null [f]
 eng-Latn-US	geometric progression, geometric sequence	sequence; zero
-fin-Latn-FI		
-fra-Latn-FR	suite [f] géométrique	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	きかすうれつ、とうひすうれつ	
-jpn-Jpan-JP	幾何数列、等比数列	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU		
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; 
+fra-Latn-FR	suite [f] géométrique	suite [f] (mathématiques); zéro [m]
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	きかすうれつ、とうひすうれつ	れつ（すうがく）; れい、ゼロ
+jpn-Jpan-JP	幾何数列、等比数列	列（数学）；零、ゼロ
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU		после́довательность; ноль [м], нуль [м]
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
 zxx-Zmth-ZZ		

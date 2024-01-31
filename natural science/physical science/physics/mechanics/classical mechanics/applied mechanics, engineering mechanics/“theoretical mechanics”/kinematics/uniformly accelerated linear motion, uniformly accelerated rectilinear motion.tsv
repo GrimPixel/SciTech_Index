@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	匀加速度直线运动	
-cmn-Latn-CN	yún jiāsùdù zhíxiàn yùndòng	
-dan-Latn-DK		
-deu-Latn-DE	gleichmäßig beschleunigte geradlineare Bewegung	
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	匀加速度直线运动	开普勒第一定律、轨道定律、椭圆定律；直线运动
+cmn-Latn-CN	yún jiāsùdù zhíxiàn yùndòng	Kāipǔlè dìyī dìnglǜ, guǐdào dìnglǜ, tuǒyuán dìnglǜ; zhíxiàn yùndòng
+dan-Latn-DK		; 
+deu-Latn-DE	gleichmäßig beschleunigte geradlineare Bewegung	erstes keplersches Gesetz; gradlinige Bewegung, lineare Bewegung
 eng-Latn-US	uniformly accelerated linear motion, uniformly accelerated rectilinear motion	Kepler’s first law; linear motion, rectilinear motion
-fin-Latn-FI		
-fra-Latn-FR	mouvement rectiligne uniformément accéléré	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	とうかそくどちょくせんうんどう	
-jpn-Jpan-JP	等加速度直線運動	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU		
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; 
+fra-Latn-FR	mouvement rectiligne uniformément accéléré	loi des orbites, première loi de Kepler; mouvement rectiligne
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	とうかそくどちょくせんうんどう	だえんきどうのほうそく、ケプラーのだいいちほうそく; ちょくどうせんうんどう
+jpn-Jpan-JP	等加速度直線運動	楕円軌道の法則、ケプラーの第一法則；直動線運動
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU		зако́н э́ллипсов, пе́рвый зако́н Ке́плера; прямолине́йное движе́ние
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
 zxx-Zmth-ZZ		

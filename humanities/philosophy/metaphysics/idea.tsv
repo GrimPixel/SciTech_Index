@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	构思、构想、理念、意念	
-cmn-Latn-CN	gòu sī, gòu xiǎng, lǐ niàn, yì niàn	
+cmn-Hans-CN	构思、构想、理念、意念	思维、思想
+cmn-Latn-CN	gòu sī, gòu xiǎng, lǐ niàn, yì niàn	sī wéi, sī xiǎng
 dan-Latn-DK		
-deu-Latn-DE	Idee	
+deu-Latn-DE	Idee	Denken
 eng-Latn-US	idea	thought
 fin-Latn-FI		
-fra-Latn-FR	idée	
+fra-Latn-FR	idée	pensée
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	かんねん	
-jpn-Jpan-JP	観念	
+jpn-Hrkt-JP	かんねん	しこう（思考） [0]
+jpn-Jpan-JP	観念	思考
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	иде́я	
+rus-Cyrl-RU	иде́я	мышле́ние
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

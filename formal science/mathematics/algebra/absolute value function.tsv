@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	绝对值函数	
-cmn-Latn-CN	juéduìzhí hánshù	
-dan-Latn-DK		
-deu-Latn-DE	Betragsfunktion	
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	绝对值函数	绝对值、模；函数
+cmn-Latn-CN	juéduìzhí hánshù	juéduì zhí, mó; hán shù
+dan-Latn-DK		; 
+deu-Latn-DE	Betragsfunktion	Absolutbetrag [m], Absolutwert [m], absoluter Betrag, absoluter Wert; Funktion
 eng-Latn-US	absolute value function	absolute value, modulus; function
-fin-Latn-FI		
-fra-Latn-FR		
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	ぜったいちかんすう	
-jpn-Jpan-JP	絶対値関数	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU		
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; 
+fra-Latn-FR		module [m], valeur absolue; fonction
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	ぜったいちかんすう	ぜったいち、ぼすう; 
+jpn-Jpan-JP	絶対値関数	絶対値、母数；
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU		абсолю́тная величина́, мо́дуль [м]; 
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
 zxx-Zmth-ZZ		

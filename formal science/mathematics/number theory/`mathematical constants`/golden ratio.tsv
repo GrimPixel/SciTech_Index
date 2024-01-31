@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	黄金比例、黄金分割比、黄金分割率	
-cmn-Latn-CN	huángjīn bǐlì, huángjīn fēngē bǐ, huángjīn fēngē lǜ	
-dan-Latn-DK		
-deu-Latn-DE	Goldener Schnitt	
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	黄金比例、黄金分割比、黄金分割率	比率、比值；和
+cmn-Latn-CN	huángjīn bǐlì, huángjīn fēngē bǐ, huángjīn fēngē lǜ	bǐ lǜ, bǐ zhí; hé
+dan-Latn-DK		; 
+deu-Latn-DE	Goldener Schnitt	Verhältnis; Summe
 eng-Latn-US	golden ratio	ratio; sum
-fin-Latn-FI		
-fra-Latn-FR	nombre [m] d’or, proportion dorée, section dorée	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	おうごんひ	
-jpn-Jpan-JP	黄金比	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU	золота́я пропо́рция, золото́е сече́ние	
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; 
+fra-Latn-FR	nombre [m] d’or, proportion dorée, section dorée	rapport; somme [f]
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	おうごんひ	ひ; わ
+jpn-Jpan-JP	黄金比	比；和
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU	золота́я пропо́рция, золото́е сече́ние	соотноше́ние; су́мма
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
 zxx-Zmth-ZZ	phi, varphi	

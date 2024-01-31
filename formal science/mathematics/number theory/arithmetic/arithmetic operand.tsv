@@ -1,12 +1,12 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	算术运算数、算术运算元	
-cmn-Latn-CN	suànshù yùnsuànshù, suànshù yùnsuànyuán	
+cmn-Hans-CN	算术运算数、算术运算元	算术运算
+cmn-Latn-CN	suànshù yùnsuànshù, suànshù yùnsuànyuán	suànshù yùnsuàn
 dan-Latn-DK		
-deu-Latn-DE	arithmetischer Operand	
+deu-Latn-DE	arithmetischer Operand	arithmetische Operation
 eng-Latn-US	arithmetic operand	arithmetic operation
 fin-Latn-FI		
-fra-Latn-FR	opérandeopérande arithmétique	
+fra-Latn-FR	opérandeopérande arithmétique	opération arithmétique
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		

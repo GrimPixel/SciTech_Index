@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	以二为底的对数	
-cmn-Latn-CN	yǐ èr wéi dǐ de duìshù	
+cmn-Hans-CN	以二为底的对数	底数（对数）、基数（对数）
+cmn-Latn-CN	yǐ èr wéi dǐ de duìshù	dǐ shù (duì shù), jī shù (duì shù)
 dan-Latn-DK		
-deu-Latn-DE	binärer Logarithmus, dualer Logarithmus	
+deu-Latn-DE	binärer Logarithmus, dualer Logarithmus	Basis [f] (Logarithmus)
 eng-Latn-US	binary logarithm	base (logarithm)
 fin-Latn-FI		
-fra-Latn-FR	logarithme [m] binaire	
+fra-Latn-FR	logarithme [m] binaire	base [f] (logarithme)
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	にしんたいすう	
-jpn-Jpan-JP	二進対数	
+jpn-Hrkt-JP	にしんたいすう	てい（たいすうえんざん）
+jpn-Jpan-JP	二進対数	底（対数演算）
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	двои́чный логари́фм	
+rus-Cyrl-RU	двои́чный логари́фм	основа́нием (логари́фм)
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

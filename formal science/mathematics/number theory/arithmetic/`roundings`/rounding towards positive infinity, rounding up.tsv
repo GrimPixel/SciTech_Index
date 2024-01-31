@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	向上取整	
-cmn-Latn-CN	xiàngshàng qǔ zhěng	
+cmn-Hans-CN	向上取整	无条件简化
+cmn-Latn-CN	xiàngshàng qǔ zhěng	wútiáojiàn jiǎnhuà
 dan-Latn-DK		
 deu-Latn-DE	Aufrunden	
 eng-Latn-US	rounding towards positive infinity, rounding up	direct rounding

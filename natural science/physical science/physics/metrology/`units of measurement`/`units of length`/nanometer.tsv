@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	纳米	
-cmn-Latn-CN	nàmǐ	
+cmn-Hans-CN	纳米	米
+cmn-Latn-CN	nàmǐ	mǐ
 dan-Latn-DK		
-deu-Latn-DE	Nanometer	
+deu-Latn-DE	Nanometer	Meter
 eng-Latn-US	nanometer	meter
 fin-Latn-FI		
-fra-Latn-FR	nanomètre [m]	
+fra-Latn-FR	nanomètre [m]	mètre [m]
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	ナノメートル	
-jpn-Jpan-JP	ナノメートル	
+jpn-Hrkt-JP	ナノメートル	メートル
+jpn-Jpan-JP	ナノメートル	メートル
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	наноме́тр	
+rus-Cyrl-RU	наноме́тр	ме́тр
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

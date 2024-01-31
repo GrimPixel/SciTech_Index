@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	麦克劳林级数	
-cmn-Latn-CN	Màikèláolín jíshù	
+cmn-Hans-CN	麦克劳林级数	泰勒级数
+cmn-Latn-CN	Màikèláolín jíshù	Tàilè jíshù
 dan-Latn-DK		
-deu-Latn-DE	Maclaurin-Reihe	
+deu-Latn-DE	Maclaurin-Reihe	Taylorreihe
 eng-Latn-US	Maclaurin series	Taylor series
 fin-Latn-FI		
-fra-Latn-FR	série de Maclaurin	
+fra-Latn-FR	série de Maclaurin	série de Taylor
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	マクローリンきゅうすう	
-jpn-Jpan-JP	マクローリン級数	
+jpn-Hrkt-JP	マクローリンきゅうすう	テイラーきゅうすう
+jpn-Jpan-JP	マクローリン級数	テイラー級数
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	ряд Маклорена	
+rus-Cyrl-RU	ряд Маклорена	ряд Те́йлора
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

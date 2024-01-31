@@ -12,12 +12,11 @@ for s_locale in ls_locale:
 		s_principal_locale = s_locale.strip()
 		break
 
-def s_get_item_separator(s_writing_system):
+def s_get_prerequisite_separator(s_writing_system):
 	if s_writing_system in ['Arab', 'Aran']:
 		if '⁏' in s_line:
 			return '⁏ '
-		else:
-			return '؛ '
+		return '؛ '
 	elif s_writing_system == 'Armn':
 		return '․ '
 	elif s_writing_system == 'Bamu':
@@ -30,8 +29,7 @@ def s_get_item_separator(s_writing_system):
 		return '፤ '
 	elif s_writing_system == 'Sgnw':
 		return '𝪉'
-	else:
-		return '; '
+	return '; '
 
 top_path = Path.cwd()
 top_path.joinpath(s_export_directory).mkdir(exist_ok=True)
@@ -52,7 +50,7 @@ for s_file_path in glob(f'{top_path}/**/*.tsv', recursive=True):
 				continue
 
 			s_writing_system = ls_line[0].split('-')[1]
-			s_prerequisite_separator = s_get_item_separator(s_writing_system)
+			s_prerequisite_separator = s_get_prerequisite_separator(s_writing_system)
 
 			s_prerequisite = ls_line[-1]
 			ls_prerequisite = s_prerequisite.split(s_prerequisite_separator)

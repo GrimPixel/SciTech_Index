@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	屈服点	
-cmn-Latn-CN	qūfú diǎn	
+cmn-Hans-CN	屈服点	应力-应变曲线
+cmn-Latn-CN	qūfú diǎn	yìnglì-yìngbiàn qūxiàn
 dan-Latn-DK		
-deu-Latn-DE	Dehngrenze	
+deu-Latn-DE	Dehngrenze	Spannungs-Dehnungs-Diagramm [n]
 eng-Latn-US	yield point	stress-strain curve
 fin-Latn-FI		
-fra-Latn-FR		
+fra-Latn-FR		courbe [f] de traction
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	こうふくてん	
-jpn-Jpan-JP	降伏点	
+jpn-Hrkt-JP	こうふくてん	おうりょく-ひずみきょくせん、おうりょく-ひずみせんず
+jpn-Jpan-JP	降伏点	応力-ひずみ曲線、応力-ひずみ線図
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU		
+rus-Cyrl-RU		диагра́мма деформи́рования
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

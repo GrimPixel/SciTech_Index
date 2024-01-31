@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	带余除法、欧几里德除法	
-cmn-Latn-CN	dàiyú chúfǎ, Ōujīlǐdé chúfǎ	
+cmn-Hans-CN	带余除法、欧几里德除法	商
+cmn-Latn-CN	dàiyú chúfǎ, Ōujīlǐdé chúfǎ	shāng
 dan-Latn-DK		
-deu-Latn-DE	Division mit Rest [m]	
+deu-Latn-DE	Division mit Rest [m]	Quotient [m]
 eng-Latn-US	Euclidean division, division with remainder	quotient
 fin-Latn-FI		
-fra-Latn-FR		
+fra-Latn-FR		quotient
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP		
-jpn-Jpan-JP		
+jpn-Hrkt-JP		しょう
+jpn-Jpan-JP		商
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU		
+rus-Cyrl-RU		ча́стное
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

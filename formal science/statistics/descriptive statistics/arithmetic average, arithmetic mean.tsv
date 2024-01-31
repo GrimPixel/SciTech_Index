@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	算术平均数	
-cmn-Latn-CN	suànshù píngjūnshù	
+cmn-Hans-CN	算术平均数	和
+cmn-Latn-CN	suànshù píngjūnshù	hé
 dan-Latn-DK		
-deu-Latn-DE	arithmetische Mittel, arithmetischer Mittelwert	
+deu-Latn-DE	arithmetische Mittel, arithmetischer Mittelwert	Summe
 eng-Latn-US	arithmetic average, arithmetic mean	sum
 fin-Latn-FI		
-fra-Latn-FR	moyenne arithmétique	
+fra-Latn-FR	moyenne arithmétique	somme [f]
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	さんじゅつへいきん、そうかへいきん	
-jpn-Jpan-JP	算術平均、相加平均	
+jpn-Hrkt-JP	さんじゅつへいきん、そうかへいきん	わ
+jpn-Jpan-JP	算術平均、相加平均	和
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	сре́днее арифмети́ческое	
+rus-Cyrl-RU	сре́днее арифмети́ческое	су́мма
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

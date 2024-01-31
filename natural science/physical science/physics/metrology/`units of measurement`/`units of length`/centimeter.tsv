@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	厘米	
-cmn-Latn-CN	límǐ	
+cmn-Hans-CN	厘米	米
+cmn-Latn-CN	límǐ	mǐ
 dan-Latn-DK		
-deu-Latn-DE	Centimeter	
+deu-Latn-DE	Centimeter	Meter
 eng-Latn-US	centimeter	meter
 fin-Latn-FI		
-fra-Latn-FR	centimètre [m]	
+fra-Latn-FR	centimètre [m]	mètre [m]
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	センチ、センチメートル	
-jpn-Jpan-JP	センチ、センチメートル	
+jpn-Hrkt-JP	センチ、センチメートル	メートル
+jpn-Jpan-JP	センチ、センチメートル	メートル
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	сантиме́тр	
+rus-Cyrl-RU	сантиме́тр	ме́тр
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

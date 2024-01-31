@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	速度	
-cmn-Latn-CN	sù dù	
-dan-Latn-DK		
-deu-Latn-DE	Geschwindigkeit	
+arb-Arab-ZZ		؛ ؛ 
+cmn-Hans-CN	速度	；物体、物理实体；速率
+cmn-Latn-CN	sù dù	; wù tǐ, wùlǐ shítǐ; sù lǜ
+dan-Latn-DK		; ; 
+deu-Latn-DE	Geschwindigkeit	; physikalischer Körper; Schnelligkeit
 eng-Latn-US	velocity	directional derivative; physical body, physical object; speed
-fin-Latn-FI		
-fra-Latn-FR	vecteur vitesse, vélocité	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	そくど	
-jpn-Jpan-JP	速度	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU	ско́рость	
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; ; 
+fra-Latn-FR	vecteur vitesse, vélocité	; corps [m] physique; vitesse
+heb-Hebr-IL		; ; 
+hin-Deva-IN		; ; 
+ita-Latn-IT		; ; 
+jpn-Hrkt-JP	そくど	; ぶったい; はやさ
+jpn-Jpan-JP	速度	；物体；速さ
+kor-Hang-KR		; ; 
+kor-Kore-KR		; ; 
+nld-Latn-NL		; ; 
+nob-Latn-NO		; ; 
+pes-Aran-IR		؛ ؛ 
+por-Latn-PT		; ; 
+rus-Cyrl-RU	ско́рость	; те́ло в фи́зике, физи́ческий объе́кт, физи́ческое те́ло; ско́рость движе́ния
+spa-Latn-ES		; ; 
+swe-Latn-SE		; ; 
+tur-Latn-TR		; ; 
 zxx-Zmth-ZZ	bbv, vecv	

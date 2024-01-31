@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	二项分布	
-cmn-Latn-CN	èrxiàng fēnbù	
+cmn-Hans-CN	二项分布	离散概率分布
+cmn-Latn-CN	èrxiàng fēnbù	lísǎn gàilǜ fēnbù
 dan-Latn-DK		
-deu-Latn-DE	Binomialverteilung	
+deu-Latn-DE	Binomialverteilung	diskrete Verteilung, diskrete Wahrscheinlichkeitsverteilung
 eng-Latn-US	binomial distribution	discrete probability distribution
 fin-Latn-FI		
 fra-Latn-FR	loi binomiale	
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	にこうぶんぷ	
-jpn-Jpan-JP	二項分布	
+jpn-Hrkt-JP	にこうぶんぷ	りさんかくりつぶんぷ、りさんがたかくりつぶんぷ
+jpn-Jpan-JP	二項分布	離散確率分布、離散型確率分布
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	биномиа́льное распределе́ние	
+rus-Cyrl-RU	биномиа́льное распределе́ние	дискре́тное распределе́ние
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

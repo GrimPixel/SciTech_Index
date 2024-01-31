@@ -1,12 +1,12 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN		
-cmn-Latn-CN		
+cmn-Hans-CN		算术运算
+cmn-Latn-CN		suànshù yùnsuàn
 dan-Latn-DK		
-deu-Latn-DE		
+deu-Latn-DE		arithmetische Operation
 eng-Latn-US	algebraic operation	arithmetic operation
 fin-Latn-FI		
-fra-Latn-FR		
+fra-Latn-FR		opération arithmétique
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		

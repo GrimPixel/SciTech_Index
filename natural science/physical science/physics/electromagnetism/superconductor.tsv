@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	超导体	
-cmn-Latn-CN	chāodǎo tǐ	
+cmn-Hans-CN	超导体	超导现象
+cmn-Latn-CN	chāodǎo tǐ	chāodǎo xiànxiàng
 dan-Latn-DK		
-deu-Latn-DE	Supraleiter	
+deu-Latn-DE	Supraleiter	Supraleitung
 eng-Latn-US	superconductor	superconductivity
 fin-Latn-FI		
-fra-Latn-FR	supraconducteur	
+fra-Latn-FR	supraconducteur	supraconduction, supraconductivité
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	ちょうでんどうたい	
-jpn-Jpan-JP	超伝導体	
+jpn-Hrkt-JP	ちょうでんどうたい	ちょうでんどう
+jpn-Jpan-JP	超伝導体	超伝導
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
-pes-Aran-IR		
+pes-Aran-IR		اَبَررسانایی
 por-Latn-PT		
-rus-Cyrl-RU	сверхпроводни́к	
+rus-Cyrl-RU	сверхпроводни́к	сверхпроводи́мость
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

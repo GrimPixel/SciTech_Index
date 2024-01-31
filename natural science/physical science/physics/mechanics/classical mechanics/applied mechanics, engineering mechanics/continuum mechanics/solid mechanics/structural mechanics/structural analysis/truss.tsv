@@ -1,12 +1,12 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	桁架	
-cmn-Latn-CN	héng jià	
+cmn-Hans-CN	桁架	结构构件
+cmn-Latn-CN	héng jià	jiégòu gòujiàn
 dan-Latn-DK		
-deu-Latn-DE	Fachwerk [n]	
+deu-Latn-DE	Fachwerk [n]	Tragelement
 eng-Latn-US	truss	structural element
 fin-Latn-FI		
-fra-Latn-FR	système triangulé, treillis [m]	
+fra-Latn-FR	système triangulé, treillis [m]	ossature
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		

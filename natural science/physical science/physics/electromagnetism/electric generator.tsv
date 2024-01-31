@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	发电机	
-cmn-Latn-CN	fādiàn jī	
+cmn-Hans-CN	发电机	超导现象
+cmn-Latn-CN	fādiàn jī	chāodǎo xiànxiàng
 dan-Latn-DK		
-deu-Latn-DE	elektrischer Generator	
+deu-Latn-DE	elektrischer Generator	Supraleitung
 eng-Latn-US	electric generator	superconductivity
 fin-Latn-FI		
-fra-Latn-FR	générateur électrique	
+fra-Latn-FR	générateur électrique	supraconduction, supraconductivité
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	はつでんき	
-jpn-Jpan-JP	発電機	
+jpn-Hrkt-JP	はつでんき	ちょうでんどう
+jpn-Jpan-JP	発電機	超伝導
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
-pes-Aran-IR		
+pes-Aran-IR		اَبَررسانایی
 por-Latn-PT		
-rus-Cyrl-RU	электри́ческий генера́тор	
+rus-Cyrl-RU	электри́ческий генера́тор	сверхпроводи́мость
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

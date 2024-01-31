@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	谢费尔竖线	
-cmn-Latn-CN	Xièfèi’ěr shùxiàn	
+cmn-Hans-CN	谢费尔竖线	逻辑联结词、逻辑运算符
+cmn-Latn-CN	Xièfèi’ěr shùxiàn	luóji liánjié cí, luóji yùnsuàn fú
 dan-Latn-DK		
-deu-Latn-DE	shefferscher Strich	
+deu-Latn-DE	shefferscher Strich	Logische Verknüpfung
 eng-Latn-US	Sheffer stroke, alternative denial	logical connective, logical operator, sentential connective, sentential operator
 fin-Latn-FI		
-fra-Latn-FR	barre [f] de Sheffer	
+fra-Latn-FR	barre [f] de Sheffer	connecteur [m] logique
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	ひていろんりせき、シェファーのぼうきごう	
-jpn-Jpan-JP	否定論理積、シェファーの棒記号	
+jpn-Hrkt-JP	ひていろんりせき、シェファーのぼうきごう	ろんりえんざんし、ろんりけつごうし
+jpn-Jpan-JP	否定論理積、シェファーの棒記号	論理演算子、論理結合子
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	штрих Ше́ффера	
+rus-Cyrl-RU	штрих Ше́ффера	логи́ческая свя́зка, логи́ческий опера́тор, пропозициона́льная свя́зка
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

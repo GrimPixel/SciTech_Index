@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	乘法算法	
-cmn-Latn-CN	chéngfǎ suànfǎ	
-dan-Latn-DK		
-deu-Latn-DE		
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	乘法算法	；乘法
+cmn-Latn-CN	chéngfǎ suànfǎ	; chéngfǎ
+dan-Latn-DK		; 
+deu-Latn-DE		; Multiplikation
 eng-Latn-US	multiplication algorithm	algorithm; multiplication
-fin-Latn-FI		
-fra-Latn-FR	algorithme [m] de multiplication	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP		
-jpn-Jpan-JP		
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU		
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; 
+fra-Latn-FR	algorithme [m] de multiplication	; multiplication
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP		; じょうほう
+jpn-Jpan-JP		；乗法
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU		; умноже́ние
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
 zxx-Zmth-ZZ		

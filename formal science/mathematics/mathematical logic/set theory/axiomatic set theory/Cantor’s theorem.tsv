@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	康托尔定理	
-cmn-Latn-CN	Kāngtuō’ěr dìnglǐ	
-dan-Latn-DK		
-deu-Latn-DE	Satz [m] von Cantor	
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	康托尔定理	浓度、势；
+cmn-Latn-CN	Kāngtuō’ěr dìnglǐ	nóng dù, shì; 
+dan-Latn-DK		; 
+deu-Latn-DE	Satz [m] von Cantor	Kardinalität, Mächtigkeit; 
 eng-Latn-US	Cantor’s theorem	cardinality; power set
-fin-Latn-FI		
-fra-Latn-FR	théorème de Cantor	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	カントールのていり	
-jpn-Jpan-JP	カントールの定理	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU	теоре́ма Ка́нтора	
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; 
+fra-Latn-FR	théorème de Cantor	cardinalité; 
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	カントールのていり	のうど、カーディナリティ; 
+jpn-Jpan-JP	カントールの定理	濃度、カーディナリティ；
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU	теоре́ма Ка́нтора	мо́щность; 
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
 zxx-Zmth-ZZ		

@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	非正数	
-cmn-Latn-CN	fēizhèng shù	
+cmn-Hans-CN	非正数	正数
+cmn-Latn-CN	fēizhèng shù	zhèng shù
 dan-Latn-DK		
-deu-Latn-DE	nichtpositive Zahl	
+deu-Latn-DE	nichtpositive Zahl	positive Zahl
 eng-Latn-US	non-positive number	positive number
 fin-Latn-FI		
-fra-Latn-FR	nombre [m] non positif	
+fra-Latn-FR	nombre [m] non positif	nombre positif
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	せいでないすう	
-jpn-Jpan-JP	正でない数	
+jpn-Hrkt-JP	せいでないすう	せいすう、せいのすう
+jpn-Jpan-JP	正でない数	正数、正の数
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	неположи́тельное число́	
+rus-Cyrl-RU	неположи́тельное число́	число́ положи́тельно
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

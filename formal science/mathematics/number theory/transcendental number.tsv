@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	超越数	
-cmn-Latn-CN	chāoyuè shù	
+cmn-Hans-CN	超越数	代数数
+cmn-Latn-CN	chāoyuè shù	dàishù shù
 dan-Latn-DK		
-deu-Latn-DE	transzendente Zahl	
+deu-Latn-DE	transzendente Zahl	algebraische Zahl
 eng-Latn-US	transcendental number	algebraic number
 fin-Latn-FI		
-fra-Latn-FR	nombre [m] transcendant	
+fra-Latn-FR	nombre [m] transcendant	nombre [m] algébrique
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	ちょうえつすう	
-jpn-Jpan-JP	超越数	
+jpn-Hrkt-JP	ちょうえつすう	だいすうてきすう
+jpn-Jpan-JP	超越数	代数的数
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	трансценде́нтное число́	
+rus-Cyrl-RU	трансценде́нтное число́	алгебраи́ческое число́
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

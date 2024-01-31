@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	数值修约	
-cmn-Latn-CN	shùzhí xiūyuē	
-dan-Latn-DK		
-deu-Latn-DE	Runden, Rundung	
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	数值修约	；数
+cmn-Latn-CN	shùzhí xiūyuē	; shù
+dan-Latn-DK		; 
+deu-Latn-DE	Runden, Rundung	; Zahl [f] (abstrakte Identität)
 eng-Latn-US	rounding	approximate; number (abstract identity)
-fin-Latn-FI		
-fra-Latn-FR	arrondi [m]	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	はすうしょり	
-jpn-Jpan-JP	端数処理	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU	округле́ние	
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; 
+fra-Latn-FR	arrondi [m]	; nombre [m]
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	はすうしょり	; かず
+jpn-Jpan-JP	端数処理	；数
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU	округле́ние	; число́ (абстра́ктная иденти́чность)
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
 zxx-Zmth-ZZ		

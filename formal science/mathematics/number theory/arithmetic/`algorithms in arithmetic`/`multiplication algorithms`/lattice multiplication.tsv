@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	格子乘法、铺地锦算法	
-cmn-Latn-CN	gézi chéngfǎ, pūdìjǐn suànfǎ	
+cmn-Hans-CN	格子乘法、铺地锦算法	乘法
+cmn-Latn-CN	gézi chéngfǎ, pūdìjǐn suànfǎ	chéngfǎ
 dan-Latn-DK		
-deu-Latn-DE	Gittermethode	
+deu-Latn-DE	Gittermethode	Multiplikation
 eng-Latn-US	lattice multiplication	multiplication
 fin-Latn-FI		
-fra-Latn-FR	multiplication par jalousies [f-pl]	
+fra-Latn-FR	multiplication par jalousies [f-pl]	multiplication
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	こうしかけざん	
-jpn-Jpan-JP	格子掛け算	
+jpn-Hrkt-JP	こうしかけざん	じょうほう
+jpn-Jpan-JP	格子掛け算	乗法
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	решёточное умноже́ние	
+rus-Cyrl-RU	решёточное умноже́ние	умноже́ние
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

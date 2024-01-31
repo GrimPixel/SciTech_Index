@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	减数	
-cmn-Latn-CN	jiǎn shù	
-dan-Latn-DK		
-deu-Latn-DE	Subtrahend [m]	
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	减数	运算数、运算元；减法
+cmn-Latn-CN	jiǎn shù	yùnsuàn shù, yùnsuàn yuán; jiǎn fǎ
+dan-Latn-DK		; 
+deu-Latn-DE	Subtrahend [m]	Operand [m]; Subtraktion
 eng-Latn-US	subtrahend	operand; subtraction
-fin-Latn-FI		
-fra-Latn-FR	diminuteur	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	げんすう、ひくすう	
-jpn-Jpan-JP	減数、引く数	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU	вычита́емое	
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; 
+fra-Latn-FR	diminuteur	opérande [m]; soustraction
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	げんすう、ひくすう	ひえんざんし; げんぽう
+jpn-Jpan-JP	減数、引く数	被演算子；減法
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ تَفریق، مِنها
+por-Latn-PT		; 
+rus-Cyrl-RU	вычита́емое	опера́нд; вычита́ние
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
 zxx-Zmth-ZZ		

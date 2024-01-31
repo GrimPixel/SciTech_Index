@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	欧拉力	
-cmn-Latn-CN	Ōulā lì	
+cmn-Hans-CN	欧拉力	惯性力、假想力
+cmn-Latn-CN	Ōulā lì	guànxìng lì, jiǎxiǎng lì
 dan-Latn-DK		
-deu-Latn-DE	Eulerkraft [f]	
+deu-Latn-DE	Eulerkraft [f]	Trägheitskraft [f]
 eng-Latn-US	Euler force	fictitious force, inertial force, pseudo-force
 fin-Latn-FI		
-fra-Latn-FR		
+fra-Latn-FR		force [f] d’inertie, force fictive, force inertielle, pseudo-force [f]
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	オイラーりょく	
-jpn-Jpan-JP	オイラー力	
+jpn-Hrkt-JP	オイラーりょく	かんせいりょく、みかけのちから
+jpn-Jpan-JP	オイラー力	慣性力、見掛けの力
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU		
+rus-Cyrl-RU		инерцио́нная си́ла, си́ла ине́рции
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		

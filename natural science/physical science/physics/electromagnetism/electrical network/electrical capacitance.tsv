@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	电容	
-cmn-Latn-CN	diàn róng	
-dan-Latn-DK		
-deu-Latn-DE	elektrische Kapazität	
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	电容	；物体、物理实体
+cmn-Latn-CN	diàn róng	; wù tǐ, wùlǐ shítǐ
+dan-Latn-DK		; 
+deu-Latn-DE	elektrische Kapazität	; physikalischer Körper
 eng-Latn-US	electrical capacitance	electrical charge; physical body, physical object
-fin-Latn-FI		
-fra-Latn-FR	capacité électrique	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	せいでんようりょう、でんきようりょう、キャパシタンス	
-jpn-Jpan-JP	静電容量、電気容量、キャパシタンス	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU	электри́ческая ёмкость	
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; 
+fra-Latn-FR	capacité électrique	; corps [m] physique
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	せいでんようりょう、でんきようりょう、キャパシタンス	; ぶったい
+jpn-Jpan-JP	静電容量、電気容量、キャパシタンス	；物体
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU	электри́ческая ёмкость	; те́ло в фи́зике, физи́ческий объе́кт, физи́ческое те́ло
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
 zxx-Zmth-ZZ	C	

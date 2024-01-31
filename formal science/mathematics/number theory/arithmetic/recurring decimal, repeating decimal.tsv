@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	循环小数	
-cmn-Latn-CN	xúnhuán xiǎoshù	
-dan-Latn-DK		
-deu-Latn-DE	periodischer Dezimalbruch	
+arb-Arab-ZZ		؛ ؛ 
+cmn-Hans-CN	循环小数	小数表示法；无穷；零
+cmn-Latn-CN	xúnhuán xiǎoshù	xiǎoshù biǎoshì fǎ; wúqióng; líng
+dan-Latn-DK		; ; 
+deu-Latn-DE	periodischer Dezimalbruch	Dezimaldarstellung; Unendlichkeit; Null [f]
 eng-Latn-US	recurring decimal, repeating decimal	decimal representation; infinity; zero
-fin-Latn-FI		
-fra-Latn-FR	développement décimal périodique	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	じゅんかんしょうすう	
-jpn-Jpan-JP	循環小数	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU		
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; ; 
+fra-Latn-FR	développement décimal périodique	développement décimal; infini [m]; zéro [m]
+heb-Hebr-IL		; ; 
+hin-Deva-IN		; ; 
+ita-Latn-IT		; ; 
+jpn-Hrkt-JP	じゅんかんしょうすう	しょうすうひょうきほう; むげん; れい、ゼロ
+jpn-Jpan-JP	循環小数	小数表記法；無限；零、ゼロ
+kor-Hang-KR		; ; 
+kor-Kore-KR		; ; 
+nld-Latn-NL		; ; 
+nob-Latn-NO		; ; 
+pes-Aran-IR		؛ ؛ 
+por-Latn-PT		; ; 
+rus-Cyrl-RU		десяти́чное представле́ние; бесконе́чность; ноль [м], нуль [м]
+spa-Latn-ES		; ; 
+swe-Latn-SE		; ; 
+tur-Latn-TR		; ; 
 zxx-Zmth-ZZ		

@@ -1,25 +1,25 @@
 locale	concept	prerequisite
-arb-Arab-ZZ		
-cmn-Hans-CN	单位元、中立元	
-cmn-Latn-CN	dānwèi yuán, zhōnglì yuán	
-dan-Latn-DK		
-deu-Latn-DE	neutrales Element	
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	单位元、中立元	二元运算；集、集合
+cmn-Latn-CN	dānwèi yuán, zhōnglì yuán	èryuán yùnsuàn; jí, jíhé
+dan-Latn-DK		; 
+deu-Latn-DE	neutrales Element	binäre Verknüpfung, zweistellige Verknüpfung; Menge
 eng-Latn-US	identity element, neutral element	binary operation, dyadic operation; set
-fin-Latn-FI		
-fra-Latn-FR	élément identité, élément neutre	
-heb-Hebr-IL		
-hin-Deva-IN		
-ita-Latn-IT		
-jpn-Hrkt-JP	たんいげん、ちゅうりつげん	
-jpn-Jpan-JP	単位元、中立元	
-kor-Hang-KR		
-kor-Kore-KR		
-nld-Latn-NL		
-nob-Latn-NO		
-pes-Aran-IR		
-por-Latn-PT		
-rus-Cyrl-RU	нейтра́льный элеме́нт	
-spa-Latn-ES		
-swe-Latn-SE		
-tur-Latn-TR		
+fin-Latn-FI		; 
+fra-Latn-FR	élément identité, élément neutre	opération binaire; ensemble [m]
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	たんいげん、ちゅうりつげん	にこうえんざん; しゅうごう
+jpn-Jpan-JP	単位元、中立元	二項演算；集合
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU	нейтра́льный элеме́нт	бина́рная опера́ция, двуме́стная опера́ция; мно́жество
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
 zxx-Zmth-ZZ		

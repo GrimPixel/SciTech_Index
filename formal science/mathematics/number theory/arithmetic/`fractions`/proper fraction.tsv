@@ -1,24 +1,24 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	真分数	
-cmn-Latn-CN	zhēn fēnshù	
+cmn-Hans-CN	真分数	分数
+cmn-Latn-CN	zhēn fēnshù	fēn shù
 dan-Latn-DK		
-deu-Latn-DE	echter Bruch, eigentlicher Bruch	
+deu-Latn-DE	echter Bruch, eigentlicher Bruch	Bruch [m]
 eng-Latn-US	proper fraction	fraction
 fin-Latn-FI		
-fra-Latn-FR	fraction propre	
+fra-Latn-FR	fraction propre	fraction
 heb-Hebr-IL		
 hin-Deva-IN		
 ita-Latn-IT		
-jpn-Hrkt-JP	しんぶんすう	
-jpn-Jpan-JP	真分数	
+jpn-Hrkt-JP	しんぶんすう	ぶんすう
+jpn-Jpan-JP	真分数	分数
 kor-Hang-KR		
 kor-Kore-KR		
 nld-Latn-NL		
 nob-Latn-NO		
 pes-Aran-IR		
 por-Latn-PT		
-rus-Cyrl-RU	пра́вильная дробь	
+rus-Cyrl-RU	пра́вильная дробь	дробь
 spa-Latn-ES		
 swe-Latn-SE		
 tur-Latn-TR		
