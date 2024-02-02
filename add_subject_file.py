@@ -1,31 +1,31 @@
 from glob import glob
 from pathlib import Path
+from library import s_get_principal_locale, s_get_synonym_separator, s_get_subject_header, ls_get_all_locale, ls_get_separated_item
 
 
-s_locale_file = 'locale.txt'
-s_subject_header_file = 'subject_header.txt'
-
-ls_locale = Path(s_locale_file).read_text().splitlines()
-for i_locale_index in range(len(ls_locale)):
-	s_locale = ls_locale[i_locale_index]
-	if s_locale.startswith(' '):
-		s_principal_locale = s_locale.lstrip(' ')
-		ls_locale[i_locale_index] = s_principal_locale
-		break
-
-s_text = Path(s_subject_header_file).read_text().strip() + '\n'
-for s_locale_entry in ls_locale:
-	s_text += s_locale_entry + '\t\n'
+s_principal_locale = s_get_principal_locale()
+ls_all_locale = ls_get_all_locale()
+s_text = s_get_subject_header() + '\n'
+for s_locale in ls_all_locale:
+	s_text += s_locale + '\t\n'
 
 top_path = Path.cwd()
-for s_file_directory_path in glob(f'{top_path}/**/*/', recursive=True):
-	s_file_name = '_' + s_file_directory_path[s_file_directory_path.rstrip('/').rfind('/')+1:].rstrip('/') + '_.tsv'
+for s_directory_path in glob(f'{top_path}/**/*/', recursive=True):
+	if '__pycache__' in s_directory_path:
+		continue
+	s_subject = s_directory_path[s_directory_path.rstrip('/').rfind('/')+1:].rstrip('/')
+	s_synonym_separator = s_get_synonym_separator(s_principal_locale, s_subject)
 
-	ls_synonym_separator = [', ', '، ', '꛵ ', '、', '，', '፣ ', '𖬹 ', '꓾ ', '𖺗 ', ' ᠂ ', ' ᠈ ', '𑑍 ', '߸ ', '𝪇', '༔ ', '꘍ ']
-	for s_synonym_separator in ls_synonym_separator:
-		s_file_name = s_file_name.replace(s_synonym_separator, '_' + s_synonym_separator + '_')
-		s_file_name = s_file_name.replace('_' + s_synonym_separator + '__' + s_synonym_separator + '_', s_synonym_separator*2)
-	file_path = Path(s_file_directory_path).joinpath(s_file_name)
+	if s_synonym_separator in s_subject:
+		ls_subject = ls_get_separated_item(s_synonym_separator, s_subject)
+		for i_subject_index in range(len(ls_subject)):
+			ls_subject[i_subject_index] = '_' + ls_subject[i_subject_index] + '_'
+		s_subject = s_synonym_separator.join(ls_subject)
+	else:
+		s_subject = '_' + s_subject + '_'
+
+	s_file_name = s_subject + '.tsv'
+	file_path = Path(s_directory_path).joinpath(s_file_name)
 	if not file_path.is_file():
 		print(file_path)
-		file_path.write_text(s_text.replace(s_principal_locale + '\t', s_principal_locale + '\t' + s_file_name.removesuffix('.tsv')))
+		file_path.write_text(s_text.replace(s_principal_locale + '\t', s_principal_locale + '\t' + s_subject, 1))
