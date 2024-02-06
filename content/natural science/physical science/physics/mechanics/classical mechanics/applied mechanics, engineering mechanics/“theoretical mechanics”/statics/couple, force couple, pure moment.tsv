@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	力偶	；力矩
-cmn-Latn-CN	lì'ǒu	lìjǔ; 
+cmn-Latn-CN	lì'ǒu	; lìjǔ
 dan-Latn-DK		; 
 deu-Latn-DE	Kraftpaar [n], Kräftepaar [n]	; Drehmoment, Kraftmoment, Moment
 eng-Latn-US	couple, force couple, pure moment	moment of force, torque; resultant force
@@ -10,7 +10,7 @@ fra-Latn-FR	couple [m], couple [m] de forces [f-pl]	; moment d’une force
 heb-Hebr-IL		; 
 hin-Deva-IN		; 
 ita-Latn-IT		; 
-jpn-Hrkt-JP	ぐうりょく	トルク; 
+jpn-Hrkt-JP	ぐうりょく	; トルク
 jpn-Jpan-JP	偶力	；トルク
 kor-Hang-KR		; 
 kor-Kore-KR		; 

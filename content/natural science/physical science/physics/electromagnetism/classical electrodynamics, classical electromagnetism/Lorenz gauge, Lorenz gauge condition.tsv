@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	洛伦茨规范、洛伦茨规范条件	；电磁四维势
-cmn-Latn-CN	Luòlúncí guīfàn, Luòlúncí guīfàn tiáojiàn	diàncí sìwéishì; 
+cmn-Latn-CN	Luòlúncí guīfàn, Luòlúncí guīfàn tiáojiàn	; diàncí sìwéishì
 dan-Latn-DK		; 
 deu-Latn-DE	Lorenz-Eichung	; 
 eng-Latn-US	Lorenz gauge, Lorenz gauge condition	electromagnetic four-potential; gauge fixing
@@ -10,7 +10,7 @@ fra-Latn-FR	jauge [f] de Lorenz	; champ de jauge [f], quadri-potentiel [m], quad
 heb-Hebr-IL		; 
 hin-Deva-IN		; 
 ita-Latn-IT		; 
-jpn-Hrkt-JP		でんじポテンシャル; 
+jpn-Hrkt-JP		; でんじポテンシャル
 jpn-Jpan-JP		；電磁ポテンシャル
 kor-Hang-KR		; 
 kor-Kore-KR		; 

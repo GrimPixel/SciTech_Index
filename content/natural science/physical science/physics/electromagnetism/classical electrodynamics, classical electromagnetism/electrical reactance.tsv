@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ 
 cmn-Hans-CN	电抗	；超导现象；电容
-cmn-Latn-CN	diànkàng	diànróng; ; chāodǎo xiànxiàng
+cmn-Latn-CN	diànkàng	; chāodǎo xiànxiàng; diànróng
 dan-Latn-DK		; ; 
 deu-Latn-DE	Blindwiderstand [m], Reaktanz	; Supraleitung; elektrische Kapazität
 eng-Latn-US	electrical reactance	electrical capacitance; inductance; superconductivity
@@ -10,7 +10,7 @@ fra-Latn-FR	réactance	; capacité électrique; supraconduction, supraconductivi
 heb-Hebr-IL		; ; 
 hin-Deva-IN		; ; 
 ita-Latn-IT		; ; 
-jpn-Hrkt-JP	リアクタンス	せいでんようりょう、でんきようりょう、キャパシタンス; ; ちょうでんどう
+jpn-Hrkt-JP	リアクタンス	; せいでんようりょう、でんきようりょう、キャパシタンス; ちょうでんどう
 jpn-Jpan-JP	リアクタンス	；静電容量、電気容量、キャパシタンス；超伝導
 kor-Hang-KR		; ; 
 kor-Kore-KR		; ; 

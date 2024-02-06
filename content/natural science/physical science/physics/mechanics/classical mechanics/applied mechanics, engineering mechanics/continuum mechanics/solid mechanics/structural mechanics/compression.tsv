@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ ؛ 
 cmn-Hans-CN	压缩	；；；力
-cmn-Latn-CN	yāsuō	lì; ; ; 
+cmn-Latn-CN	yāsuō	; ; ; lì
 dan-Latn-DK		; ; ; 
 deu-Latn-DE	Kompression	; ; ; Kraft [f]
 eng-Latn-US	compression	force; net force; net torque; structure
@@ -10,7 +10,7 @@ fra-Latn-FR	compression	; ; ; force
 heb-Hebr-IL		; ; ; 
 hin-Deva-IN		; ; ; 
 ita-Latn-IT		; ; ; 
-jpn-Hrkt-JP	あっしゅく	ちから; ; ; 
+jpn-Hrkt-JP	あっしゅく	; ; ; ちから
 jpn-Jpan-JP	圧縮	；；；力
 kor-Hang-KR		; ; ; 
 kor-Kore-KR		; ; ; 

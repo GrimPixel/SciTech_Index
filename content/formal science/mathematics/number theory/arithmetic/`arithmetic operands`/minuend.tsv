@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	被减数	减法；运算数、运算元
-cmn-Latn-CN	bèijiǎnshù	yùnsuànshù, yùnsuànyuán; jiǎnfǎ
+cmn-Latn-CN	bèijiǎnshù	jiǎnfǎ; yùnsuànshù, yùnsuànyuán
 dan-Latn-DK		; 
 deu-Latn-DE	Minuend [m]	Operand [m]; Subtraktion
 eng-Latn-US	minuend	operand; subtraction
@@ -10,7 +10,7 @@ fra-Latn-FR	diminuende [m]	opérande [m]; soustraction
 heb-Hebr-IL		; 
 hin-Deva-IN		; 
 ita-Latn-IT		; 
-jpn-Hrkt-JP	ひかれるすう、ひげんすう	ひえんざんし; げんぽう
+jpn-Hrkt-JP	ひかれるすう、ひげんすう	げんぽう; ひえんざんし
 jpn-Jpan-JP	引かれる数、被減数	減法；被演算子
 kor-Hang-KR		; 
 kor-Kore-KR		; 

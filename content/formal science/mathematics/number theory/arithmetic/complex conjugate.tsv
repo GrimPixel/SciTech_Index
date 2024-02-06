@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	共轭复数	；复数
-cmn-Latn-CN	gòng’è fùshù	fùshù; 
+cmn-Latn-CN	gòng’è fùshù	; fùshù
 dan-Latn-DK		; 
 deu-Latn-DE	komplexe Konjugation	; komplexe Zahl
 eng-Latn-US	complex conjugate	complex number; sign (mathematics)
@@ -10,7 +10,7 @@ fra-Latn-FR	conjugué	; nombre [m] complexe
 heb-Hebr-IL		; 
 hin-Deva-IN		; 
 ita-Latn-IT		; 
-jpn-Hrkt-JP	ふくそきょうやく	ふくそすう; 
+jpn-Hrkt-JP	ふくそきょうやく	; ふくそすう
 jpn-Jpan-JP	複素共役	；複素数
 kor-Hang-KR		; 
 kor-Kore-KR		; 

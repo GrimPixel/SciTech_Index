@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ 
 cmn-Hans-CN		；复数；函数
-cmn-Latn-CN		fùshù; hánshù; 
+cmn-Latn-CN		; fùshù; hánshù
 dan-Latn-DK		; ; 
 deu-Latn-DE		; Funktion; komplexe Zahl
 eng-Latn-US	complex-valued function	complex number; function; value
@@ -10,7 +10,7 @@ fra-Latn-FR		; fonction; nombre [m] complexe
 heb-Hebr-IL		; ; 
 hin-Deva-IN		; ; 
 ita-Latn-IT		; ; 
-jpn-Hrkt-JP		ふくそすう; ; 
+jpn-Hrkt-JP		; ; ふくそすう
 jpn-Jpan-JP		；；複素数
 kor-Hang-KR		; ; 
 kor-Kore-KR		; ; 

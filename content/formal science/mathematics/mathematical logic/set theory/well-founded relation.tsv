@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ ؛ 
 cmn-Hans-CN		；空集；类；二元关系
-cmn-Latn-CN		èryuán guānxi; lèi; kōngjí; 
+cmn-Latn-CN		; kōngjí; lèi; èryuán guānxi
 dan-Latn-DK		; ; ; 
 deu-Latn-DE		; Klasse; binäre Relation; leere Menge
 eng-Latn-US	well-founded relation	binary relation; class; empty set; minimal element
@@ -10,7 +10,7 @@ fra-Latn-FR		; classe [f]; ensemble vide; relation binaire
 heb-Hebr-IL		; ; ; 
 hin-Deva-IN		; ; ; 
 ita-Latn-IT		; ; ; 
-jpn-Hrkt-JP		; るい、クラス; くうしゅうごう; 
+jpn-Hrkt-JP		; ; くうしゅうごう; るい、クラス
 jpn-Jpan-JP		；；空集合；類、クラス
 kor-Hang-KR		; ; ; 
 kor-Kore-KR		; ; ; 

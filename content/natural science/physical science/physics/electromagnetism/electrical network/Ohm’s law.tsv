@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ 
 cmn-Hans-CN	欧姆定律	；比例；电流
-cmn-Latn-CN	Ōumǔ dìnglǜ	diànliú; bǐlì; 
+cmn-Latn-CN	Ōumǔ dìnglǜ	; bǐlì; diànliú
 dan-Latn-DK		; ; 
 deu-Latn-DE	ohmsches Gesetz	; Proportionalität; elektrischer Strom
 eng-Latn-US	Ohm’s law	electric current; proportionality; voltage
@@ -10,7 +10,7 @@ fra-Latn-FR	loi [f] d’Ohm	; courant électrique; proportionnalité
 heb-Hebr-IL		; ; 
 hin-Deva-IN		; ; 
 ita-Latn-IT		; ; 
-jpn-Hrkt-JP	オームのほうそく	でんりゅう; ひれい; 
+jpn-Hrkt-JP	オームのほうそく	; でんりゅう; ひれい
 jpn-Jpan-JP	オームの法則	；電流；比例
 kor-Hang-KR		; ; 
 kor-Kore-KR		; ; 

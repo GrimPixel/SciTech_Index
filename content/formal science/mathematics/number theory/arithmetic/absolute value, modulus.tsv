@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	绝对值、模	；实数
-cmn-Latn-CN	juéduìzhí, mó	shíshù; 
+cmn-Latn-CN	juéduìzhí, mó	; shíshù
 dan-Latn-DK		; 
 deu-Latn-DE	Absolutbetrag [m], Absolutwert [m], absoluter Betrag, absoluter Wert	; reelle Zahl
 eng-Latn-US	absolute value, modulus	real number; sign (mathematics)
@@ -10,7 +10,7 @@ fra-Latn-FR	module [m], valeur absolue	; nombre réel
 heb-Hebr-IL		; 
 hin-Deva-IN		; 
 ita-Latn-IT		; 
-jpn-Hrkt-JP	ぜったいち、ぼすう	じっすう; 
+jpn-Hrkt-JP	ぜったいち、ぼすう	; じっすう
 jpn-Jpan-JP	絶対値、母数	；実数
 kor-Hang-KR		; 
 kor-Kore-KR		; 

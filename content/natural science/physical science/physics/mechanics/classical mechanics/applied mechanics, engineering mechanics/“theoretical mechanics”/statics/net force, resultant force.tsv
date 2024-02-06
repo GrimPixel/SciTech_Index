@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ ؛ 
 cmn-Hans-CN	合力	；；力；力矩
-cmn-Latn-CN	hélì	lì; lìjǔ; ; 
+cmn-Latn-CN	hélì	; ; lì; lìjǔ
 dan-Latn-DK		; ; ; 
 deu-Latn-DE	resultierende Kraft	; ; Drehmoment, Kraftmoment, Moment; Kraft [f]
 eng-Latn-US	net force, resultant force	force; moment of force, torque; rigid body; vector addition
@@ -10,7 +10,7 @@ fra-Latn-FR	force résultante	; ; force; moment d’une force
 heb-Hebr-IL		; ; ; 
 hin-Deva-IN		; ; ; 
 ita-Latn-IT		; ; ; 
-jpn-Hrkt-JP	ごうりき	ちから; トルク; ; 
+jpn-Hrkt-JP	ごうりき	; ; ちから; トルク
 jpn-Jpan-JP	合力	；；力；トルク
 kor-Hang-KR		; ; ; 
 kor-Kore-KR		; ; ; 

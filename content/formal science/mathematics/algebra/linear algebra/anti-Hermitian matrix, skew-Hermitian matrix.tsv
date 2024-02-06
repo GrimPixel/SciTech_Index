@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN		；复数
-cmn-Latn-CN		fùshù; 
+cmn-Latn-CN		; fùshù
 dan-Latn-DK		; 
 deu-Latn-DE		; komplexe Zahl
 eng-Latn-US	anti-Hermitian matrix, skew-Hermitian matrix	complex number; square matrix
@@ -10,7 +10,7 @@ fra-Latn-FR		; nombre [m] complexe
 heb-Hebr-IL		; 
 hin-Deva-IN		; 
 ita-Latn-IT		; 
-jpn-Hrkt-JP		ふくそすう; 
+jpn-Hrkt-JP		; ふくそすう
 jpn-Jpan-JP		；複素数
 kor-Hang-KR		; 
 kor-Kore-KR		; 

@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ ؛ 
 cmn-Hans-CN		；；；二元关系
-cmn-Latn-CN		èryuán guānxi; ; ; 
+cmn-Latn-CN		; ; ; èryuán guānxi
 dan-Latn-DK		; ; ; 
 deu-Latn-DE		; ; ; binäre Relation
 eng-Latn-US	equivalence relation	binary relation; reflexive relation; transitive relation; well-order, well-order relation, well-ordering

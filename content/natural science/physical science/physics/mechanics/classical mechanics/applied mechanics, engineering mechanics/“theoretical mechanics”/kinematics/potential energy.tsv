@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ 
-cmn-Hans-CN	势能、位能	；；物体、物理实体
-cmn-Latn-CN	shìnéng, wèìnéng	; wùtǐ, wùlǐ shítǐ; 
+cmn-Hans-CN	势能、位能	；；物理实体、物体
+cmn-Latn-CN	shìnéng, wèìnéng	; ; wùlǐ shítǐ, wùtǐ
 dan-Latn-DK		; ; 
 deu-Latn-DE	Lageenergie, potentielle Energie, potenzielle Energie	; ; physikalischer Körper
 eng-Latn-US	potential energy	energy; physical body, physical object; position
@@ -10,7 +10,7 @@ fra-Latn-FR	énergie potentielle	; ; corps [m] physique
 heb-Hebr-IL		; ; 
 hin-Deva-IN		; ; 
 ita-Latn-IT		; ; 
-jpn-Hrkt-JP	いちエネルギー	; ぶったい; 
+jpn-Hrkt-JP	いちエネルギー	; ; ぶったい
 jpn-Jpan-JP	位置エネルギー	；；物体
 kor-Hang-KR		; ; 
 kor-Kore-KR		; ; 

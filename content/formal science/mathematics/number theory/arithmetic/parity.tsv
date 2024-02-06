@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	奇偶性	余数；自然数
-cmn-Latn-CN	jī’ǒuxìng	zìránshù; yúshù
+cmn-Latn-CN	jī’ǒuxìng	yúshù; zìránshù
 dan-Latn-DK		; 
 deu-Latn-DE	Parität	Rest [m], Teilungsrest [m]; natürliche Zahl
 eng-Latn-US	parity	counting number, natural number; remainder

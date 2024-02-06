@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ 
 cmn-Hans-CN	合金	化学元素；混合物；金属
-cmn-Latn-CN	héjīn	huàxué yuánsù; jīnshǔ; hùnhéwù
+cmn-Latn-CN	héjīn	huàxué yuánsù; hùnhéwù; jīnshǔ
 dan-Latn-DK		; ; 
 deu-Latn-DE	Legierung	Gemisch [n], Stoffgemisch [n]; Metalle; chemisches Element
 eng-Latn-US	alloy	chemical element; metal; mixture
@@ -10,7 +10,7 @@ fra-Latn-FR	alliage	mélange [m]; métal; élément chimique
 heb-Hebr-IL		; ; 
 hin-Deva-IN		; ; 
 ita-Latn-IT		; ; 
-jpn-Hrkt-JP	ごうきん	げんそ; きんぞく; こんごうぶつ
+jpn-Hrkt-JP	ごうきん	きんぞく; げんそ; こんごうぶつ
 jpn-Jpan-JP	合金	金属；元素；混合物
 kor-Hang-KR		; ; 
 kor-Kore-KR		; ; 

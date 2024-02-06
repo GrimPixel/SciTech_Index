@@ -9,9 +9,9 @@ ls_separator_for_principal_locale = ls_get_separator_for_principal_locale()
 top_path = Path.cwd()
 content_path = top_path.joinpath(s_get_content_directory())
 
-def ds_get_entry_with_element_sorted(b_is_synonym, ds_subject_by_locale):
+def ds_get_entry_with_element_sorted(b_is_synonym, ds_element_by_locale):
 	ls_coupled_phonetic_locale = []
-	for s_locale, s_element in ds_subject_by_locale.items():
+	for s_locale, s_element in ds_element_by_locale.items():
 		s_language, s_writing_system, s_region = s_locale.split('-')
 		if b_is_synonym:
 			s_element_separator = s_get_synonym_separator(s_locale, s_element)
@@ -22,13 +22,13 @@ def ds_get_entry_with_element_sorted(b_is_synonym, ds_subject_by_locale):
 		if s_coupled_phonetic_writing_system == '':
 			ls_element = ls_get_separated_element(s_element_separator, s_element)
 			ls_element.sort()
-			ds_subject_by_locale.update({s_locale: s_element_separator.join(ls_element)})
+			ds_element_by_locale.update({s_locale: s_element_separator.join(ls_element)})
 			continue
 		elif s_coupled_phonetic_writing_system == s_writing_system:
 			continue
 
 		s_coupled_phonetic_locale = '-'.join([s_language, s_coupled_phonetic_writing_system, s_region])
-		s_coupled_phonetic_element = ds_subject_by_locale[s_coupled_phonetic_locale]
+		s_coupled_phonetic_element = ds_element_by_locale[s_coupled_phonetic_locale]
 		if b_is_synonym:
 			s_coupled_phonetic_element_separator = s_get_synonym_separator(s_coupled_phonetic_locale, s_coupled_phonetic_element)
 		else:
@@ -44,18 +44,21 @@ def ds_get_entry_with_element_sorted(b_is_synonym, ds_subject_by_locale):
 		ls_element = []
 		for ls_combined_element in lls_combined_element:
 			ls_element.append(ls_combined_element[1])
-		ds_subject_by_locale.update({s_locale: s_element_separator.join(ls_element)})
+		ds_element_by_locale.update({s_locale: s_element_separator.join(ls_element)})
 		ls_coupled_phonetic_locale.append(s_coupled_phonetic_locale)
 
 	if ls_coupled_phonetic_locale != []:
 		for s_coupled_phonetic_locale in ls_coupled_phonetic_locale:
-			s_coupled_phonetic_element_separator = s_get_synonym_separator(s_coupled_phonetic_locale, ls_coupled_phonetic_element)
-			ls_coupled_phonetic_element = ds_subject_by_locale[s_coupled_phonetic_locale].split(s_coupled_phonetic_element_separator)
+			if b_is_synonym:
+				s_coupled_phonetic_element_separator = s_get_synonym_separator(s_coupled_phonetic_locale, ls_coupled_phonetic_element)
+			else:
+				s_coupled_phonetic_element_separator = s_get_nonsynonym_separator(s_coupled_phonetic_locale, ls_coupled_phonetic_element)
+			ls_coupled_phonetic_element = ds_element_by_locale[s_coupled_phonetic_locale].split(s_coupled_phonetic_element_separator)
 			ls_coupled_phonetic_element.sort()
 
 			s_sorted_coupled_phonetic_element = s_coupled_phonetic_element_separator.join(ls_coupled_phonetic_element)
-			ds_subject_by_locale.update({s_coupled_phonetic_locale: s_sorted_coupled_phonetic_element})
-	return ds_subject_by_locale
+			ds_element_by_locale.update({s_coupled_phonetic_locale: s_sorted_coupled_phonetic_element})
+	return ds_element_by_locale
 
 for s_file_path in glob(f'{content_path}/**/*.tsv', recursive=True):
 	s_text = Path(s_file_path).read_text().rstrip('\n')

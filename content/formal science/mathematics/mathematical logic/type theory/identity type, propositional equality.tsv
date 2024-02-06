@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN		；相等
-cmn-Latn-CN		xiāngděng; 
+cmn-Latn-CN		; xiāngděng
 dan-Latn-DK		; 
 deu-Latn-DE		; Gleichheit
 eng-Latn-US	identity type, propositional equality	equality; type
@@ -10,7 +10,7 @@ fra-Latn-FR		; égalité
 heb-Hebr-IL		; 
 hin-Deva-IN		; 
 ita-Latn-IT		; 
-jpn-Hrkt-JP		そうとう; 
+jpn-Hrkt-JP		; そうとう
 jpn-Jpan-JP		；相等
 kor-Hang-KR		; 
 kor-Kore-KR		; 

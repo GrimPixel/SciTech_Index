@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	符号函数	；函数
-cmn-Latn-CN	fúhào hánshù	hánshù; 
+cmn-Latn-CN	fúhào hánshù	; hánshù
 dan-Latn-DK		; 
 deu-Latn-DE	Signumfunktion, Vorzeichenfunktion	; Funktion
 eng-Latn-US	sign function, signum function	function; sign (mathematics)

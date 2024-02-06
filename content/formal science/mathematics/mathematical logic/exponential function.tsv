@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	指数函数	函数；幂、指数
-cmn-Latn-CN	zhǐshù hánshù	mì, zhǐshù; hánshù
+cmn-Latn-CN	zhǐshù hánshù	hánshù; mì, zhǐshù
 dan-Latn-DK		; 
 deu-Latn-DE	Exponentialfunktion	Exponent [m], Hochzahl [f]; Funktion
 eng-Latn-US	exponential function	exponent; function
@@ -10,7 +10,7 @@ fra-Latn-FR		exposant; fonction
 heb-Hebr-IL		; 
 hin-Deva-IN		; 
 ita-Latn-IT		; 
-jpn-Hrkt-JP	しすうかんすう	べきしすう; 
+jpn-Hrkt-JP	しすうかんすう	; べきしすう
 jpn-Jpan-JP	指数函数	；冪指数
 kor-Hang-KR		; 
 kor-Kore-KR		; 

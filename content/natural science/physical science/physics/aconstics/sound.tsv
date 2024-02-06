@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ 
 cmn-Hans-CN	声音	传输介质；声波、声学波动；振动
-cmn-Latn-CN	shēngyīn	shēngbō, shēngxué bōdòng; chuánshū jièzhì; zhèndòng
+cmn-Latn-CN	shēngyīn	chuánshū jièzhì; shēngbō, shēngxué bōdòng; zhèndòng
 dan-Latn-DK		; ; 
 deu-Latn-DE	Schall [m]	Akustikwelle, Schallwelle, akustische Welle; Erschütterung, Vibration; Übertragungsmedium, Übertragungsmittel
 eng-Latn-US	sound	acoustic wave; transmission medium; vibration
@@ -10,7 +10,7 @@ fra-Latn-FR	son [m]	onde [f] acoustique; support de transmission; vibration
 heb-Hebr-IL		; ; 
 hin-Deva-IN		; ; 
 ita-Latn-IT		; ; 
-jpn-Hrkt-JP	おと	おんぱ; ばいしつ; しんどう
+jpn-Hrkt-JP	おと	おんぱ; しんどう; ばいしつ
 jpn-Jpan-JP	音	音波；振動；媒質
 kor-Hang-KR		; ; 
 kor-Kore-KR		; ; 

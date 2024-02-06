@@ -1,6 +1,6 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		
-cmn-Hans-CN	非惯性参考系、非惯性坐标系、非惯性系	惯性参考系、惯性坐标系、惯性系
+cmn-Hans-CN	非惯性参考系、非惯性坐标系、非惯性系	惯性参考系、惯性系、惯性坐标系
 cmn-Latn-CN	fēiguànxìng cānkǎoxì, fēiguànxìng xì, fēiguànxìng zuòbiāoxì	guànxìng cānkǎoxì, guànxìng zuòbiāoxì, guànxìngxì
 dan-Latn-DK		
 deu-Latn-DE	Nicht-Inertialsystem [n], beschleunigtes Bezugssystem	Inertialsystem [n]

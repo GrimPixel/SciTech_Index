@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ 
 cmn-Hans-CN	化学计量	化学元素；混合物；金属
-cmn-Latn-CN	huàxué jìliàng	huàxué yuánsù; jīnshǔ; hùnhéwù
+cmn-Latn-CN	huàxué jìliàng	huàxué yuánsù; hùnhéwù; jīnshǔ
 dan-Latn-DK		; ; 
 deu-Latn-DE	Stöchiometrie	Gemisch [n], Stoffgemisch [n]; Metalle; chemisches Element
 eng-Latn-US	stoichiometry	chemical element; metal; mixture
@@ -10,7 +10,7 @@ fra-Latn-FR	stœchiométrie	mélange [m]; métal; élément chimique
 heb-Hebr-IL		; ; 
 hin-Deva-IN		; ; 
 ita-Latn-IT		; ; 
-jpn-Hrkt-JP	かがくりょうろん	げんそ; きんぞく; こんごうぶつ
+jpn-Hrkt-JP	かがくりょうろん	きんぞく; げんそ; こんごうぶつ
 jpn-Jpan-JP	化学量論	金属；元素；混合物
 kor-Hang-KR		; ; 
 kor-Kore-KR		; ; 

@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	反作用力	；力
-cmn-Latn-CN	fǎnzuòyòng lì	lì; 
+cmn-Latn-CN	fǎnzuòyòng lì	; lì
 dan-Latn-DK		; 
 deu-Latn-DE	Reaktion	; Kraft [f]
 eng-Latn-US	reaction	force; physical object
@@ -10,7 +10,7 @@ fra-Latn-FR		; force
 heb-Hebr-IL		; 
 hin-Deva-IN		; 
 ita-Latn-IT		; 
-jpn-Hrkt-JP	はんさよう	ちから; 
+jpn-Hrkt-JP	はんさよう	; ちから
 jpn-Jpan-JP	反作用	；力
 kor-Hang-KR		; 
 kor-Kore-KR		; 

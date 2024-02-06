@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ 
 cmn-Hans-CN	多项式	；未定元；系数
-cmn-Latn-CN	duōxiàngshì	xìshù; wèidìngyuán; 
+cmn-Latn-CN	duōxiàngshì	; wèidìngyuán; xìshù
 dan-Latn-DK		; ; 
 deu-Latn-DE	Polynom [n]	; Beizahl [f], Koeffizient [n], Vorzahl [f]; Unbestimmte
 eng-Latn-US	polynomial	coefficient; indeterminate; mathematical expression
@@ -10,7 +10,7 @@ fra-Latn-FR	polynôme [m]	; coefficient; indéterminée
 heb-Hebr-IL		; ; 
 hin-Deva-IN		; ; 
 ita-Latn-IT		; ; 
-jpn-Hrkt-JP	たこうしき	けいすう; ふていげん; 
+jpn-Hrkt-JP	たこうしき	; けいすう; ふていげん
 jpn-Jpan-JP	多項式	；係数；不定元
 kor-Hang-KR		; ; 
 kor-Kore-KR		; ; 

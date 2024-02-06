@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
-cmn-Hans-CN	刚体	物体、物理实体；形变
-cmn-Latn-CN	gāngtǐ	wùlǐ shítǐ, xíngbiàn; wùtǐ
+cmn-Hans-CN	刚体	物理实体、物体；形变
+cmn-Latn-CN	gāngtǐ	wùlǐ shítǐ, wùtǐ; xíngbiàn
 dan-Latn-DK		; 
 deu-Latn-DE	Starrkörper, starrer Körper	Deformation, Verformung, Verzerrung; physikalischer Körper
 eng-Latn-US	rigid body, rigid object	deformation; physical body, physical object
@@ -10,7 +10,7 @@ fra-Latn-FR	modèle [m] du solide [m] indéformable	corps [m] physique; déforma
 heb-Hebr-IL		; 
 hin-Deva-IN		; 
 ita-Latn-IT		; 
-jpn-Hrkt-JP	ごうたい	へんけい; ぶったい
+jpn-Hrkt-JP	ごうたい	ぶったい; へんけい
 jpn-Jpan-JP	剛体	物体；変形
 kor-Hang-KR		; 
 kor-Kore-KR		; 

@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	基本事件	；事件、随机事件
-cmn-Latn-CN	jīběn shìjiàn	shìjiàn, suíjī shìjiàn; 
+cmn-Latn-CN	jīběn shìjiàn	; shìjiàn, suíjī shìjiàn
 dan-Latn-DK		; 
 deu-Latn-DE		; Ereignis, Zufallsereignis
 eng-Latn-US	atomic event, elementary event, sample point	event; sample space
@@ -10,7 +10,7 @@ fra-Latn-FR	événement élémentaire	; événement
 heb-Hebr-IL		; 
 hin-Deva-IN		; 
 ita-Latn-IT		; 
-jpn-Hrkt-JP	げんしじしょう、こんげんじしょう	じしょう; 
+jpn-Hrkt-JP	げんしじしょう、こんげんじしょう	; じしょう
 jpn-Jpan-JP	原子事象、根元事象	；事象
 kor-Hang-KR		; 
 kor-Kore-KR		; 

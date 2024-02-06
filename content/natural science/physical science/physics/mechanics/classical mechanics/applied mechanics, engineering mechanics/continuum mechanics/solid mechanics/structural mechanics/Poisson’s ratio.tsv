@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ 
 cmn-Hans-CN	泊松比	负荷、荷载、结构荷重、载荷、载重；伸长；压缩
-cmn-Latn-CN	Bósōng bǐ	hèzài, jiégòu hèzhòng, yāsuō; shēncháng; fùhè, zàihè, zàizhòng
+cmn-Latn-CN	Bósōng bǐ	fùhè, hèzài, jiégòu hèzhòng, zàihè, zàizhòng; shēncháng; yāsuō
 dan-Latn-DK		; ; 
 deu-Latn-DE	Poissonzahl [f], Querkontraktionszahl [f]	; Kompression; Lastannahme
 eng-Latn-US	Poisson’s ratio	compression; elongation; structural action, structural load
@@ -10,7 +10,7 @@ fra-Latn-FR	coefficient de Poisson	; ; compression
 heb-Hebr-IL		; ; 
 hin-Deva-IN		; ; 
 ita-Latn-IT		; ; 
-jpn-Hrkt-JP	ポアソンひ	あっしゅく; ; かじゅう
+jpn-Hrkt-JP	ポアソンひ	; あっしゅく; かじゅう
 jpn-Jpan-JP	ポアソン比	；圧縮；荷重
 kor-Hang-KR		; ; 
 kor-Kore-KR		; ; 

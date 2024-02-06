@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN		浓度、势；元数
-cmn-Latn-CN		shì, yuánshù; nóngdù
+cmn-Latn-CN		nóngdù, shì; yuánshù
 dan-Latn-DK		; 
 deu-Latn-DE		Arität, Stelligkeit; Kardinalität, Mächtigkeit
 eng-Latn-US	structure	arity; cardinality

@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	机会误差、随机误差、未定误差、偶然误差	；测量误差、观测误差
-cmn-Latn-CN	jīhuì wùchā, suíjī wùchā, wèidìng wùchā, ǒurán wùchā	cèliáng wùchā, guāncè wùchā; 
+cmn-Latn-CN	jīhuì wùchā, suíjī wùchā, wèidìng wùchā, ǒurán wùchā	; cèliáng wùchā, guāncè wùchā
 dan-Latn-DK		; 
 deu-Latn-DE	zugfällige Messabweichung	; Messabweichung
 eng-Latn-US	random error	measurement error, observational error; randomness
@@ -10,7 +10,7 @@ fra-Latn-FR	erreur aléatoire	; erreur de mesure
 heb-Hebr-IL		; 
 hin-Deva-IN		; 
 ita-Latn-IT		; 
-jpn-Hrkt-JP	ぐうぜんごさ、ぐうはつごさ	けいそくきき; 
+jpn-Hrkt-JP	ぐうぜんごさ、ぐうはつごさ	; けいそくきき
 jpn-Jpan-JP	偶発誤差、偶然誤差	；計測機器
 kor-Hang-KR		; 
 kor-Kore-KR		; 

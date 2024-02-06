@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ 
-cmn-Hans-CN	力	速度；物体、物理实体；运动
-cmn-Latn-CN	lì	wùlǐ shítǐ; sùdù, yùndòng; wùtǐ
+cmn-Hans-CN	力	速度；物理实体、物体；运动
+cmn-Latn-CN	lì	sùdù; wùlǐ shítǐ, wùtǐ; yùndòng
 dan-Latn-DK		; ; 
 deu-Latn-DE	Kraft [f]	Bewegung; Geschwindigkeit; physikalischer Körper
 eng-Latn-US	force	motion; physical body, physical object; velocity
@@ -10,7 +10,7 @@ fra-Latn-FR	force	corps [m] physique; mouvement; vecteur vitesse, vélocité
 heb-Hebr-IL		; ; 
 hin-Deva-IN		; ; 
 ita-Latn-IT		; ; 
-jpn-Hrkt-JP	ちから	うんどう; ぶったい; そくど
+jpn-Hrkt-JP	ちから	うんどう; そくど; ぶったい
 jpn-Jpan-JP	力	運動；速度；物体
 kor-Hang-KR		; ; 
 kor-Kore-KR		; ; 

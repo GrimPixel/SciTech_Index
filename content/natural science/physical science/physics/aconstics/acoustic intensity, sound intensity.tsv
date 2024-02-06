@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ 
 cmn-Hans-CN	音强	；；声波、声学波动
-cmn-Latn-CN	yīnqiáng	shēngbō, shēngxué bōdòng; ; 
+cmn-Latn-CN	yīnqiáng	; ; shēngbō, shēngxué bōdòng
 dan-Latn-DK		; ; 
 deu-Latn-DE	Schallintensität	; ; Akustikwelle, Schallwelle, akustische Welle
 eng-Latn-US	acoustic intensity, sound intensity	acoustic wave; area; power
@@ -10,7 +10,7 @@ fra-Latn-FR	intensité acoustique	; ; onde [f] acoustique
 heb-Hebr-IL		; ; 
 hin-Deva-IN		; ; 
 ita-Latn-IT		; ; 
-jpn-Hrkt-JP	おとのつよさ	おんぱ; ; 
+jpn-Hrkt-JP	おとのつよさ	; ; おんぱ
 jpn-Jpan-JP	音の強さ	；；音波
 kor-Hang-KR		; ; 
 kor-Kore-KR		; ; 

@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	直径	；圆
-cmn-Latn-CN	zhíjìng	yuán; 
+cmn-Latn-CN	zhíjìng	; yuán
 dan-Latn-DK		; 
 deu-Latn-DE	Durchmess	; Kreis [m]
 eng-Latn-US	diameter	circle; line segment
@@ -10,7 +10,7 @@ fra-Latn-FR	diamètre [m]	; cercle [m]
 heb-Hebr-IL		; 
 hin-Deva-IN		; 
 ita-Latn-IT		; 
-jpn-Hrkt-JP	けい	えん; 
+jpn-Hrkt-JP	けい	; えん
 jpn-Jpan-JP	径	；円
 kor-Hang-KR		; 
 kor-Kore-KR		; 

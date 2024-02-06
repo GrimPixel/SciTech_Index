@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ 
 cmn-Hans-CN		；函数；实数
-cmn-Latn-CN		hánshù; shíshù; 
+cmn-Latn-CN		; hánshù; shíshù
 dan-Latn-DK		; ; 
 deu-Latn-DE		; Funktion; reelle Zahl
 eng-Latn-US	real-valued function	function; real number; value
@@ -10,7 +10,7 @@ fra-Latn-FR		; fonction; nombre réel
 heb-Hebr-IL		; ; 
 hin-Deva-IN		; ; 
 ita-Latn-IT		; ; 
-jpn-Hrkt-JP		; じっすう; 
+jpn-Hrkt-JP		; ; じっすう
 jpn-Jpan-JP		；；実数
 kor-Hang-KR		; ; 
 kor-Kore-KR		; ; 

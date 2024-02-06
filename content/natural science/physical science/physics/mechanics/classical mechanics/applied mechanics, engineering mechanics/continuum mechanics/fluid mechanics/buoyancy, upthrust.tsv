@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ 
 cmn-Hans-CN	浮力	；表面张力；力
-cmn-Latn-CN	fúlì	lì; biǎomiàn zhānglì; 
+cmn-Latn-CN	fúlì	; biǎomiàn zhānglì; lì
 dan-Latn-DK		; ; 
 deu-Latn-DE	statischer Auftrieb	; Kraft [f]; Oberflächenspannung
 eng-Latn-US	buoyancy, upthrust	force; surface tension; weight
@@ -10,7 +10,7 @@ fra-Latn-FR	flottabilité	; force; tension superficielle
 heb-Hebr-IL		; ; 
 hin-Deva-IN		; ; 
 ita-Latn-IT		; ; 
-jpn-Hrkt-JP	ふりょく	ちから; ひょうめんちょうりょく; 
+jpn-Hrkt-JP	ふりょく	; ちから; ひょうめんちょうりょく
 jpn-Jpan-JP	浮力	；力；表面張力
 kor-Hang-KR		; ; 
 kor-Kore-KR		; ; 

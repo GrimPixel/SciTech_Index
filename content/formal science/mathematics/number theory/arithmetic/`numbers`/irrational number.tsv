@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	无理数	实数；有理数
-cmn-Latn-CN	wúlǐshù	yǒulǐshù; shíshù
+cmn-Latn-CN	wúlǐshù	shíshù; yǒulǐshù
 dan-Latn-DK		; 
 deu-Latn-DE	irrationale Zahl	rationale Zahl; reelle Zahl
 eng-Latn-US	irrational number	rational number; real number
@@ -10,7 +10,7 @@ fra-Latn-FR	nombre irrationnel	nombre rationnel; nombre réel
 heb-Hebr-IL		; 
 hin-Deva-IN		; 
 ita-Latn-IT		; 
-jpn-Hrkt-JP	むりすう	ゆうりすう; じっすう
+jpn-Hrkt-JP	むりすう	じっすう; ゆうりすう
 jpn-Jpan-JP	無理数	実数；有理数
 kor-Hang-KR		; 
 kor-Kore-KR		; 

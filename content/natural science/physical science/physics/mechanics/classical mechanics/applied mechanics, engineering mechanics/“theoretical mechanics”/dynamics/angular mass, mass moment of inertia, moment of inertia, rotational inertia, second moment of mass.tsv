@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ 
 cmn-Hans-CN		；；角加速度
-cmn-Latn-CN		jiǎo jiāsùdù; ; 
+cmn-Latn-CN		; ; jiǎo jiāsùdù
 dan-Latn-DK		; ; 
 deu-Latn-DE		; ; Winkelbeschleunigung
 eng-Latn-US	angular mass, mass moment of inertia, moment of inertia, rotational inertia, second moment of mass	angular acceleration; reactional force, torque; rigid body
@@ -10,7 +10,7 @@ fra-Latn-FR		; ; accélération angulaire
 heb-Hebr-IL		; ; 
 hin-Deva-IN		; ; 
 ita-Latn-IT		; ; 
-jpn-Hrkt-JP		かくかそくど; ; 
+jpn-Hrkt-JP		; ; かくかそくど
 jpn-Jpan-JP		；；角加速度
 kor-Hang-KR		; ; 
 kor-Kore-KR		; ; 

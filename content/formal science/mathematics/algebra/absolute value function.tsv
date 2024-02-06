@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	绝对值函数	函数；绝对值、模
-cmn-Latn-CN	juéduìzhí hánshù	juéduìzhí, mó; hánshù
+cmn-Latn-CN	juéduìzhí hánshù	hánshù; juéduìzhí, mó
 dan-Latn-DK		; 
 deu-Latn-DE	Betragsfunktion	Absolutbetrag [m], Absolutwert [m], absoluter Betrag, absoluter Wert; Funktion
 eng-Latn-US	absolute value function	absolute value, modulus; function
@@ -10,7 +10,7 @@ fra-Latn-FR		fonction; module [m], valeur absolue
 heb-Hebr-IL		; 
 hin-Deva-IN		; 
 ita-Latn-IT		; 
-jpn-Hrkt-JP	ぜったいちかんすう	ぜったいち、ぼすう; 
+jpn-Hrkt-JP	ぜったいちかんすう	; ぜったいち、ぼすう
 jpn-Jpan-JP	絶対値関数	；絶対値、母数
 kor-Hang-KR		; 
 kor-Kore-KR		; 

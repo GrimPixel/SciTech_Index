@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ 
 cmn-Hans-CN	代数数	；多项式；有理数
-cmn-Latn-CN	dàishùshù	duōxiàngshì; yǒulǐshù; 
+cmn-Latn-CN	dàishùshù	; duōxiàngshì; yǒulǐshù
 dan-Latn-DK		; ; 
 deu-Latn-DE	algebraische Zahl	; Polynom [n]; rationale Zahl
 eng-Latn-US	algebraic number	polynomial; rational number; root of a function, zero of a function
@@ -10,7 +10,7 @@ fra-Latn-FR	nombre [m] algébrique	; nombre rationnel; polynôme [m]
 heb-Hebr-IL		; ; 
 hin-Deva-IN		; ; 
 ita-Latn-IT		; ; 
-jpn-Hrkt-JP	だいすうてきすう	たこうしき; ゆうりすう; 
+jpn-Hrkt-JP	だいすうてきすう	; たこうしき; ゆうりすう
 jpn-Jpan-JP	代数的数	；多項式；有理数
 kor-Hang-KR		; ; 
 kor-Kore-KR		; ; 

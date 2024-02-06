@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	角位移、角移	；角
-cmn-Latn-CN	jiǎowèiyí, jiǎoyí	jiǎo; 
+cmn-Latn-CN	jiǎowèiyí, jiǎoyí	; jiǎo
 dan-Latn-DK		; 
 deu-Latn-DE	Winkelverschiebung	; 
 eng-Latn-US	angular displacement	angle; axis

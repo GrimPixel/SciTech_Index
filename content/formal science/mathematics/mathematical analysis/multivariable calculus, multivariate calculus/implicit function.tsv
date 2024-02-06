@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	隐函数	；函数
-cmn-Latn-CN	yǐnhánshù	hánshù; 
+cmn-Latn-CN	yǐnhánshù	; hánshù
 dan-Latn-DK		; 
 deu-Latn-DE		; Funktion
 eng-Latn-US	implicit function	function; implicit equation

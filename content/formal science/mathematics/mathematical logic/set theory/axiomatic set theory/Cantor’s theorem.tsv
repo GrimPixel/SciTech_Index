@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	康托尔定理	；浓度、势
-cmn-Latn-CN	Kāngtuō’ěr dìnglǐ	nóngdù, shì; 
+cmn-Latn-CN	Kāngtuō’ěr dìnglǐ	; nóngdù, shì
 dan-Latn-DK		; 
 deu-Latn-DE	Satz [m] von Cantor	; Kardinalität, Mächtigkeit
 eng-Latn-US	Cantor’s theorem	cardinality; power set
@@ -10,7 +10,7 @@ fra-Latn-FR	théorème de Cantor	; cardinalité
 heb-Hebr-IL		; 
 hin-Deva-IN		; 
 ita-Latn-IT		; 
-jpn-Hrkt-JP	カントールのていり	のうど、カーディナリティ; 
+jpn-Hrkt-JP	カントールのていり	; のうど、カーディナリティ
 jpn-Jpan-JP	カントールの定理	；濃度、カーディナリティ
 kor-Hang-KR		; 
 kor-Kore-KR		; 

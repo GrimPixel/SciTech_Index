@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ 
-cmn-Hans-CN	速度	；速率；物体、物理实体
-cmn-Latn-CN	sùdù	; wùtǐ, wùlǐ shítǐ; sùlǜ
+cmn-Hans-CN	速度	；速率；物理实体、物体
+cmn-Latn-CN	sùdù	; sùlǜ; wùlǐ shítǐ, wùtǐ
 dan-Latn-DK		; ; 
 deu-Latn-DE	Geschwindigkeit	; Schnelligkeit; physikalischer Körper
 eng-Latn-US	velocity	directional derivative; physical body, physical object; speed
@@ -10,7 +10,7 @@ fra-Latn-FR	vecteur vitesse, vélocité	; corps [m] physique; vitesse
 heb-Hebr-IL		; ; 
 hin-Deva-IN		; ; 
 ita-Latn-IT		; ; 
-jpn-Hrkt-JP	そくど	; ぶったい; はやさ
+jpn-Hrkt-JP	そくど	; はやさ; ぶったい
 jpn-Jpan-JP	速度	；速さ；物体
 kor-Hang-KR		; ; 
 kor-Kore-KR		; ; 

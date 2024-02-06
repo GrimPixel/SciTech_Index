@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ ؛ 
 cmn-Hans-CN	紫外线	；；伦琴射线、X射线；暗盒、暗箱
-cmn-Latn-CN	zǐwàixiàn	Lúnqín shèxiàn, X shèxiàn; ànhé, ànxiāng; ; 
+cmn-Latn-CN	zǐwàixiàn	; ; Lúnqín shèxiàn, X shèxiàn; ànhé, ànxiāng
 dan-Latn-DK		; ; ; 
 deu-Latn-DE	Ultraviolettstrahlung	; ; Camera [f] obscura; Röntgenstrahl [m], Röntgenstrahlung
 eng-Latn-US	ultraviolet	X-radiation, X-ray; camera obscura [camerae obscurae]; electromagnetic radiation; spatial period, wavelength
@@ -10,7 +10,7 @@ fra-Latn-FR	ultraviolet	; ; chambre noire; rayon X
 heb-Hebr-IL		; ; ; 
 hin-Deva-IN		; ; ; 
 ita-Latn-IT		; ; ; 
-jpn-Hrkt-JP	しがいせん	エックスせん、レントゲンせん; カメラ・オブスクラ; ; 
+jpn-Hrkt-JP	しがいせん	; ; エックスせん、レントゲンせん; カメラ・オブスクラ
 jpn-Jpan-JP	紫外線	；；X線、レントゲン線せん；カメラ・オブスクラ
 kor-Hang-KR		; ; ; 
 kor-Kore-KR		; ; ; 

@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ 
 cmn-Hans-CN	电磁感应	磁场；电动势；电导体
-cmn-Latn-CN	diàncí gǎnyìng	diàndǎotǐ; diàndòngshì; cíchǎng
+cmn-Latn-CN	diàncí gǎnyìng	cíchǎng; diàndòngshì; diàndǎotǐ
 dan-Latn-DK		; ; 
 deu-Latn-DE	Faradaysche Induktion, elektromagnetische Induktion	Magnetfeld [n]; elektrischer Leiter; elektromotorische Kraft
 eng-Latn-US	electromagnetic induction, magnetic induction	electrical conductor; electromotance, electromotive force; magnetic field
@@ -10,7 +10,7 @@ fra-Latn-FR	induction électromagnétique	; conducteur d’électricité; force 
 heb-Hebr-IL		; ; 
 hin-Deva-IN		; ; 
 ita-Latn-IT		; ; 
-jpn-Hrkt-JP	でんじゆうどう	じば、でんきでんどうたい; きでんりょく; じかい
+jpn-Hrkt-JP	でんじゆうどう	きでんりょく; じかい、じば; でんきでんどうたい
 jpn-Jpan-JP	電磁誘導	起電力；磁界、磁場；電気伝導体
 kor-Hang-KR		; ; 
 kor-Kore-KR		; ; 

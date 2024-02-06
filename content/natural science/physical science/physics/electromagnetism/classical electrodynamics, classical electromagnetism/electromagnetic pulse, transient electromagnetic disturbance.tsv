@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ 
 cmn-Hans-CN	电磁脉冲	；；电流
-cmn-Latn-CN	diàncí màichōng	diànliú; ; 
+cmn-Latn-CN	diàncí màichōng	; ; diànliú
 dan-Latn-DK		; ; 
 deu-Latn-DE	elektromagnetische Impuls, elektromagnetische Puls	; ; elektrischer Strom
 eng-Latn-US	electromagnetic pulse, transient electromagnetic disturbance	electric current; electromagnetic energy; electromagnetic field
@@ -10,7 +10,7 @@ fra-Latn-FR	impulsion électromagnétique	; ; courant électrique
 heb-Hebr-IL		; ; 
 hin-Deva-IN		; ; 
 ita-Latn-IT		; ; 
-jpn-Hrkt-JP	でんじパルス	でんりゅう; ; 
+jpn-Hrkt-JP	でんじパルス	; ; でんりゅう
 jpn-Jpan-JP	電磁パルス	；；電流
 kor-Hang-KR		; ; 
 kor-Kore-KR		; ; 

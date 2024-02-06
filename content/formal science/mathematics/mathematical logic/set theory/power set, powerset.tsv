@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ 
 cmn-Hans-CN		；；空集
-cmn-Latn-CN		kōngjí; ; 
+cmn-Latn-CN		; ; kōngjí
 dan-Latn-DK		; ; 
 deu-Latn-DE		; ; leere Menge
 eng-Latn-US	power set, powerset	empty set; operation on a set; subset
@@ -10,7 +10,7 @@ fra-Latn-FR		; ; ensemble vide
 heb-Hebr-IL		; ; 
 hin-Deva-IN		; ; 
 ita-Latn-IT		; ; 
-jpn-Hrkt-JP		くうしゅうごう; ; 
+jpn-Hrkt-JP		; ; くうしゅうごう
 jpn-Jpan-JP		；；空集合
 kor-Hang-KR		; ; 
 kor-Kore-KR		; ; 

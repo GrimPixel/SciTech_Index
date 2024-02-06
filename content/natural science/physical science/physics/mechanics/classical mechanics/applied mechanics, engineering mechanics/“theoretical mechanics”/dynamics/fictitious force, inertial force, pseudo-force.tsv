@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	惯性力、假想力	非惯性参考系、非惯性坐标系、非惯性系；力
-cmn-Latn-CN	guànxìnglì, jiǎxiǎnglì	fēiguànxìng xì, fēiguànxìng zuòbiāoxì, lì; fēiguànxìng cānkǎoxì
+cmn-Latn-CN	guànxìnglì, jiǎxiǎnglì	fēiguànxìng cānkǎoxì, fēiguànxìng xì, fēiguànxìng zuòbiāoxì; lì
 dan-Latn-DK		; 
 deu-Latn-DE	Trägheitskraft [f]	Kraft [f]; Nicht-Inertialsystem [n], beschleunigtes Bezugssystem
 eng-Latn-US	fictitious force, inertial force, pseudo-force	force; non-inertial reference frame

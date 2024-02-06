@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	埃及分数	单位分数、分数单位；和
-cmn-Latn-CN	Āijí fēnshù	fēnshù dānwèi, hé; dānwèi fēnshù
+cmn-Latn-CN	Āijí fēnshù	dānwèi fēnshù, fēnshù dānwèi; hé
 dan-Latn-DK		; 
 deu-Latn-DE	Stammbruchzerlegung	Stammbruch [m]; Summe
 eng-Latn-US	Egyptian fraction	sum; unit fraction
@@ -10,7 +10,7 @@ fra-Latn-FR	fraction égyptienne	fraction unitaire; somme [f]
 heb-Hebr-IL		; 
 hin-Deva-IN		; 
 ita-Latn-IT		; 
-jpn-Hrkt-JP	エジプトしきぶんすう、エジプトぶんすう	わ; たんいぶんすう
+jpn-Hrkt-JP	エジプトしきぶんすう、エジプトぶんすう	たんいぶんすう; わ
 jpn-Jpan-JP	エジプト式分数、エジプト分数	単位分数；和
 kor-Hang-KR		; 
 kor-Kore-KR		; 

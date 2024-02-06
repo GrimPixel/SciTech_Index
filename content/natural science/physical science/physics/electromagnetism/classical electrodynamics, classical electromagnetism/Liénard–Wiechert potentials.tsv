@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ ؛ 
 cmn-Hans-CN	李纳-维谢势	；；；电荷
-cmn-Latn-CN	Lǐnà-Wéixiè shì	; diànhè; ; 
+cmn-Latn-CN	Lǐnà-Wéixiè shì	; ; ; diànhè
 dan-Latn-DK		; ; ; 
 deu-Latn-DE	Liénard-Wiechert-Potentiale	; ; ; Elektrizitätsmenge, elektrische Ladung
 eng-Latn-US	Liénard–Wiechert potentials	Lorenz gauge condition, Lorenz gauge; electric charge; scalar potential; vector potential
@@ -10,7 +10,7 @@ fra-Latn-FR	potentiels [m-pl] de Liénard-Wiechert	; ; ; charge [f] électrique
 heb-Hebr-IL		; ; ; 
 hin-Deva-IN		; ; ; 
 ita-Latn-IT		; ; ; 
-jpn-Hrkt-JP	リエナール・ヴィーヘルト・ポテンシャル	; かでん、でんか; ; 
+jpn-Hrkt-JP	リエナール・ヴィーヘルト・ポテンシャル	; ; ; かでん、でんか
 jpn-Jpan-JP	リエナール・ヴィーヘルト・ポテンシャル	；；；荷電、電荷
 kor-Hang-KR		; ; ; 
 kor-Kore-KR		; ; ; 

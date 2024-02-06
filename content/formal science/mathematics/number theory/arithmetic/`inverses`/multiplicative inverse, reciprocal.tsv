@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	乘法逆元、倒数	；乘法
-cmn-Latn-CN	chéngfǎ nìyuán, dàoshù	chéngfǎ; 
+cmn-Latn-CN	chéngfǎ nìyuán, dàoshù	; chéngfǎ
 dan-Latn-DK		; 
 deu-Latn-DE	Kehrwert [m], Reziproke [n], reziprokes Wert	; Multiplikation
 eng-Latn-US	multiplicative inverse, reciprocal	multiplication; reciprocation
@@ -10,7 +10,7 @@ fra-Latn-FR	inverse [m]	; multiplication
 heb-Hebr-IL		; 
 hin-Deva-IN		; 
 ita-Latn-IT		; 
-jpn-Hrkt-JP	ぎゃくすう	じょうほう; 
+jpn-Hrkt-JP	ぎゃくすう	; じょうほう
 jpn-Jpan-JP	逆数	；乗法
 kor-Hang-KR		; 
 kor-Kore-KR		; 

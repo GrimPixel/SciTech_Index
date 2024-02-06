@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ 
 cmn-Hans-CN	连分数、繁分数	；乘法逆元、倒数；整数
-cmn-Latn-CN	fánfēnshù, liánfēnshù	dàoshù, zhěngshù; ; chéngfǎ nìyuán
+cmn-Latn-CN	fánfēnshù, liánfēnshù	; chéngfǎ nìyuán, dàoshù; zhěngshù
 dan-Latn-DK		; ; 
 deu-Latn-DE	Kettenbruch [m]	; Ganzzahl [f], ganze Zahl; Kehrwert [m], Reziproke [n], reziprokes Wert
 eng-Latn-US	continued fraction	integer; iteration; multiplicative inverse, reciprocal
@@ -10,7 +10,7 @@ fra-Latn-FR	fraction continue	; enti; inverse [m]
 heb-Hebr-IL		; ; 
 hin-Deva-IN		; ; 
 ita-Latn-IT		; ; 
-jpn-Hrkt-JP	れんぶんすう	せいすう; ; ぎゃくすう
+jpn-Hrkt-JP	れんぶんすう	; ぎゃくすう; せいすう
 jpn-Jpan-JP	連分数	；逆数；整数
 kor-Hang-KR		; ; 
 kor-Kore-KR		; ; 

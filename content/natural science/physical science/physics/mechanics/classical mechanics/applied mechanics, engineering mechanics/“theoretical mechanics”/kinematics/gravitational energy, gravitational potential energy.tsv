@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	引力势能	势能、位能；引力、重力
-cmn-Latn-CN	yǐnlì shìnéng	wèìnéng, yǐnlì, zhònglì; shìnéng
+cmn-Latn-CN	yǐnlì shìnéng	shìnéng, wèìnéng; yǐnlì, zhònglì
 dan-Latn-DK		; 
 deu-Latn-DE	potentielle Gravitationsenergie	Gravitation, Gravitationskraft; Lageenergie, potentielle Energie, potenzielle Energie
 eng-Latn-US	gravitational energy, gravitational potential energy	gravitation, gravity; potential energy
@@ -10,7 +10,7 @@ fra-Latn-FR	énergie potentielle gravitationnelle	gravitation; énergie potentie
 heb-Hebr-IL		; 
 hin-Deva-IN		; 
 ita-Latn-IT		; 
-jpn-Hrkt-JP	じゅうりょくポテンシャルエネルギー	じゅうりょく; いちエネルギー
+jpn-Hrkt-JP	じゅうりょくポテンシャルエネルギー	いちエネルギー; じゅうりょく
 jpn-Jpan-JP	重力ポテンシャルエネルギー	位置エネルギー；重力
 kor-Hang-KR		; 
 kor-Kore-KR		; 

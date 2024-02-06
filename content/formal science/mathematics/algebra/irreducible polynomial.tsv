@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	不可约多项式	多项式；因式分解
-cmn-Latn-CN	bùkěyuē duōxiàngshì	yīnshì fēnjiě; duōxiàngshì
+cmn-Latn-CN	bùkěyuē duōxiàngshì	duōxiàngshì; yīnshì fēnjiě
 dan-Latn-DK		; 
 deu-Latn-DE	irreduzibles Polynom	Faktorisierung; Polynom [n]
 eng-Latn-US	irreducible polynomial	factoring, factorization; polynomial

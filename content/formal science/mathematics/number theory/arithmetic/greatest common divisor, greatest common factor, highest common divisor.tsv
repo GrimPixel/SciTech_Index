@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ 
 cmn-Hans-CN	最大公因数、最大公约数	除法；零；整数
-cmn-Latn-CN	zuìdà gōngyuēshù, zuìdà gōngyīnshù	chúfǎ; zhěngshù; líng
+cmn-Latn-CN	zuìdà gōngyuēshù, zuìdà gōngyīnshù	chúfǎ; líng; zhěngshù
 dan-Latn-DK		; ; 
 deu-Latn-DE	größter gemeinsamer Teiler	Division; Ganzzahl [f], ganze Zahl; Null [f]
 eng-Latn-US	greatest common divisor, greatest common factor, highest common divisor	division; integer; zero

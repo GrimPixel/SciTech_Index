@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ ؛ 
 cmn-Hans-CN	功、机械功	；；；力
-cmn-Latn-CN	gōng, jīxiègōng	; ; lì; 
+cmn-Latn-CN	gōng, jīxiègōng	; ; ; lì
 dan-Latn-DK		; ; ; 
 deu-Latn-DE	Arbeit	; ; ; Kraft [f]
 eng-Latn-US	work	displacement; energy; force; physical object
@@ -10,7 +10,7 @@ fra-Latn-FR	travail d’une force	; ; ; force
 heb-Hebr-IL		; ; ; 
 hin-Deva-IN		; ; ; 
 ita-Latn-IT		; ; ; 
-jpn-Hrkt-JP	しごと（りきがく）	; ; ちから; 
+jpn-Hrkt-JP	しごと（りきがく）	; ; ; ちから
 jpn-Jpan-JP	仕事（力学）	；；；力
 kor-Hang-KR		; ; ; 
 kor-Kore-KR		; ; ; 

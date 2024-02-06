@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	基本电荷、元电荷	；电荷
-cmn-Latn-CN	jīběn diànhè, yuándiànhè	diànhè; 
+cmn-Latn-CN	jīběn diànhè, yuándiànhè	; diànhè
 dan-Latn-DK		; 
 deu-Latn-DE	Elementarladung	; Elektrizitätsmenge, elektrische Ladung
 eng-Latn-US	elementary charge	electric charge; proton
@@ -10,7 +10,7 @@ fra-Latn-FR	charge élémentaire	; charge [f] électrique
 heb-Hebr-IL		; 
 hin-Deva-IN		; 
 ita-Latn-IT		; 
-jpn-Hrkt-JP	そでんか、でんかそりょう、でんきそりょう	かでん、でんか; 
+jpn-Hrkt-JP	そでんか、でんかそりょう、でんきそりょう	; かでん、でんか
 jpn-Jpan-JP	素電荷、電荷素量、電気素量	；荷電、電荷
 kor-Hang-KR		; 
 kor-Kore-KR		; 

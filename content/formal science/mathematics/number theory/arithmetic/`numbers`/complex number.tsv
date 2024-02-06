@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	复数	实数；虚数
-cmn-Latn-CN	fùshù	xūshù; shíshù
+cmn-Latn-CN	fùshù	shíshù; xūshù
 dan-Latn-DK		; 
 deu-Latn-DE	komplexe Zahl	imaginäre Zahl; reelle Zahl
 eng-Latn-US	complex number	imaginary number; real number

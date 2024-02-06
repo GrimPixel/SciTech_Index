@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	流体	；形变
-cmn-Latn-CN	liútǐ	xíngbiàn; 
+cmn-Latn-CN	liútǐ	; xíngbiàn
 dan-Latn-DK		; 
 deu-Latn-DE	Fluid [n]	; Deformation, Verformung, Verzerrung
 eng-Latn-US	fluid	deformation; shear stress
@@ -10,7 +10,7 @@ fra-Latn-FR	fluide [m]	; déformation des matériaux [m-pl]
 heb-Hebr-IL		; 
 hin-Deva-IN		; 
 ita-Latn-IT		; 
-jpn-Hrkt-JP	りゅうたい	へんけい; 
+jpn-Hrkt-JP	りゅうたい	; へんけい
 jpn-Jpan-JP	流体	；変形
 kor-Hang-KR		; 
 kor-Kore-KR		; 

@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	单位元、中立元	集、集合；二元运算
-cmn-Latn-CN	dānwèiyuán, zhōnglìyuán	jíhé, èryuán yùnsuàn; jí
+cmn-Latn-CN	dānwèiyuán, zhōnglìyuán	jí, jíhé; èryuán yùnsuàn
 dan-Latn-DK		; 
 deu-Latn-DE	neutrales Element	Menge; binäre Verknüpfung, zweistellige Verknüpfung
 eng-Latn-US	identity element, neutral element	binary operation, dyadic operation; set
@@ -10,7 +10,7 @@ fra-Latn-FR	élément identité, élément neutre	ensemble [m]; opération binai
 heb-Hebr-IL		; 
 hin-Deva-IN		; 
 ita-Latn-IT		; 
-jpn-Hrkt-JP	たんいげん、ちゅうりつげん	にこうえんざん; しゅうごう
+jpn-Hrkt-JP	たんいげん、ちゅうりつげん	しゅうごう; にこうえんざん
 jpn-Jpan-JP	単位元、中立元	集合；二項演算
 kor-Hang-KR		; 
 kor-Kore-KR		; 

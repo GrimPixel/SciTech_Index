@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ 
 cmn-Hans-CN	循环小数	零；无穷；小数表示法
-cmn-Latn-CN	xúnhuán xiǎoshù	xiǎoshù biǎoshìfǎ; wúqióng; líng
+cmn-Latn-CN	xúnhuán xiǎoshù	líng; wúqióng; xiǎoshù biǎoshìfǎ
 dan-Latn-DK		; ; 
 deu-Latn-DE	periodischer Dezimalbruch	Dezimaldarstellung; Null [f]; Unendlichkeit
 eng-Latn-US	recurring decimal, repeating decimal	decimal representation; infinity; zero

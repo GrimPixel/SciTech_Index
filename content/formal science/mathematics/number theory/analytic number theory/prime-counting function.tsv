@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	素数计数函数	；函数
-cmn-Latn-CN	sùshù jìshù hánshù	hánshù; 
+cmn-Latn-CN	sùshù jìshù hánshù	; hánshù
 dan-Latn-DK		; 
 deu-Latn-DE	Primzahlfunktion	; Funktion
 eng-Latn-US	prime-counting function	function; prime number

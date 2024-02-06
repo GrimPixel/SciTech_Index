@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ 
 cmn-Hans-CN	有理数	分母；分子（分数）；整数
-cmn-Latn-CN	yǒulǐshù	fēnmǔ; zhěngshù; fěnzǐ (fēnshù)
+cmn-Latn-CN	yǒulǐshù	fēnmǔ; fěnzǐ (fēnshù); zhěngshù
 dan-Latn-DK		; ; 
 deu-Latn-DE	rationale Zahl	Ganzzahl [f], ganze Zahl; Nenner; Zähler
 eng-Latn-US	rational number	denominator; integer; numerator
@@ -10,7 +10,7 @@ fra-Latn-FR	nombre rationnel	dénominateur; enti; numérateur
 heb-Hebr-IL		; ; 
 hin-Deva-IN		; ; 
 ita-Latn-IT		; ; 
-jpn-Hrkt-JP	ゆうりすう	ぶんぼ; せいすう; ぶんし（ぶんすう）
+jpn-Hrkt-JP	ゆうりすう	せいすう; ぶんし（ぶんすう）; ぶんぼ
 jpn-Jpan-JP	有理数	整数；分子（分数）；分母
 kor-Hang-KR		; ; 
 kor-Kore-KR		; ; 

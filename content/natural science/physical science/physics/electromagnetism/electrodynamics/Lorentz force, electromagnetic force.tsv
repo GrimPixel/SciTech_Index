@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ ؛ 
 cmn-Hans-CN	洛伦兹力	；点电荷；力；速度
-cmn-Latn-CN	Luòlúnzī lì	; lì; diǎndiànhè; sùdù
+cmn-Latn-CN	Luòlúnzī lì	; diǎndiànhè; lì; sùdù
 dan-Latn-DK		; ; ; 
 deu-Latn-DE	Lorentzkraft [f]	; Geschwindigkeit; Kraft [f]; Punktladung
 eng-Latn-US	Lorentz force, electromagnetic force	electromagnetic field; force; point charge; velocity
@@ -10,7 +10,7 @@ fra-Latn-FR	force [f] de Lorentz, force [f] électromagnétique	; ; force; vecte
 heb-Hebr-IL		; ; ; 
 hin-Deva-IN		; ; ; 
 ita-Latn-IT		; ; ; 
-jpn-Hrkt-JP	ローレンツりょく	; ちから; てんでんか; そくど
+jpn-Hrkt-JP	ローレンツりょく	; そくど; ちから; てんでんか
 jpn-Jpan-JP	ローレンツ力	；速度；力；点電荷
 kor-Hang-KR		; ; ; 
 kor-Kore-KR		; ; ; 

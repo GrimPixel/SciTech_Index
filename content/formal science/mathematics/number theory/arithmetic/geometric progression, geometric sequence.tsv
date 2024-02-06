@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	等比数列	零；序列
-cmn-Latn-CN	děngbǐ shùliè	xùliè; líng
+cmn-Latn-CN	děngbǐ shùliè	líng; xùliè
 dan-Latn-DK		; 
 deu-Latn-DE	geometrische Folge	Folge, Sequenz; Null [f]
 eng-Latn-US	geometric progression, geometric sequence	sequence; zero
@@ -10,7 +10,7 @@ fra-Latn-FR	suite [f] géométrique	suite [f] (mathématiques); zéro [m]
 heb-Hebr-IL		; 
 hin-Deva-IN		; 
 ita-Latn-IT		; 
-jpn-Hrkt-JP	きかすうれつ、とうひすうれつ	れつ（すうがく）; れい、ゼロ
+jpn-Hrkt-JP	きかすうれつ、とうひすうれつ	れい、ゼロ; れつ（すうがく）
 jpn-Jpan-JP	幾何数列、等比数列	零、ゼロ；列（数学）
 kor-Hang-KR		; 
 kor-Kore-KR		; 

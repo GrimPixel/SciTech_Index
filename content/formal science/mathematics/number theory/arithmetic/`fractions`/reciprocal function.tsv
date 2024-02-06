@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	互反函数	乘法逆元、倒数；函数
-cmn-Latn-CN	hùfǎn hánshù	dàoshù, hánshù; chéngfǎ nìyuán
+cmn-Latn-CN	hùfǎn hánshù	chéngfǎ nìyuán, dàoshù; hánshù
 dan-Latn-DK		; 
 deu-Latn-DE	Reziprokfunktion, reziproke Funktion	Funktion; Kehrwert [m], Reziproke [n], reziprokes Wert
 eng-Latn-US	reciprocal function	function; multiplicative inverse, reciprocal

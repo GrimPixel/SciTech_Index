@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	常数函数	；函数
-cmn-Latn-CN	chángshù hánshù	hánshù; 
+cmn-Latn-CN	chángshù hánshù	; hánshù
 dan-Latn-DK		; 
 deu-Latn-DE	konstante Funktion	; Funktion
 eng-Latn-US	constant function	function; mathematical constant

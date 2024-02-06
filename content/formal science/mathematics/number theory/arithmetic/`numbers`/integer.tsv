@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ ؛ 
 cmn-Hans-CN	整数	；零；正数；自然对数
-cmn-Latn-CN	zhěngshù	zìrán duìshù; ; zhèngshù; líng
+cmn-Latn-CN	zhěngshù	; líng; zhèngshù; zìrán duìshù
 dan-Latn-DK		; ; ; 
 deu-Latn-DE	Ganzzahl [f], ganze Zahl	; Null [f]; negative Zahl; positive Zahl
 eng-Latn-US	integer	negative number; number set, number system; positive number; zero
@@ -10,7 +10,7 @@ fra-Latn-FR	enti	; nombre [m] négatif; nombre positif; zéro [m]
 heb-Hebr-IL		; ; ; 
 hin-Deva-IN		; ; ; 
 ita-Latn-IT		; ; ; 
-jpn-Hrkt-JP	せいすう	せいのすう; れい、ふのすう; ; せいすう、ゼロ
+jpn-Hrkt-JP	せいすう	; せいすう、せいのすう; ふのすう; れい、ゼロ
 jpn-Jpan-JP	整数	；正数、正の数；負の数；零、ゼロ
 kor-Hang-KR		; ; ; 
 kor-Kore-KR		; ; ; 

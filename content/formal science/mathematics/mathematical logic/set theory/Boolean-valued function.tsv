@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ ؛ 
 cmn-Hans-CN		；布尔域；函数
-cmn-Latn-CN		Bù’ěr-yù; hánshù; 
+cmn-Latn-CN		; Bù’ěr-yù; hánshù
 dan-Latn-DK		; ; 
 deu-Latn-DE		; ; Funktion
 eng-Latn-US	Boolean-valued function	Boolean domain; function; value
@@ -10,7 +10,7 @@ fra-Latn-FR		; domaine booléen; fonction
 heb-Hebr-IL		; ; 
 hin-Deva-IN		; ; 
 ita-Latn-IT		; ; 
-jpn-Hrkt-JP		ブーリアンりょういき、ブールりょういき; ; 
+jpn-Hrkt-JP		; ; ブーリアンりょういき、ブールりょういき
 jpn-Jpan-JP		；；ブーリアン領域、ブール領域
 kor-Hang-KR		; ; 
 kor-Kore-KR		; ; 

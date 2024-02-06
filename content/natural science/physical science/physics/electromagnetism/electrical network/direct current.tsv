@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	直流电	；电流
-cmn-Latn-CN	zhíliúdiàn	diànliú; 
+cmn-Latn-CN	zhíliúdiàn	; diànliú
 dan-Latn-DK		; 
 deu-Latn-DE	Gleichstrom [m]	; elektrischer Strom
 eng-Latn-US	direct current	electric current; time
@@ -10,7 +10,7 @@ fra-Latn-FR	courant continu	; courant électrique
 heb-Hebr-IL		; 
 hin-Deva-IN		; 
 ita-Latn-IT		; 
-jpn-Hrkt-JP	ちょくりゅう	でんりゅう; 
+jpn-Hrkt-JP	ちょくりゅう	; でんりゅう
 jpn-Jpan-JP	直流	；電流
 kor-Hang-KR		; 
 kor-Kore-KR		; 

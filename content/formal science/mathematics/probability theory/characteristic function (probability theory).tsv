@@ -1,7 +1,7 @@
 locale	concept	prerequisite
 arb-Arab-ZZ		؛ 
 cmn-Hans-CN	特征函数（概率论）	；概率分布
-cmn-Latn-CN	tèzhēng hánshù (gàilǜ lùn)	gàilǜ fēnbù; 
+cmn-Latn-CN	tèzhēng hánshù (gàilǜ lùn)	; gàilǜ fēnbù
 dan-Latn-DK		; 
 deu-Latn-DE	charakteristische Funktion (Probabilistik)	; Wahrscheinlichkeitsmaß [n]
 eng-Latn-US	characteristic function (probability theory)	probability distribution; random variable
@@ -10,7 +10,7 @@ fra-Latn-FR	fonction caractéristique (théorie des probabilités)	; loi [f] de 
 heb-Hebr-IL		; 
 hin-Deva-IN		; 
 ita-Latn-IT		; 
-jpn-Hrkt-JP		かくりつぶんぷ; 
+jpn-Hrkt-JP		; かくりつぶんぷ
 jpn-Jpan-JP		；確率分布
 kor-Hang-KR		; 
 kor-Kore-KR		; 
