@@ -1,0 +1,25 @@
+locale	concept	prerequisite
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	应力-应变曲线	应变；应力
+cmn-Latn-CN	yìnglì-yìngbiàn qūxiàn	yìngbiàn; yìnglì
+dan-Latn-DK		; 
+deu-Latn-DE	Spannungs-Dehnungs-Diagramm [n]	Dehnung; Spannung
+eng-Latn-US	stress-strain curve	strain; stress
+fin-Latn-FI		; 
+fra-Latn-FR	courbe [f] de traction	; 
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	おうりょく-ひずみきょくせん、おうりょく-ひずみせんず	ひずみ; おうりょく
+jpn-Jpan-JP	応力-ひずみ曲線、応力-ひずみ線図	応力；ひずみ
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU	диагра́мма деформи́рования	; 
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
+zxx-Zmth-ZZ		

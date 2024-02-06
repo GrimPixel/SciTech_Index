@@ -1,0 +1,25 @@
+locale	concept	prerequisite
+arb-Arab-ZZ		
+cmn-Hans-CN	底数（进制）	进位计数法、进位制、位值计数法
+cmn-Latn-CN	dǐshù (jìnzhì)	jìnwèi jìshùfǎ, jìnwèizhì, wèizhí jìshùfǎ
+dan-Latn-DK		
+deu-Latn-DE	Basis [f], Grundzahl [f]	Stellenschreibweise
+eng-Latn-US	base, radix	place-value notation, positional notation, positional numeral system
+fin-Latn-FI		
+fra-Latn-FR	base (arithmétique)	notation positionnelle
+heb-Hebr-IL		
+hin-Deva-IN		
+ita-Latn-IT		
+jpn-Hrkt-JP	きすう（きすうほう）	くらいどりきすうほう
+jpn-Jpan-JP	基数（記数法）	位取り記数法
+kor-Hang-KR		
+kor-Kore-KR		
+nld-Latn-NL		
+nob-Latn-NO		
+pes-Aran-IR		
+por-Latn-PT		
+rus-Cyrl-RU	разря́д (пози́ция)	позиционная систе́ма счисле́ния
+spa-Latn-ES		
+swe-Latn-SE		
+tur-Latn-TR		
+zxx-Zmth-ZZ		

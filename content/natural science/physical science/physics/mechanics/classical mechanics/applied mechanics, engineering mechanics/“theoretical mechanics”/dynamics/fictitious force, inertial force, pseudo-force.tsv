@@ -1,0 +1,25 @@
+locale	concept	prerequisite
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	惯性力、假想力	非惯性参考系、非惯性坐标系、非惯性系；力
+cmn-Latn-CN	guànxìnglì, jiǎxiǎnglì	fēiguànxìng xì, fēiguànxìng zuòbiāoxì, lì; fēiguànxìng cānkǎoxì
+dan-Latn-DK		; 
+deu-Latn-DE	Trägheitskraft [f]	Kraft [f]; Nicht-Inertialsystem [n], beschleunigtes Bezugssystem
+eng-Latn-US	fictitious force, inertial force, pseudo-force	force; non-inertial reference frame
+fin-Latn-FI		; 
+fra-Latn-FR	force [f] d’inertie, force fictive, force inertielle, pseudo-force [f]	force; référentiel non galiléen, référentiel non inertiel
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	かんせいりょく、みかけのちから	ちから; ひかんせいさんしょうフレーム
+jpn-Jpan-JP	慣性力、見掛けの力	力；非慣性参照フレーム
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU	инерцио́нная си́ла, си́ла ине́рции	неинерциа́льная систе́ма отсчёта; си́ла
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
+zxx-Zmth-ZZ		

@@ -1,0 +1,25 @@
+locale	concept	prerequisite
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	规矩数、可造数	尺规作图；实数
+cmn-Latn-CN	guījǔshù, kězàoshù	chǐguī zuòtú; shíshù
+dan-Latn-DK		; 
+deu-Latn-DE	konstruierbare Zahl	Konstruktion mit Zirkel und Lineal [n]; reelle Zahl
+eng-Latn-US	constructible number	Euclidean construction, classical construction, ruler-and-compass construction, straightedge-and-compass construction; real number
+fin-Latn-FI		; 
+fra-Latn-FR	nombre [m] constructible	construction à la règle et au compas; nombre réel
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP		じょうぎとコンパスによるさくず; じっすう
+jpn-Jpan-JP		実数；定規とコンパスによる作図
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU		веще́ственное числó; построе́ния с по́мощью ци́ркуля и лине́йки
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
+zxx-Zmth-ZZ		

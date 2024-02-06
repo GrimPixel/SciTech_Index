@@ -1,0 +1,25 @@
+locale	concept	prerequisite
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	工程计数法	；幂、指数
+cmn-Latn-CN	gōngchéng jìshùfǎ	; mì, zhǐshù
+dan-Latn-DK		; 
+deu-Latn-DE	technische Notation	; Exponent [m], Hochzahl [f]
+eng-Latn-US	engineering notation, technical notation	coeficient; exponent
+fin-Latn-FI		; 
+fra-Latn-FR	notation ingénieur	; exposant
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP		; べきしすう
+jpn-Jpan-JP		；冪指数
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU	инжене́рная нота́ция	; 
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
+zxx-Zmth-ZZ		

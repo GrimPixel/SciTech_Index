@@ -1,0 +1,25 @@
+locale	concept	prerequisite
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	下取整函数	函数；向下取整
+cmn-Latn-CN	xiàqǔzhěng hánshù	hánshù; xiàngxià qǔzhěng
+dan-Latn-DK		; 
+deu-Latn-DE	Abrundungsfunktion	Abrunden; Funktion
+eng-Latn-US	floor function	function; rounding down, rounding towards negative infinity
+fin-Latn-FI		; 
+fra-Latn-FR		; fonction
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	ゆかかんすう	; 
+jpn-Jpan-JP	床関数	；
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU		; 
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
+zxx-Zmth-ZZ		

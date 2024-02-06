@@ -1,0 +1,25 @@
+locale	concept	prerequisite
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	加法逆元、相反数	加法；零
+cmn-Latn-CN	jiāfǎ nìyuán, xiāngfǎnshù	jiāfǎ; líng
+dan-Latn-DK		; 
+deu-Latn-DE	Gegenzahl [f]	Addition; Null [f]
+eng-Latn-US	additive inverse, negation, opposite	addition; zero
+fin-Latn-FI		; 
+fra-Latn-FR	opposé	addition; zéro [m]
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	はんすう	かさん、かほう、たしざん、よせざん; れい、ゼロ
+jpn-Jpan-JP	反数	加算、加法、足し算、寄せ算；零、ゼロ
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU	противополо́жное число́	ноль [м], нуль [м]; прибавле́ние, сложе́ние
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
+zxx-Zmth-ZZ		

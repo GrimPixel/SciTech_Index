@@ -1,0 +1,25 @@
+locale	concept	prerequisite
+arb-Arab-ZZ		
+cmn-Hans-CN	互质数	除数
+cmn-Latn-CN	hùzhìshù	chúshù
+dan-Latn-DK		
+deu-Latn-DE	teilerfremde Zahlen [f-pl]	Divisor
+eng-Latn-US	coprime numbers, mutually prime numbers, relatively prime numbers	divisor
+fin-Latn-FI		
+fra-Latn-FR	nombres [m-pl] premiers entre eux	diviseur
+heb-Hebr-IL		
+hin-Deva-IN		
+ita-Latn-IT		
+jpn-Hrkt-JP	たがいにそ	じょすう
+jpn-Jpan-JP	互いに素	除数
+kor-Hang-KR		
+kor-Kore-KR		
+nld-Latn-NL		
+nob-Latn-NO		
+pes-Aran-IR		
+por-Latn-PT		
+rus-Cyrl-RU	взаи́мно просты́е чи́сла	дели́тель
+spa-Latn-ES		
+swe-Latn-SE		
+tur-Latn-TR		
+zxx-Zmth-ZZ		

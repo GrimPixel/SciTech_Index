@@ -1,0 +1,25 @@
+locale	concept	prerequisite
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	既约分数、最简分数	除数；整数
+cmn-Latn-CN	jìyuē fēnshù, zuìjiǎn fēnshù	chúshù; zhěngshù
+dan-Latn-DK		; 
+deu-Latn-DE	gekürzter Bruch	Divisor; Ganzzahl [f], ganze Zahl
+eng-Latn-US	fraction in lowest terms, irreducible fraction, reduced fraction, simplest form	divisor; integer
+fin-Latn-FI		; 
+fra-Latn-FR	fraction irréductible	diviseur; enti
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	きやくぶんすう	じょすう; せいすう
+jpn-Jpan-JP	既約分数	除数；整数
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU	несократи́мая дробь	дели́тель; це́лое число́
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
+zxx-Zmth-ZZ		

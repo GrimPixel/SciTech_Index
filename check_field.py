@@ -1,10 +1,12 @@
 from glob import glob
 from pathlib import Path
+from library import s_get_content_directory
 
 
 ls_file_path_with_mismatching_field = []
 top_path = Path.cwd()
-for s_file_path in glob(f'{top_path}/**/*.tsv', recursive=True):
+content_path = top_path.joinpath(s_get_content_directory())
+for s_file_path in glob(f'{content_path}/**/*.tsv', recursive=True):
 	ls_line = Path(s_file_path).read_text().splitlines()
 	ls_line.pop(0)
 	for s_line in ls_line:

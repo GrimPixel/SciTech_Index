@@ -1,0 +1,25 @@
+locale	concept	prerequisite
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	惯性参考系、惯性系、惯性坐标系	开普勒第一定律、轨道定律、椭圆定律；参考系、坐标系
+cmn-Latn-CN	guànxìng cānkǎoxì, guànxìng zuòbiāoxì, guànxìngxì	Kāipǔlè dìyī dìnglǜ, guǐdào dìnglǜ, tuǒyuán dìnglǜ; cānkǎoxì, zuòbiāoxì
+dan-Latn-DK		; 
+deu-Latn-DE	Inertialsystem [n]	Bezugssystem [n]; erstes keplersches Gesetz
+eng-Latn-US	Galilean reference frame, inertial frame, inertial frame of reference, inertial reference frame	Kepler’s first law; frame of reference, reference frame
+fin-Latn-FI		; 
+fra-Latn-FR	référentiel galiléen, référentiel inertiel	loi des orbites, première loi de Kepler; référentiel
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	かんせいけい	きじゅんざひょうけい、さんしょうけい、だえんきどうのほうそく、ケプラーのだいいちほうそく; きじゅんけい
+jpn-Jpan-JP	慣性系	基準系、基準座標系、参照系；楕円軌道の法則、ケプラーの第一法則
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU	инерциа́льная систе́ма отсчёта	зако́н э́ллипсов, пе́рвый зако́н Ке́плера; систе́ма отсчёта
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
+zxx-Zmth-ZZ		

@@ -1,6 +1,6 @@
 from glob import glob
 from pathlib import Path
-from library import s_get_principal_locale, s_get_synonym_separator, s_get_subject_header, ls_get_all_locale, ls_get_separated_item
+from library import s_get_content_directory, s_get_principal_locale, s_get_synonym_separator, s_get_subject_header, ls_get_all_locale, ls_get_separated_element
 
 
 s_principal_locale = s_get_principal_locale()
@@ -10,14 +10,13 @@ for s_locale in ls_all_locale:
 	s_text += s_locale + '\t\n'
 
 top_path = Path.cwd()
-for s_directory_path in glob(f'{top_path}/**/*/', recursive=True):
-	if '__pycache__' in s_directory_path:
-		continue
+content_path = top_path.joinpath(s_get_content_directory())
+for s_directory_path in glob(f'{content_path}/**/*/', recursive=True):
 	s_subject = s_directory_path[s_directory_path.rstrip('/').rfind('/')+1:].rstrip('/')
 	s_synonym_separator = s_get_synonym_separator(s_principal_locale, s_subject)
 
 	if s_synonym_separator in s_subject:
-		ls_subject = ls_get_separated_item(s_synonym_separator, s_subject)
+		ls_subject = ls_get_separated_element(s_synonym_separator, s_subject)
 		for i_subject_index in range(len(ls_subject)):
 			ls_subject[i_subject_index] = '_' + ls_subject[i_subject_index] + '_'
 		s_subject = s_synonym_separator.join(ls_subject)

@@ -1,0 +1,25 @@
+locale	concept	prerequisite
+arb-Arab-ZZ		؛ ؛ 
+cmn-Hans-CN	元数	；数；运算数、运算元
+cmn-Latn-CN	yuánshù	; shù; yùnsuànshù, yùnsuànyuán
+dan-Latn-DK		; ; 
+deu-Latn-DE	Arität, Stelligkeit	; Operand [m]; Zahl [f] (abstrakte Identität)
+eng-Latn-US	arity	argument of a function; number (abstract identity); operand
+fin-Latn-FI		; ; 
+fra-Latn-FR	arité	; nombre [m]; opérande [m]
+heb-Hebr-IL		; ; 
+hin-Deva-IN		; ; 
+ita-Latn-IT		; ; 
+jpn-Hrkt-JP	こうすう、アリティ	; かず; ひえんざんし
+jpn-Jpan-JP	項数、アリティ	；数；被演算子
+kor-Hang-KR		; ; 
+kor-Kore-KR		; ; 
+nld-Latn-NL		; ; 
+nob-Latn-NO		; ; 
+pes-Aran-IR		؛ ؛ 
+por-Latn-PT		; ; 
+rus-Cyrl-RU	а́рность	; опера́нд; число́ (абстра́ктная иденти́чность)
+spa-Latn-ES		; ; 
+swe-Latn-SE		; ; 
+tur-Latn-TR		; ; 
+zxx-Zmth-ZZ		

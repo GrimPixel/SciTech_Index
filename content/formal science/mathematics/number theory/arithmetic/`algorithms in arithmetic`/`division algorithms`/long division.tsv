@@ -1,0 +1,25 @@
+locale	concept	prerequisite
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	长除法	除法；整数
+cmn-Latn-CN	chángchúfǎ	chúfǎ; zhěngshù
+dan-Latn-DK		; 
+deu-Latn-DE	Standardmethode der schriftlichen Division	Division; Ganzzahl [f], ganze Zahl
+eng-Latn-US	long division	division; integer
+fin-Latn-FI		; 
+fra-Latn-FR	division posée	division; enti
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	ちょうじょほう	じょざん、じょほう、わりざん; せいすう
+jpn-Jpan-JP	長除法	除算、除法、割り算；整数
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU		деле́ние; це́лое число́
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
+zxx-Zmth-ZZ		

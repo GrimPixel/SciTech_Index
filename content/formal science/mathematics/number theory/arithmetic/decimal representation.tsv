@@ -1,0 +1,25 @@
+locale	concept	prerequisite
+arb-Arab-ZZ		؛ ؛ 
+cmn-Hans-CN	小数表示法	非负数；实数；序列
+cmn-Latn-CN	xiǎoshù biǎoshìfǎ	fēifùshù; shíshù; xùliè
+dan-Latn-DK		; ; 
+deu-Latn-DE	Dezimaldarstellung	Folge, Sequenz; nichtnegative Zahl; reelle Zahl
+eng-Latn-US	decimal representation	non-negative number; real number; sequence
+fin-Latn-FI		; ; 
+fra-Latn-FR	développement décimal	nombre [m] non négatif; nombre réel; suite [f] (mathématiques)
+heb-Hebr-IL		; ; 
+hin-Deva-IN		; ; 
+ita-Latn-IT		; ; 
+jpn-Hrkt-JP	しょうすうひょうきほう	ふでないすう; じっすう; れつ（すうがく）
+jpn-Jpan-JP	小数表記法	実数；負でない数；列（数学）
+kor-Hang-KR		; ; 
+kor-Kore-KR		; ; 
+nld-Latn-NL		; ; 
+nob-Latn-NO		; ; 
+pes-Aran-IR		؛ ؛ 
+por-Latn-PT		; ; 
+rus-Cyrl-RU	десяти́чное представле́ние	веще́ственное числó; неотрица́тельное число́; после́довательность
+spa-Latn-ES		; ; 
+swe-Latn-SE		; ; 
+tur-Latn-TR		; ; 
+zxx-Zmth-ZZ		

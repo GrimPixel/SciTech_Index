@@ -1,0 +1,25 @@
+locale	concept	prerequisite
+arb-Arab-ZZ		
+cmn-Hans-CN	粗差、粗大误差、过失误差、毛误差	测量误差、观测误差
+cmn-Latn-CN	cūchā, cūdà wùchā, guòshī wùchā, máowùchā	cèliáng wùchā, guāncè wùchā
+dan-Latn-DK		
+deu-Latn-DE	grober Fehler	Messabweichung
+eng-Latn-US	gross error	measurement error, observational error
+fin-Latn-FI		
+fra-Latn-FR		erreur de mesure
+heb-Hebr-IL		
+hin-Deva-IN		
+ita-Latn-IT		
+jpn-Hrkt-JP	かしつごさ	けいそくきき
+jpn-Jpan-JP	過失誤差	計測機器
+kor-Hang-KR		
+kor-Kore-KR		
+nld-Latn-NL		
+nob-Latn-NO		
+pes-Aran-IR		
+por-Latn-PT		
+rus-Cyrl-RU	гру́бая погре́шность	погре́шность измере́ния
+spa-Latn-ES		
+swe-Latn-SE		
+tur-Latn-TR		
+zxx-Zmth-ZZ		

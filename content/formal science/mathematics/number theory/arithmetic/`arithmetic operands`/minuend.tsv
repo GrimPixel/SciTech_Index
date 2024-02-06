@@ -1,0 +1,25 @@
+locale	concept	prerequisite
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	被减数	减法；运算数、运算元
+cmn-Latn-CN	bèijiǎnshù	yùnsuànshù, yùnsuànyuán; jiǎnfǎ
+dan-Latn-DK		; 
+deu-Latn-DE	Minuend [m]	Operand [m]; Subtraktion
+eng-Latn-US	minuend	operand; subtraction
+fin-Latn-FI		; 
+fra-Latn-FR	diminuende [m]	opérande [m]; soustraction
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	ひかれるすう、ひげんすう	ひえんざんし; げんぽう
+jpn-Jpan-JP	引かれる数、被減数	減法；被演算子
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ تَفریق، مِنها
+por-Latn-PT		; 
+rus-Cyrl-RU	уменьша́емое	вычита́ние; опера́нд
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
+zxx-Zmth-ZZ		

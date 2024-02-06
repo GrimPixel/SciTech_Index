@@ -1,0 +1,25 @@
+locale	concept	prerequisite
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	指算法	十进制；四则运算
+cmn-Latn-CN	zhǐsuànfǎ	shíjìnzhì; sìzé yùnsuàn
+dan-Latn-DK		; 
+deu-Latn-DE	Chisanbop [n]	Dezimalsystem [n], Zehnersystem [n], dekadisches System; Grundrechenarten [f-pl], Grundrechnungsarten [f-pl]
+eng-Latn-US	chisanbop	base-10, decimal; basic operations
+fin-Latn-FI		; 
+fra-Latn-FR		opérations élémentaires; système décimal
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	ゆびさんぽう	じっしんほう、じゅっしんほう; しそくえんざん
+jpn-Jpan-JP	指算法	四則演算；十進法
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU		десяти́чная систе́ма счисле́ния; основны́м де́йствиям
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
+zxx-Zmth-ZZ		

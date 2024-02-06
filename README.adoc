@@ -13,7 +13,7 @@ Simple ways of the visualisation are
 * Synonyms are sorted in alphabetic order;
 * Diacritics are included;
 * Pitch accents are included;
-* Transcriptions for ideograms are included;
+* Transcriptions for logograms are included;
 * Noun genders are included and omitted if indicated by the affix or the inflection;
 * Proper names are excluded;
 * Names of non-basic chemical substances are excluded;

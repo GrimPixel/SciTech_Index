@@ -1,0 +1,25 @@
+locale	concept	prerequisite
+arb-Arab-ZZ		
+cmn-Hans-CN	常用对数	底数（对数）、基数（对数）
+cmn-Latn-CN	chángyòng duìshù	dǐshù (duìshù), jīshù (duìshù)
+dan-Latn-DK		
+deu-Latn-DE	Zehnerlogarithmus, dekadischer Logarithmus	Basis [f] (Logarithmus)
+eng-Latn-US	common logarithm, decimal logarithm	base (logarithm)
+fin-Latn-FI		
+fra-Latn-FR	logarithme décimal	base [f] (logarithme)
+heb-Hebr-IL		
+hin-Deva-IN		
+ita-Latn-IT		
+jpn-Hrkt-JP	じょうようたいすう	てい（たいすうえんざん）
+jpn-Jpan-JP	常用対数	底（対数演算）
+kor-Hang-KR		
+kor-Kore-KR		
+nld-Latn-NL		
+nob-Latn-NO		
+pes-Aran-IR		
+por-Latn-PT		
+rus-Cyrl-RU	десяти́чный логари́фм	основа́нием (логари́фм)
+spa-Latn-ES		
+swe-Latn-SE		
+tur-Latn-TR		
+zxx-Zmth-ZZ		

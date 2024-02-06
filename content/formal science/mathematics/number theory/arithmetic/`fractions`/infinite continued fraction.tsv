@@ -1,0 +1,25 @@
+locale	concept	prerequisite
+arb-Arab-ZZ		
+cmn-Hans-CN	无限连分数	连分数、繁分数
+cmn-Latn-CN	wúxiàn liánfēnshù	fánfēnshù, liánfēnshù
+dan-Latn-DK		
+deu-Latn-DE	unendlicher Kettenbruch	Kettenbruch [m]
+eng-Latn-US	infinite continued fraction	continued fraction
+fin-Latn-FI		
+fra-Latn-FR	fraction continue infinie	fraction continue
+heb-Hebr-IL		
+hin-Deva-IN		
+ita-Latn-IT		
+jpn-Hrkt-JP	むげんれんぶんすう	れんぶんすう
+jpn-Jpan-JP	無限連分数	連分数
+kor-Hang-KR		
+kor-Kore-KR		
+nld-Latn-NL		
+nob-Latn-NO		
+pes-Aran-IR		
+por-Latn-PT		
+rus-Cyrl-RU	бесконе́чная цепна́я дробь	непреры́вная дробь, цепна́я дробь
+spa-Latn-ES		
+swe-Latn-SE		
+tur-Latn-TR		
+zxx-Zmth-ZZ		

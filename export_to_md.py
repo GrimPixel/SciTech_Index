@@ -1,6 +1,6 @@
 from glob import glob
 from pathlib import Path
-from library import s_get_nonsynonym_separator, s_get_principal_locale
+from library import s_get_content_directory, s_get_nonsynonym_separator, s_get_principal_locale
 
 
 s_export_directory = 'Markdown'
@@ -8,8 +8,9 @@ s_export_directory = 'Markdown'
 s_principal_locale = s_get_principal_locale()
 
 top_path = Path.cwd()
+content_path = top_path.joinpath(s_get_content_directory())
 top_path.joinpath(s_export_directory).mkdir(exist_ok=True)
-for s_file_path in glob(f'{top_path}/**/*.tsv', recursive=True):
+for s_file_path in glob(f'{content_path}/**/*.tsv', recursive=True):
 	ls_line = Path(s_file_path).read_text().splitlines()
 	s_header = '|' + ls_line.pop(0).replace('\t', '|') + '|\n|' + '-|'*(ls_line[0].count('\t')+1) + '\n'
 

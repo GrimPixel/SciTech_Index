@@ -38,13 +38,16 @@ def s_get_subject_header():
 def s_get_concept_header():
 	return 'locale\tconcept\tprerequisite'
 
+def s_get_content_directory():
+	return 'content'
+
 def s_get_synonym_separator(s_locale, s_text):
 	s_language, s_writing_system, s_region = s_locale.split('-')
 	if s_writing_system in ['Arab', 'Aran']:
 		return '، '
 	elif s_writing_system == 'Bamu':
 		return '꛵ '
-	elif s_writing_system in ['Bopo', 'Hrkt']:
+	elif s_writing_system in ['Bopo', 'Hani', 'Hans', 'Hant', 'Hrkt']:
 		if '，' in s_text:
 			return '，'
 		return '、'
@@ -92,7 +95,7 @@ def s_get_nonsynonym_separator(s_locale, s_text):
 		return '𝪉'
 	return '; '
 
-def s_get_phonetic_writing_system_for_ideograph(s_locale):
+def s_get_coupled_phonetic_writing_system_for_logogram(s_locale):
 	s_language, s_writing_system, s_region = s_locale.split('-')
 	if s_language in ['cdo', 'cjy', 'cmn', 'cpx', 'cnp', 'csp', 'czh', 'czo', 'gan', 'hak', 'hsn', 'mnp', 'nan', 'wuu', 'yue']:
 		if s_region == 'TW' and s_language == 'cmn':
@@ -106,7 +109,7 @@ def s_get_phonetic_writing_system_for_ideograph(s_locale):
 		return 'Latn'
 	return ''
 
-def ls_get_separated_item(s_separator, s_entry):
+def ls_get_separated_element(s_separator, s_entry):
 	if '｛' in s_entry:
 		s_escapement = ['｛', '｝']
 	else:

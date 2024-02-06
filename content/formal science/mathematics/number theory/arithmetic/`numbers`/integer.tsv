@@ -1,0 +1,25 @@
+locale	concept	prerequisite
+arb-Arab-ZZ		؛ ؛ ؛ 
+cmn-Hans-CN	整数	；零；正数；自然对数
+cmn-Latn-CN	zhěngshù	zìrán duìshù; ; zhèngshù; líng
+dan-Latn-DK		; ; ; 
+deu-Latn-DE	Ganzzahl [f], ganze Zahl	; Null [f]; negative Zahl; positive Zahl
+eng-Latn-US	integer	negative number; number set, number system; positive number; zero
+fin-Latn-FI		; ; ; 
+fra-Latn-FR	enti	; nombre [m] négatif; nombre positif; zéro [m]
+heb-Hebr-IL		; ; ; 
+hin-Deva-IN		; ; ; 
+ita-Latn-IT		; ; ; 
+jpn-Hrkt-JP	せいすう	せいのすう; れい、ふのすう; ; せいすう、ゼロ
+jpn-Jpan-JP	整数	；正数、正の数；負の数；零、ゼロ
+kor-Hang-KR		; ; ; 
+kor-Kore-KR		; ; ; 
+nld-Latn-NL		; ; ; 
+nob-Latn-NO		; ; ; 
+pes-Aran-IR		؛ ؛ ؛ 
+por-Latn-PT		; ; ; 
+rus-Cyrl-RU	це́лое число́	; ноль [м], нуль [м]; отрица́тельное число́; число́ положи́тельно
+spa-Latn-ES		; ; ; 
+swe-Latn-SE		; ; ; 
+tur-Latn-TR		; ; ; 
+zxx-Zmth-ZZ	ZZ, ص	

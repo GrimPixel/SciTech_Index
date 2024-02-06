@@ -1,0 +1,25 @@
+locale	concept	prerequisite
+arb-Arab-ZZ		
+cmn-Hans-CN	数量级	整数
+cmn-Latn-CN	shùliàngjí	zhěngshù
+dan-Latn-DK		
+deu-Latn-DE	Größenordnung	Ganzzahl [f], ganze Zahl
+eng-Latn-US	order of magnitude	integer
+fin-Latn-FI		
+fra-Latn-FR	ordre [m] de grandeur [f]	enti
+heb-Hebr-IL		
+hin-Deva-IN		
+ita-Latn-IT		
+jpn-Hrkt-JP	けた	せいすう
+jpn-Jpan-JP	桁	整数
+kor-Hang-KR		
+kor-Kore-KR		
+nld-Latn-NL		
+nob-Latn-NO		
+pes-Aran-IR		
+por-Latn-PT		
+rus-Cyrl-RU	поря́док величи́ны	це́лое число́
+spa-Latn-ES		
+swe-Latn-SE		
+tur-Latn-TR		
+zxx-Zmth-ZZ		

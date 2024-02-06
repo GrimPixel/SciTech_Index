@@ -1,0 +1,25 @@
+locale	concept	prerequisite
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	上取整函数	函数；向上取整
+cmn-Latn-CN	shàngqǔzhěng hánshù	hánshù; xiàngshàng qǔzhěng
+dan-Latn-DK		; 
+deu-Latn-DE	Aufrundungsfunktion	Aufrunden; Funktion
+eng-Latn-US	ceiling function	function; rounding towards positive infinity, rounding up
+fin-Latn-FI		; 
+fra-Latn-FR		; fonction
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	てんじょうかんすう	; 
+jpn-Jpan-JP	天井関数	；
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU		; 
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
+zxx-Zmth-ZZ		

@@ -1,0 +1,25 @@
+locale	concept	prerequisite
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	角速度	；
+cmn-Latn-CN	jiǎosùdù	; 
+dan-Latn-DK		; 
+deu-Latn-DE	Drehgeschwindigkeit, Rotationsgeschwindigkeit, Winkelgeschwindigkeit	; 
+eng-Latn-US	angular frequency vector, angular velocity, rotational velocity	angular position, orientation; axial vector, pseudovector
+fin-Latn-FI		; 
+fra-Latn-FR	vitesse angulaire, vitesse de rotation	; 
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	かくそくど	; 
+jpn-Jpan-JP	角速度	；
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU	углова́я ско́рость	; 
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
+zxx-Zmth-ZZ	bbomega, vecomega	

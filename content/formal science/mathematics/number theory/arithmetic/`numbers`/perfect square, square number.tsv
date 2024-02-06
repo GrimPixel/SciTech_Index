@@ -1,0 +1,25 @@
+locale	concept	prerequisite
+arb-Arab-ZZ		؛ 
+cmn-Hans-CN	平方数、完全平方数、正方形数	平方；整数
+cmn-Latn-CN	píngfǎngshù, wánquán píngfāng shù, zhèngfāngxíng shù	zhěngshù; píngfāng
+dan-Latn-DK		; 
+deu-Latn-DE	Quadratzahl [f], Viereckszahl [f]	Ganzzahl [f], ganze Zahl; Quadrat [n] (Algebra)
+eng-Latn-US	perfect square, square number	integer; square (algebra)
+fin-Latn-FI		; 
+fra-Latn-FR	carré parfait	carré (algèbre); enti
+heb-Hebr-IL		; 
+hin-Deva-IN		; 
+ita-Latn-IT		; 
+jpn-Hrkt-JP	しかくすう、せいほうけいすう、へいほうすう	せいすう; じじょう、にじょう、へいほう
+jpn-Jpan-JP	四角数、正方形数、平方数	自乗、二乗、平方；整数
+kor-Hang-KR		; 
+kor-Kore-KR		; 
+nld-Latn-NL		; 
+nob-Latn-NO		; 
+pes-Aran-IR		؛ 
+por-Latn-PT		; 
+rus-Cyrl-RU	квадра́тное число́, по́лный квадра́т, та́кже то́чный квадра́т	квадра́т (а́лгебра); це́лое число́
+spa-Latn-ES		; 
+swe-Latn-SE		; 
+tur-Latn-TR		; 
+zxx-Zmth-ZZ		
