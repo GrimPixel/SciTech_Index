@@ -85,7 +85,7 @@ def s_get_nonsynonym_separator(s_locale, s_text):
 		return '․ '
 	elif s_writing_system == 'Bamu':
 		return '꛶ '
-	elif s_writing_system in ['Bopo', 'Hani', 'Hans', 'Hant', 'Jpan']:
+	elif s_writing_system in ['Bopo', 'Hani', 'Hans', 'Hant', 'Hrkt', 'Jpan']:
 		return '；'
 	elif s_writing_system == 'Grek':
 		return '· '
