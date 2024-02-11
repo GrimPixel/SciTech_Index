@@ -5,8 +5,8 @@ This collection contains scientific and technical terms with their prerequisites
 * Check the uniquity of an entry by running `python check_entry_uniquity`;
 * Convert TSV files to Markdown by running `python convert_to_md.py`;
 * Sort names by running `python sort_name.py`;
-* Update locales by editing `update_locale.py` and running `python update_locale.py`;
-* Update prerequisites by editing `update_prerequisite.py` and running `python update_prerequisite.py`;
+* Update locales by editing `library.py` and running `python update_locale.py`;
+* Update prerequisites by running `python update_prerequisite.py`;
 
 Simple ways of the visualisation:
 * https://foambubble.github.io/[Foam] for https://vscodium.com/[VSCodium]
